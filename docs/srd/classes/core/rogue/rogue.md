@@ -114,7 +114,7 @@ Added a scaling attack roll bonus that only applies where sneak attack would app
 :::
 
 ## Trapfinding (Ex)
-At 1st level, a Rogue gains [Trapfinding](/docs/srd/feats/skill-feats/trapfinding) as a bonus feat, even if she does not meet the prerequisites. If the Rogue already has Trapfinding, she instead gains a skill feat for which she meets the prerequisites.
+At 1st level, a Rogue gains *Trapfinding* as a bonus feat, even if she does not meet the prerequisites. If the Rogue already has Trapfinding, she instead gains a skill feat for which she meets the prerequisites.
 
 In addition, when using the Trapfinding feat, a Rogue gains a bonus on Perception skill checks made to locate traps and to all Disable Device skill checks equal to 1/2 her Rogue level (minimum +1).
 
@@ -132,7 +132,7 @@ Talents marked with an asterisk add effects to a Rogue’s sneak attack. Only on
 
 A Rogue cannot choose a ninja trick with the same name as a Rogue talent.
 
-A complete listing of Rogue talents can be found here: [Rogue Talents](/docs/srd/classes/core-classes/Rogue/Rogue-talents/#rogue-talents-1)
+A complete listing of Rogue talents can be found here: [Rogue Talents](/docs/srd/classes/core-classes/Rogue/Rogue-talents/#rogue-talents)
 
 :::info[Changes]
 Mutliple Rogue Talent changes to interact with the new guile pool.

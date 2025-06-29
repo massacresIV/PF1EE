@@ -122,7 +122,7 @@ Favored Enemy choices can now be changed once per week.
 :::
 
 ## Track (Ex)
-At 1st level, a Ranger gains [Track](docs\srd\feats\skill-feats\track) as a bonus feat, even if he does not meet the prerequisites. If the Ranger already has Track, he instead gains a skill feat for which he meets the prerequisites.
+At 1st level, a Ranger gains *Track* as a bonus feat, even if he does not meet the prerequisites. If the Ranger already has Track, he instead gains a skill feat for which he meets the prerequisites.
 
 In addition, when using the Track feat, a Ranger gains a bonus on Survival checks made to follow tracks equal to 1/2 his Ranger level (minimum +1).
 
@@ -131,7 +131,7 @@ Track changed into a skill feat. Skill bonus tethered to class. Feat redundancy 
 :::
 
 ## Wild Empathy (Ex)
-At 1st level, a Ranger gains the [Wild Empathy](docs\srd\feats\skill-feats\wild-empathy) feat as a bonus feat, even if he does not meet the prerequisites. If the Ranger already possesses Wild Empathy, he instead gains a skill feat for which he meets the prerequisites.
+At 1st level, a Ranger gains the *Wild Empathy* feat as a bonus feat, even if he does not meet the prerequisites. If the Ranger already possesses Wild Empathy, he instead gains a skill feat for which he meets the prerequisites.
 
 In addition, when using the Wild Empathy feat, the Ranger adds a bonus equal to half his Ranger level (minimum +1) on Handle Animal checks made to improve a creature’s attitude.
 

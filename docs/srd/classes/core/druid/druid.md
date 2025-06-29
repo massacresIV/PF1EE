@@ -144,7 +144,7 @@ A druid who selects a domain gains access to one cleric domain from the followin
 The druid uses her druid level as her effective cleric level when determining the powers and bonus spells granted by the domain. She also receives additional domain spell slots, just like a cleric. She must prepare the spell from her domain in these slots, and cannot use them to cast spells spontaneously.
 
 ### Druidic Herbalism
-A druid who selects this bond gains [Brew Potion](/docs/srd/feats/item-creation-feats/brew-potion) as a bonus feat, even if she does not meet the prerequisites. However, instead of crafting standard potions, she creates **Herbal Concoctions**—thick, sludgy brews made from roots, herbs, berries, and natural ingredients. Herbal concoctions function in all ways like potions created using *Brew Potion*, with the following modifications:
+A druid who selects this bond gains *Brew Potion* as a bonus feat, even if she does not meet the prerequisites. However, instead of crafting standard potions, she creates **Herbal Concoctions**—thick, sludgy brews made from roots, herbs, berries, and natural ingredients. Herbal concoctions function in all ways like potions created using *Brew Potion*, with the following modifications:
 
 - **Concoction Type:** All potions created by the druid using this ability are herbal concoctions. They function identically to potions but are visibly and materially different. Herbal concoctions may also preserve the natural effects of any herbs used in their creation. NPCs unfamiliar with druidic traditions may require persuasion to recognize their value.
 - **Free Concoctions:** The druid can create a number of herbal concoctions per day equal to her Wisdom modifier (minimum 1) without cost. Creating each of these free concoctions takes **10 minutes**, regardless of spell level. These concoctions must be created using spells the druid can cast.
@@ -165,7 +165,7 @@ At 7th level, her mastery grows:
 At 1st level, a druid’s deep connection to the natural world grants her a +2 bonus on Knowledge (Nature) and Survival checks.
 
 ## Wild Empathy (Ex)
-At 1st level, a Druid gains the [Wild Empathy](docs\srd\feats\skill-feats\wild-empathy) feat as a bonus feat, even if she does not meet the prerequisites. If the Druid already possesses Wild Empathy, she instead gains a skill feat for which she meets the prerequisites.
+At 1st level, a Druid gains the *Wild Empathy* feat as a bonus feat, even if she does not meet the prerequisites. If the Druid already possesses Wild Empathy, she instead gains a skill feat for which she meets the prerequisites.
 
 In addition, when using the Wild Empathy feat, the Druid adds a bonus equal to half her Druid level (minimum +1) on Handle Animal checks made to improve a creature’s attitude.
 

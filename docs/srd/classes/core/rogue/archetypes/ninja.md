@@ -32,7 +32,7 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 ---
 ## Poison Use
-At 1st level, a Ninja gains [Poison Use](/docs/srd/feats/skill-feats/poison-use) as a bonus feat, even if she does not meet the prerequisites.
+At 1st level, a Ninja gains *Poison Use* as a bonus feat, even if she does not meet the prerequisites.
 
 <u>This ability replaces Trapfinding.</u>
 
