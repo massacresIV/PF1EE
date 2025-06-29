@@ -3,11 +3,10 @@ sidebar_position: 1
 hide_table_of_contents: true
 ---
 import Admonition from '@theme/Admonition';
-import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # Barbarian
 <figure className="artworkFigure">
-  <img src={useBaseUrl('/img/artwork/classes/Barbarian.png')} alt="Barbarian Class Artwork" />
+  <img src={useBaseUrl('PF1EE/img/artwork/classes/Barbarian.png')} alt="Barbarian Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 The barbarian is a brutal berserker from beyond the edge of civilized lands.
