@@ -146,7 +146,7 @@ A bard is proficient with all simple weapons, plus the longsword, rapier, sap, s
 </div>
 
 :::info[Changes]
-Improved Spells Known progression.
+Improved Spells Per Day and Spells Known progression.
 :::
 
 ## Bardic Knowledge (Ex)
