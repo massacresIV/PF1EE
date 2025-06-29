@@ -132,7 +132,7 @@ Talents marked with an asterisk add effects to a Rogue’s sneak attack. Only on
 
 A Rogue cannot choose a ninja trick with the same name as a Rogue talent.
 
-A complete listing of Rogue talents can be found here: [Rogue Talents](/docs/srd/classes/core-classes/Rogue/Rogue-talents/#rogue-talents)
+A complete listing of Rogue talents can be found here: [Rogue Talents](/docs/srd/classes/core/rogue/rogue-talents)
 
 :::info[Changes]
 Mutliple Rogue Talent changes to interact with the new guile pool.
@@ -176,7 +176,7 @@ If a character already has uncanny dodge from another class, the levels from the
 ## Advanced Talents
 At 10th level and every 2 levels thereafter, a Rogue can choose one of the following advanced talents in place of a Rogue talent.
 
-A complete listing of Rogue advanced talents can be found here: [Rogue Advanced Talents](/docs/srd/classes/core-classes/Rogue/Rogue-talents/#advanced-rogue-talents)
+A complete listing of Rogue advanced talents can be found here: [Rogue Advanced Talents](/docs/srd/classes/core/rogue/rogue-talents)
 
 ## Master Strike (Ex)
 At 20th level, an Rogue becomes incredibly deadly when dealing sneak attack damage. Each time the Rogue deals sneak attack damage, she can choose one of the following three effects: the target can be put to sleep for 1d4 hours, paralyzed for 2d6 rounds, or slain. Regardless of the effect chosen, the target can attempt a Fortitude save to negate the additional effect. The DC of this save is equal to 10 + 1/2 the Rogue’s level + the Rogue’s Dexterity modifier. Once a creature has been the target of a master strike, regardless of whether or not the save is successful, that creature is immune to that Rogue’s master strike for 24 hours. Creatures that are immune to sneak attack damage are also immune to this ability.

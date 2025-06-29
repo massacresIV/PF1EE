@@ -52,7 +52,7 @@ Duration scales now scales with Sneak Attack.
 :::
 ---
 ## Black Market Connections
-**Benefit:** The rogue gains [Black Market Dealings](docs\srd\feats\skill-feats\black-market-dealings.md) as a bonus feat, even if she does not meet the prerequisites. She treats every settlement as one size greater for the purpose of determining the gp limit of the base value of items for sale, as well as the number of minor, medium, and major magic items for sale in the settlement. If the settlement is already a metropolis, all minor and medium magic items are for sale, as well as 3d8 major magic items.
+**Benefit:** The rogue gains *Black Market Dealings* as a bonus feat, even if she does not meet the prerequisites. She treats every settlement as one size greater for the purpose of determining the gp limit of the base value of items for sale, as well as the number of minor, medium, and major magic items for sale in the settlement. If the settlement is already a metropolis, all minor and medium magic items are for sale, as well as 3d8 major magic items.
 
 When she succeeds on a Diplomacy check to locate merchants with deeper pockets in a black market or settlement, she instead treats the settlement as two sizes larger. If the settlement is already a metropolis and she succeeds at the check, all magic items are for sale. If the settlement is already a large city and she succeeds at the check, all minor and medium magic items are for sale, as well as 3d8 major magic items.
 
@@ -102,7 +102,7 @@ Now a flat bonus to Perception.
 ---
 
 ## Card Sharp (Su)
-**Benefit:** The rogue gains [Deadly Dealer](docs\srd\feats\general-feats\deadly-dealer.md) as a bonus feat, even if she does not meet the prerequisites. Thrown cards are treated as darts, but the rogue cannot imbue cards with additional power unless she has the Arcane Strike feat. This talent otherwise functions as the Deadly Dealer feat.
+**Benefit:** The rogue gains *Deadly Dealer* as a bonus feat, even if she does not meet the prerequisites. Thrown cards are treated as darts, but the rogue cannot imbue cards with additional power unless she has the Arcane Strike feat. This talent otherwise functions as the Deadly Dealer feat.
 
 ---
 
