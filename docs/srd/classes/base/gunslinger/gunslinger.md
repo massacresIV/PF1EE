@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Gunslinger
 <figure className="artworkFigure">
-  <img src="PF1EE/img/artwork/classes/Gunslinger.png" alt="Gunslinger Class Artwork" />
+  <img src={useBaseUrl('/img/artwork/classes/Gunslinger.png')} alt="Gunslinger Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 For a renegade few, battle sounds different than it does for the typical fighter. The clash of steel and the sizzle of spell energy are drowned out by the thunderous rhythm of gunfire—the pounding beat of the gunslinger.

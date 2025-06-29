@@ -9,7 +9,7 @@ hide_table_of_contents: true
   style={{ textAlign: 'center', marginRight: '5rem', marginLeft: '1rem' }}
 >
   <img
-    src="PF1EE/img/artwork/classes/Investigator.png"
+    src={useBaseUrl('/img/artwork/classes/Investigator.png')}
     alt="Investigator Class Artwork"
     style={{
       height: '600px',

@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Vigilante
 <figure className="artworkFigure">
-  <img src="PF1EE/img/artwork/classes/Vigilante.png" alt="Viglante Class Artwork" />
+  <img src={useBaseUrl('/img/artwork/classes/Vigilante.png')} alt="Viglante Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 Life can be unfair. Think of the starving peasants forced to toil for the local baron or the common laborers tasked with building the king’s newest palace for a mere handful of copper pieces each week. There are those who see these injustices and do nothing. There are those who are willing to reap the rewards obtained through the suffering of others. Then there are those who see inequality and find themselves driven to take action, outside the law if necessary. These vigilantes operate in plain sight, hiding behind respectable personas by day, but donning alternate guises by night to right the wrongs they see all around them.

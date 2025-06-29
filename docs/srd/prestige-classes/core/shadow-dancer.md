@@ -3,7 +3,7 @@ hide_table_of_contents: true
 ---
 # Shadow Dancer
 <figure className="artworkFigure">
-  <img src="PF1EE/img/artwork/prestige-classes/Shadow Dancer.png" alt="Shadow Dancer Prestige Class Artwork" />
+  <img src={useBaseUrl('/img/artwork/prestige-classes/Shadow Dancer.png')} alt="Shadow Dancer Prestige Class Artwork" />
   <figcaption className="artworkCaption">Art by Jason Engle</figcaption>
 </figure>
 Civilized folk have always feared the night, barring themselves behind doors or comforting themselves with bonfires when the shadows grow long, rightfully wary of the creatures that prowl the darkness. Yet long ago, some learned that the best way to conquer an enemy is to embrace it. These were the first shadowdancers.

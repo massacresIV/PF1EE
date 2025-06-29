@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Champion
 <figure className="artworkFigure">
-  <img src="PF1EE/img/artwork/classes/Champion.png" alt="Champion Class Artwork" />
+  <img src={useBaseUrl('/img/artwork/classes/Champion.png')} alt="Champion Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 The will of a deity made manifest, the Champion smites foes and is afforded divine protection.

@@ -9,7 +9,7 @@ hide_table_of_contents: true
   style={{ textAlign: 'center', marginRight: '5rem', marginLeft: '1rem' }}
 >
   <img
-    src="PF1EE/img/artwork/classes/Skald.png"
+    src={useBaseUrl('/img/artwork/classes/Skald.png')}
     alt="Skald Class Artwork"
     style={{
       height: '550px',

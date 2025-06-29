@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Bard
 <figure className="artworkFigure">
-  <img src="PF1EE/img/artwork/classes/Bard.png" alt="Bard Class Artwork" />
+  <img src={useBaseUrl('/img/artwork/classes/Bard.png')} alt="Bard Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 The bard uses skill and spell alike to bolster his allies, confound his enemies, and build upon his fame.

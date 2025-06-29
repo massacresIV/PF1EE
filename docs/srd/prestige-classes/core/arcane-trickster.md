@@ -2,7 +2,7 @@
 hide_table_of_contents: true
 ---
 # Arcane Trickster
-<img src="PF1EE/img/artwork/prestige-classes/Arcane Trickster.png" style={{ float: 'right', marginLeft: '1rem', width: '400px' }} />
+<img src={useBaseUrl('/img/artwork/prestige-classes/Arcane Trickster.png')} style={{ float: 'right', marginLeft: '1rem', width: '400px' }} />
 Few can match the guile and craftiness of Arcane Tricksters. These prodigious thieves blend the subtlest aspects of the arcane with the natural cunning of the bandit and the scoundrel, using spells to enhance their natural thieving abilities. Arcane Tricksters can pick locks, disarm traps, and lift purses from a safe distance using their magical legerdemain, and as often as not seek humiliation as a goal to triumph over their foes than more violent solutions.
 
 The path to becoming an Arcane Trickster is a natural progression for rogues who have supplemented their talents for theft with the study of the arcane. Multiclass rogue/sorcerers and rogue/bards are the most common Arcane Tricksters, although other combinations are possible. Arcane Tricksters are most often found in large, cosmopolitan cities where their talents for magical larceny can be most effectively put to use, prowling the streets and stealing from the unwary.

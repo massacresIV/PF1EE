@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Shifter
 <figure className="artworkFigure">
-  <img src="PF1EE/img/artwork/classes/Shifter.png" alt="Shifter Class Artwork" />
+  <img src={useBaseUrl('/img/artwork/classes/Shifter.png')} alt="Shifter Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 Whether riding on the wind as a falcon or hiding in some fetid bog waiting to strike, the shifter is a true master of the wild. Both a devoted defender of druidic circles and a fierce predator, the shifter can take on the forms of nature and even fuse them together with devastating effect and unbridled savagery. By way of the druidic discipline of wild shape, they become living aspects of the wild. At first, they are able to assume only a minor aspect, but with time and practice they can fully transform into ever more powerful forms.

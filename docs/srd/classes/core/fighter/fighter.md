@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Fighter
 <figure className="artworkFigure">
-  <img src="PF1EE/img/artwork/classes/Fighter.png" alt="Fighter Class Artwork" />
+  <img src={useBaseUrl('/img/artwork/classes/Fighter.png')} alt="Fighter Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 Brave and stalwart, the fighter is a master of all manner of arms and armor.

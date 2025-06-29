@@ -2,7 +2,7 @@
 hide_table_of_contents: true
 ---
 # Mystic Theurge
-<img src="PF1EE/img/artwork/prestige-classes/Mystic Theurge.png" style={{ float: 'right', marginLeft: '1rem', width: '400px' }} />
+<img src={useBaseUrl('/img/artwork/prestige-classes/Mystic Theurge.png')} style={{ float: 'right', marginLeft: '1rem', width: '400px' }} />
 
 <table class="classTable">
     <thead>

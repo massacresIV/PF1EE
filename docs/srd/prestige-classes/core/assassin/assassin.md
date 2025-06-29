@@ -3,7 +3,7 @@ hide_table_of_contents: true
 ---
 # Assassin
 <figure className="artworkFigure">
-  <img src="PF1EE/img/artwork/prestige-classes/Assassin.png" alt="Assassin Prestige Class Artwork" />
+  <img src={useBaseUrl('/img/artwork/prestige-classes/Assassin.png')} alt="Assassin Prestige Class Artwork" />
   <figcaption className="artworkCaption">Art by Jason Engle</figcaption>
 </figure>
 A mercenary undertaking his task with cold, professional detachment, the assassin is equally adept at espionage, bounty hunting, and terrorism. At his core, an assassin is an artisan, and his medium is death. Trained in a variety of killing techniques, assassins are among the most feared classes.

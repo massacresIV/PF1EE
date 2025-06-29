@@ -9,7 +9,7 @@ hide_table_of_contents: true
   style={{ textAlign: 'center', marginRight: '5rem', marginLeft: '1rem' }}
 >
   <img
-    src="PF1EE/img/artwork/classes/Swashbuckler.png"
+    src={useBaseUrl('/img/artwork/classes/Swashbuckler.png')}
     alt="Swashbuckler Class Artwork"
     style={{
       height: '550px',

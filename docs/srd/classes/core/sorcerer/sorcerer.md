@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Sorcerer
 <figure className="artworkFigure">
-  <img src="PF1EE/img/artwork/classes/Sorcerer.png" alt="Sorcerer Class Artwork" />
+  <img src={useBaseUrl('/img/artwork/classes/Sorcerer.png')} alt="Sorcerer Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 The spellcasting sorcerer is born with aninnate knack for magic and has strange, eldritch powers.
