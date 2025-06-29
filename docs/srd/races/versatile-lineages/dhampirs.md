@@ -47,7 +47,7 @@ When selecting lineage traits, you can choose from those available to your race 
 
 Graveborn are dhampirs—creatures born of mortal blood and undead sin. Caught between life and death, they inherit a paradox of existence: breathing, yet touched by the grave. Whether the result of a vampire’s cursed bite upon an unborn child or a darker union best left unspoken, Graveborn walk the world with beauty that chills and a soul forever shadowed.
 
-- **Cursed Grace:** Graveborn possess a haunting beauty and unnatural agility. They gain +2 Dexterity**, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Dexterity or Charisma.
+- **Cursed Grace:** Graveborn possess a haunting beauty and unnatural agility. They gain +2 Dexterity, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Dexterity or Charisma.
 
 - **Blood Without Decay:** Death does not claim a Graveborn easily. They take no penalties from energy drain effects, though they can still be killed if they accrue more negative levels than they have Hit Dice. After 24 hours, any negative levels they possess are removed automatically without requiring a saving throw.
 
