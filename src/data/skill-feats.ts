@@ -67,16 +67,6 @@ export const skillFeats = [
 **Benefit:** You get a +1 bonus on Climb and Swim skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +2 for that skill.`,    
     },
     {
-        id: "athletic",
-        name: "Athletic",
-        categories: ["Skill Feats"],
-        changes: `Bonus down from +2/+4 to +1/+2.`,
-        markdownContent: `# Athletic
-*You possess inherent physical prowess.*
-
-**Benefit:** You get a +1 bonus on Climb and Swim skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +2 for that skill.`,    
-    },
-    {
         id: "breadth-of-experience",
         name: "Breadth of Experience",
         categories: ["Skill Feats"],

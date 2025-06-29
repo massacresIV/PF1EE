@@ -13,6 +13,7 @@ As an ancient people, elves have seen great change and have the perspective that
 ## Elf Details
 - **Type:** Elves are Humanoids with the Elf subtype.
 - **Size:** Elves are Medium creatures and thus receive no bonuses or penalties due to their size.
+- **Hit Points:** Elves gain an additional 4 hit points at 1st level.
 - **Speed:** Elves have a base speed of 30 feet.
 - **Languages:** Elves begin play speaking Common and Elven. Elves with high Intelligence scores can choose from the following: Celestial, Draconic, Gnoll, Gnome, Goblin, Orc, and Sylvan.
 

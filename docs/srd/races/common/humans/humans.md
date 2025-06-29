@@ -9,6 +9,7 @@ import { humanRacialTraits } from "@site/src/data/racial-traits/human";
 ## Human Details
 - **Type:** Humans are Humanoids with the Human subtype.
 - **Size:**  Humans are Medium creatures and thus receive no bonuses or penalties due to their size.
+- **Hit Points:** Humans gain an additional 6 hit points at 1st level.
 - **Speed:** Humans have a base speed of 30 feet.
 - **Languages:** Humans begin play speaking Common. Humans with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).
 

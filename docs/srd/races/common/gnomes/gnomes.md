@@ -5,6 +5,7 @@
 ## Gnome Details
 - **Type:** Gnomes are Humanoid creatures with the Gnome subtype.
 - **Size:** Gnomes are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.
+- **Hit Points:** Gnomes gain an additional 4 hit points at 1st level.
 - **Speed:** Gnomes have a base speed of 30 feet.
 - **Languages:** Gnomes begin play speaking Common, Gnome, and Sylvan. Gnomes with high Intelligence scores can choose from the following: Draconic, Dwarven, Elven, Giant, Goblin, and Orc.
 
