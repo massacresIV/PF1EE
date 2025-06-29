@@ -9,7 +9,7 @@ hide_table_of_contents: true
   style={{ textAlign: 'center', marginRight: '5rem', marginLeft: '1rem' }}
 >
   <img
-    src="/img/artwork/classes/Warpriest.png"
+    src="PF1EE/img/artwork/classes/Warpriest.png"
     alt="Warpriest Class Artwork"
     style={{
       height: '550px',

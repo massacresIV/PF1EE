@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Alchemist
 <figure className="artworkFigure">
-  <img src="/img/artwork/classes/Alchemist.png" alt="Alchemist Class Artwork" />
+  <img src="PF1EE/img/artwork/classes/Alchemist.png" alt="Alchemist Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 The alchemist is the master of alchemy, using extracts to grant him great power, mutagens to enhance his form, and bombs to destroy his enemies.

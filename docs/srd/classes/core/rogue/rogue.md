@@ -6,7 +6,7 @@ hide_table_of_contents: true
 # Rogue
 <figure className="artworkFigure" style={{ textAlign: 'center' }}>
   <img
-    src="/img/artwork/classes/Rogue.png"
+    src="PF1EE/img/artwork/classes/Rogue.png"
     alt="Rogue Class Artwork"
     style={{
       maxHeight: '500px',   // Caps how tall it can be

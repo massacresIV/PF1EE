@@ -2,7 +2,7 @@
 hide_table_of_contents: true
 ---
 # Duelist
-<img src="/img/artwork/prestige-classes/Duelist.png" style={{ float: 'right', marginLeft: '1rem', width: '400px' }} />
+<img src="PF1EE/img/artwork/prestige-classes/Duelist.png" style={{ float: 'right', marginLeft: '1rem', width: '400px' }} />
 
 **Hit Die:** d10.
 

@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Monk
 <figure className="artworkFigure">
-  <img src="/img/artwork/classes/Monk.png" alt="Monk Class Artwork" />
+  <img src="PF1EE/img/artwork/classes/Monk.png" alt="Monk Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 A student of martial arts, the Monk trains his body to be his greatest weapon and defense.

@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Cleric
 <figure className="artworkFigure">
-  <img src="/img/artwork/classes/Cleric.png" alt="Cleric Class Artwork" />
+  <img src="PF1EE/img/artwork/classes/Cleric.png" alt="Cleric Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 A devout follower of a deity, the Cleric can heal wounds, raise the dead, and call down the wrath of the gods.

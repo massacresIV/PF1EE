@@ -9,7 +9,7 @@ hide_table_of_contents: true
   style={{ textAlign: 'center', marginRight: '5rem', marginLeft: '1rem' }}
 >
   <img
-    src="/img/artwork/prestige-classes/Lich Ascendant.png"
+    src="PF1EE/img/artwork/prestige-classes/Lich Ascendant.png"
     alt="Lich Ascendant Prestige Class Artwork"
     style={{
       height: '550px',

@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Wizard
 <figure className="artworkFigure">
-  <img src="/img/artwork/classes/Wizard.png" alt="Wizard Class Artwork" />
+  <img src="PF1EE/img/artwork/classes/Wizard.png" alt="Wizard Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 The wizard masters magic through constant study that gives him incredible magical power.
