@@ -1,32 +1,16 @@
 # Dhampirs
 
-Dhampirs are the haunted children of the living and the undead—born of mortal mothers and vampire fathers. Their existence straddles two worlds: one beating with fragile warmth, the other cloaked in the cold stillness of undeath. Whether conceived through dark seduction, predatory violence, or arcane corruption, dhampirs are creatures of sorrow and contradiction. Most are unwanted. Few are understood.
+Dhampirs are the mournful offspring of mortal and vampire—born of flesh, yet forever touched by undeath. Most are conceived in shadow: the result of a vampire’s predation, a profane ritual, or a curse passed through blood. Whether raised in orphanages, by cloistered monks, or in the wild margins of civilization, dhampirs grow up haunted by what they are—and what they are not.
 
-Tales whisper that a dhampir is born not only from blood, but from tragedy—that the very act of their birth drains the vitality from their mother. Many do not survive. Those that do often abandon their pale, fanged children in fear or horror, leaving them to grow in orphanages, monasteries, or the shadows of forgotten places.
+Though they inherit the vitality of the living, dhampirs bear the mark of undeath in their slow heartbeats, sallow skin, and unsettling stillness. They move with preternatural grace and speak with voices that seem both melodic and distant. Though some pass for human at a glance, they are rarely mistaken for one for long—their presence chills rooms, and their eyes glint too brightly in the dark.
 
-**Bloodbound Dissonance:** From the moment they draw breath, dhampirs carry a burden no mortal child can comprehend. Their undead heritage makes them immune to the passage of time in ways that baffle even elves, yet they remain undeniably mortal—capable of dying, loving, bleeding. They cast reflections and draw breath, yet flinch from sunlight and recoil at the presence of holy symbols. This duality gnaws at them. Many feel a hollow longing they cannot name—a yearning for something that neither life nor death can satisfy.
+**Born of Dissonance:** Dhampirs exist between two worlds but belong to neither. They walk in sunlight but shrink from it, breathe like mortals but are healed by death’s magic. This paradox shapes their lives in strange ways: some hide from their nature, others embrace it, and a rare few take up arms against the very undead that begot them.
 
-As they mature, dhampirs become more aware of their unnatural nature. Their hearts beat slower. Their wounds knit faster. They hunger—not for sustenance, but for something more primal: power, vengeance, blood. Most suppress it. Some indulge it. A rare few seek to master it.
+**Gravebound Origins:** No two dhampirs are quite alike. Their inherited traits reflect the nature of their vampiric progenitor—cruel moroi, bestial strigoi, or reclusive nosferatu—resulting in eerie gifts such as unnatural charm, resilience to death magic, or piercing senses. These features often emerge fully during adolescence, especially near graveyards, ruins, or places steeped in sorrow.
 
-**Living Shadows:** A dhampir’s presence is magnetic and unsettling. Slender and statuesque, they move with a grace that seems rehearsed by instinct, not training. Their eyes glint in dim light, and their voices often carry a melodious lilt that can charm or unnerve. Skin tones range from ghastly pale to bruised violet, and their elongated canines—though not true fangs—hint at a hunger best left unspoken.
+**Wandering Shadows:** Dhampirs rarely find community among their kin. Some walk alone out of choice; others, from necessity. Whether seeking vengeance, knowledge, or purpose, they often become rogues, necromancers, inquisitors, or slayers—drawn to lives where understanding death becomes survival.
 
-Some dhampirs can pass for human at a glance, but the illusion never lasts long. There is always something uncanny in their gaze or manner—something that makes strangers clutch charms, cross thresholds, or lock doors a little sooner.
-
-**The Curse of Memory:** Dhampirs are born to no culture and raised in none of their own. They learn to adapt quickly, to survive on wit and charm, or else on steel and shadow. Many find solace in old ruins, forgotten libraries, or the edge of civilization—where questions are few and secrets are currency.
-
-Still, the past haunts them. Whether it is a mother’s silence, a village’s cruelty, or the memory of fangs in the dark, a dhampir often walks with ghosts. Some are literal. Others are not.
-
-**Bloodlines and Burdens:** Not all dhampirs are the same. Some inherit the cold elegance of nosferatu, others the cruel charm of moroi. Some radiate death like a fog, while others drain warmth from the air itself. These traits often emerge unpredictably, especially in places soaked in sorrow, near graveyards, or during the long hours before dawn.
-
-Though most dhampirs are sterile, their lineage still echoes forward—many of their children, if born at all, are marked by strange magic, cursed fates, or the undead bloodline in sorcery.
-
-**Loners and Wanderers:** Dhampirs rarely gather. When they do, it is in secret—cults, cabals, or desperate alliances forged not out of kinship but necessity. Most choose solitude, fearing that their curse may one day turn inward or lash out at those they care for. Others become hunters, seeking out the undead as if in vengeance for their own nature.
-
-Their path is often that of the rogue, the inquisitor, or the necromancer—professions where knowledge of death becomes a weapon and survival is the first commandment.
-
-**Monsters or Martyrs:** For every dhampir who succumbs to the darkness within, another rises to defy it. They are champions of the night, slayers of their own kind, or caretakers of graveyards. But even the most virtuous dhampir walks with a shadow at their side, and no act of heroism can fully cleanse the stain of their origin.
-
-They are creatures of contrast—living shadows who haunt the borders between light and dark, life and death, hope and despair.
+Forever straddling life and death, dhampirs are the children of contradiction: monsters in the flesh, martyrs in the making, and shadows born of blood and grief.
 
 ---
 
