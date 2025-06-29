@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpf_1_ee=self.webpackChunkpf_1_ee||[]).push([[1718],{481:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/PF1EE/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
