@@ -1,0 +1,15 @@
+---
+hide_table_of_contents: true
+---
+
+import React from "react";
+import FeatTable from "@site/src/components/FeatTable";
+import { combatFeats } from "@site/src/data/combat-feats";
+import { generalFeats } from "@site/src/data/general-feats";
+import { skillFeats } from "@site/src/data/skill-feats";
+import { itemcreationFeats } from "@site/src/data/item-creation-feats";
+
+# Feats
+
+<FeatTable feats={[...combatFeats, ...generalFeats, ...skillFeats, ...itemcreationFeats]} />
+

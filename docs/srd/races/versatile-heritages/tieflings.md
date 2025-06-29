@@ -1,0 +1,17 @@
+# Tieflings
+To play a character with a Tiefling heritage, first select your race, just like you would for any character. You gain hit points, type, size, speed, languages, heritage traits, and other abilities from that race. Then, instead of choosing a heritage from those normally available to that race, apply your chosen Tiefling heritage. You gain all the features from your Tiefling heritage, some of which might modify or replace statistics, abilities, or traits from your race.
+
+**When you apply a Tiefling heritage, your creature type changes to Outsider (native),** while retaining any racial subtypes, creature size, and racial traits associated with your base race (e.g., Dwarf, Elf, Human). You are treated as an Outsider for the purpose of spells, special abilities, and effects that interact with creature types. However, you are still considered your base race for the purposes of feat prerequisites, bane, favored enemy, and other abilities that interact with creature subtypes.
+
+Since a Tiefling heritage is a heritage, you can only apply one, and you cannot take another heritage in addition to your Tiefling heritage.
+
+When selecting heritage traits, you can choose from those available to your race as well as those available to your Tiefling heritage.
+
+---
+
+## Hellspawn
+Stalwart and conniving, diabolical Tieflings know the discipline and might of Hell’s legions. Hellspawn gain the following Heritage Traits;
+
+- **Devil Descended (0 RP):** Descended from devils, Hellspawn are hardy and shrewd, but their infernal blood leaves them grim and unnerving. They gain +2 Constitution, +2 Wisdom, and –2 Charisma.
+- **Infernal Resistance (1 RP):** Hellspawn have Fire resistance 5.
+- **Hellish Magic (2 RP)**: Hellspawn can use Scorching Ray once per day as a spell-like ability, using their total character level as caster level.
