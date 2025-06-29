@@ -9,7 +9,7 @@ hide_table_of_contents: true
   style={{ textAlign: 'center', marginRight: '5rem', marginLeft: '1rem' }}
 >
   <img
-    src={useBaseUrl('/img/artwork/classes/Brawler.png')}
+    src="/PF1EE/img/artwork/classes/Brawler.png"
     alt="Brawler Class Artwork"
     style={{
       height: '600px',

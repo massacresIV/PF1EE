@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Archivist
 <figure className="artworkFigure">
-  <img src={useBaseUrl('/img/artwork/classes/Archivist.png')} alt="Archivist Class Artwork" />
+  <img src="/PF1EE/img/artwork/classes/Archivist.png" alt="Archivist Class Artwork" />
   <figcaption className="artworkCaption">Art by Eric Polak</figcaption>
 </figure>
 

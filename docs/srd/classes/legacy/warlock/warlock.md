@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Warlock
 <figure className="artworkFigure">
-  <img src={useBaseUrl('/img/artwork/classes/Warlock.png')} alt="Warlock Class Artwork" />
+  <img src="/PF1EE/img/artwork/classes/Warlock.png" alt="Warlock Class Artwork" />
   <figcaption className="artworkCaption">Art by Michael Phillippi</figcaption>
 </figure>
 

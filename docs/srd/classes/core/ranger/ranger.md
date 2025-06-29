@@ -4,7 +4,7 @@ hide_table_of_contents: true
 ---
 # Ranger
 <figure className="artworkFigure">
-  <img src={useBaseUrl('/img/artwork/classes/Ranger.png')} alt="Ranger Class Artwork" />
+  <img src="/PF1EE/img/artwork/classes/Ranger.png" alt="Ranger Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 A tracker and hunter, the ranger is a creature of the wild and of tracking down his favored foes.

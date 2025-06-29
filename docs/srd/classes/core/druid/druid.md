@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Druid
 <figure className="artworkFigure">
-  <img src={useBaseUrl('/img/artwork/classes/Druid.png')} alt="Druid Class Artwork" />
+  <img src="/PF1EE/img/artwork/classes/Druid.png" alt="Druid Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 The druid is a worshiper of all things natural – a spellcaster, a friend to animals, and a skilled shapechanger.
