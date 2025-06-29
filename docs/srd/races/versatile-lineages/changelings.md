@@ -28,6 +28,8 @@ When selecting lineage traits, you can choose from those available to your race 
 
 ---
 
+## Changeling Lineages
+
 ### Hagborn
 Marked by eerie insight and an unsettling presence, Hagborn Changelings bear the legacy of their monstrous mothers. Their blood hums with foul magic and whispers secrets in the dark. Hagborn gain the following lineage Traits:
 

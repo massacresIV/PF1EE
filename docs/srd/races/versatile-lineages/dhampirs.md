@@ -41,20 +41,22 @@ When selecting lineage traits, you can choose from those available to your race 
 
 ---
 
-### Dhampir Lineage Traits
+## Dhampir Lineages
 
-Dhampirs inherit a blend of mortal vitality and undead malice—a paradox of blood that manifests in traits both eerie and evocative. Whether the result of a vampire’s touch upon an unborn child or the unholy union of predator and prey, these traits define the dhampir's existence in a world that rarely welcomes them.
+### Graveborn Lineage Traits
 
-- **Cursed Grace:** Dhampirs possess a haunting beauty and unnatural agility. They gain +2 Dexterity, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Dexterity or Charisma.
+Graveborn are dhampirs—creatures born of mortal blood and undead sin. Caught between life and death, they inherit a paradox of existence: breathing, yet touched by the grave. Whether the result of a vampire’s cursed bite upon an unborn child or a darker union best left unspoken, Graveborn walk the world with beauty that chills and a soul forever shadowed.
 
-- **Blood Without Decay:** Death does not claim a dhampir easily. A dhampir takes no penalties from energy drain effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.
+- **Cursed Grace:** Graveborn possess a haunting beauty and unnatural agility. They gain +2 Dexterity**, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Dexterity or Charisma.
 
-- **Graveborn Fortitude:** The taint of undeath provides strange immunities. Dhampirs gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
+- **Blood Without Decay:** Death does not claim a Graveborn easily. They take no penalties from energy drain effects, though they can still be killed if they accrue more negative levels than they have Hit Dice. After 24 hours, any negative levels they possess are removed automatically without requiring a saving throw.
 
-- **Negative Energy Affinity:** A dhampir walks between life and death. Though a living creature, a dhampir reacts to positive and negative energy as if it were undead—positive energy harms it, while negative energy heals it.
+- **Graveborn Fortitude:** The taint of undeath grants strange resilience. Graveborn gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
 
-- **Predatory Nature:** A lifetime spent navigating fear, suspicion, and lies hones a dhampir's instincts. Dhampir gain a +2 racial bonus on Bluff and Perception checks.
+- **Negative Energy Affinity:** Though living, a Graveborn reacts to energy as if undead—positive energy harms them, while negative energy heals them.
 
-- **Whispers from the Grave:** Dhampirs can *detect undead* once per day, as though sensing echoes of their own origins in the world beyond the veil. This spell-like ability has a caster level equal to the dhampir's character level.
+- **Predatory Nature:** A lifetime spent navigating fear, suspicion, and lies hones the Graveborn’s instincts. They gain a +2 racial bonus on Bluff and Perception checks.
 
-- **Vampiric Eyes:** A dhampir’s gaze pierces gloom like moonlight on tombstones. Dhamphirs can see twice as far as humans in conditions of dim light, gaining low-light vision. If they already have low-light vision from their base race, they instead gain darkvision out to 60 feet.
+- **Whispers from the Grave:** Graveborn can cast *detect undead* once per day as a spell-like ability. They often describe this as a chilling awareness of death lingering nearby. The caster level equals the Graveborn’s character level.
+
+- **Vampiric Eyes:** A Graveborn’s gaze pierces gloom like moonlight over headstones. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 60 feet.
