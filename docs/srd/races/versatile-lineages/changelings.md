@@ -18,20 +18,20 @@ Whatever their path, changelings straddle the line between the mortal world and 
 ---
 
 ## Changeling Details
-To play a character with a Changeling lineage, first select your race, just like you would for any character. You gain hit points, type, size, speed, languages, lineage traits, and other abilities from that race. Then, instead of choosing a lineage from those normally available to that race, apply your chosen Changeling lineage. You gain all the features from your Changeling lineage, some of which might modify or replace statistics, abilities, or traits from your race.
+To play a character with a Changeling lineage, first select your race, just like you would for any character. You gain hit points, type, size, speed, languages, racial traits, and other abilities from that race. Then, instead of choosing a lineage from those normally available to that race, apply your chosen Changeling lineage. You gain all the features from your Changeling lineage, some of which might modify or replace statistics, abilities, or traits from your race.
 
 **When you apply a Changeling lineage, you gain the Changeling subtype,** while retaining any racial subtypes, creature size, and racial traits associated with your base race (e.g., Dwarf, Elf, Human).
 
 Since a Changeling lineage is a lineage, you can only apply one, and you cannot take another lineage in addition to your Changeling lineage.
 
-When selecting lineage traits, you can choose from those available to your race as well as those available to your Changeling lineage.
+When selecting racial traits, you can choose from those available to your race as well as those available to your Changeling lineage.
 
 ---
 
 ## Changeling Lineages
 
 ### Hagborn
-Marked by eerie insight and an unsettling presence, Hagborn Changelings bear the legacy of their monstrous mothers. Their blood hums with foul magic and whispers secrets in the dark. Hagborn gain the following lineage Traits:
+Marked by eerie insight and an unsettling presence, Hagborn Changelings bear the legacy of their monstrous mothers. Their blood hums with foul magic and whispers secrets in the dark. Hagborn gain the following racial traits:
 
 - **Hag-Touched:** Born of a mortal and a hag, the Hagborn inherit unnatural insight and a strange charm, but their monstrous blood weakens their vitality. They gain +2 Wisdom, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Wisdom or Charisma.
 

@@ -31,32 +31,36 @@ They are creatures of contrast—living shadows who haunt the borders between li
 ---
 
 ## Dhampir Details
-To play a character with a Dhampir lineage, first select your race, just like you would for any character. You gain hit points, type, size, speed, languages, lineage traits, and other abilities from that race. Then, instead of choosing a lineage from those normally available to that race, apply your chosen Dhampir lineage. You gain all the features from your Dhampir lineage, some of which might modify or replace statistics, abilities, or traits from your race.
+To play a character with a Dhampir lineage, first select your race, just like you would for any character. You gain hit points, type, size, speed, languages, racial traits, and other abilities from that race. Then, instead of choosing a lineage from those normally available to that race, apply your chosen Dhampir lineage. You gain all the features from your Dhampir lineage, some of which might modify or replace statistics, abilities, or traits from your race.
 
 **When you apply a Dhampir lineage, you gain the Dhampir subtype,** while retaining any racial subtypes, creature size, and racial traits associated with your base race (e.g., Dwarf, Elf, Human).
 
 Since a Dhampir lineage is a lineage, you can only apply one, and you cannot take another lineage in addition to your Dhampir lineage.
 
-When selecting lineage traits, you can choose from those available to your race as well as those available to your Dhampir lineage.
+When selecting racial traits, you can choose from those available to your race as well as those available to your Dhampir lineage.
 
 ---
 
 ## Dhampir Lineages
 
-### Graveborn Lineage Traits
+### Grave-Touched
 
-Graveborn are dhampirs—creatures born of mortal blood and undead sin. Caught between life and death, they inherit a paradox of existence: breathing, yet touched by the grave. Whether the result of a vampire’s cursed bite upon an unborn child or a darker union best left unspoken, Graveborn walk the world with beauty that chills and a soul forever shadowed.
+Grave-Touched are dhampirs—creatures born of mortal blood and undead sin. Caught between life and death, they inherit a paradox of existence: breathing, yet touched by the grave. Whether the result of a vampire’s cursed bite upon an unborn child or a darker union best left unspoken, Grave-Touched walk the world with beauty that chills and a soul forever shadowed.
 
-- **Cursed Grace:** Graveborn possess a haunting beauty and unnatural agility. They gain +2 Dexterity, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Dexterity or Charisma.
+- **Cursed Grace:** Grave-Touched possess a haunting beauty and unnatural agility. They gain +2 Dexterity, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Dexterity or Charisma.
 
-- **Blood Without Decay:** Death does not claim a Graveborn easily. They take no penalties from energy drain effects, though they can still be killed if they accrue more negative levels than they have Hit Dice. After 24 hours, any negative levels they possess are removed automatically without requiring a saving throw.
+- **Blood Without Decay:** Death does not claim a Grave-Touched easily. They take no penalties from energy drain effects, though they can still be killed if they accrue more negative levels than they have Hit Dice. After 24 hours, any negative levels they possess are removed automatically without requiring a saving throw.
 
-- **Graveborn Fortitude:** The taint of undeath grants strange resilience. Graveborn gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
+- **Grave-Touched Fortitude:** The taint of undeath grants strange resilience. Grave-Touched gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
 
-- **Negative Energy Affinity:** Though living, a Graveborn reacts to energy as if undead—positive energy harms them, while negative energy heals them.
+- **Negative Energy Affinity:** Though living, a Grave-Touched reacts to energy as if undead—positive energy harms them, while negative energy heals them.
 
-- **Predatory Nature:** A lifetime spent navigating fear, suspicion, and lies hones the Graveborn’s instincts. They gain a +2 racial bonus on Bluff and Perception checks.
+- **Predatory Nature:** A lifetime spent navigating fear, suspicion, and lies hones the Grave-Touched’s instincts. They gain a +2 racial bonus on Bluff and Perception checks.
 
-- **Whispers from the Grave:** Graveborn can cast *detect undead* once per day as a spell-like ability. They often describe this as a chilling awareness of death lingering nearby. The caster level equals the Graveborn’s character level.
+- **Whispers from the Grave:** Grave-Touched can cast *detect undead* once per day as a spell-like ability. They often describe this as a chilling awareness of death lingering nearby. The caster level equals the Grave-Touched’s character level.
 
-- **Vampiric Eyes:** A Graveborn’s gaze pierces gloom like moonlight over headstones. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 60 feet.
+- **Vampiric Eyes:** A Grave-Touched’s gaze pierces gloom like moonlight over headstones. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 60 feet.
+
+---
+
+## Dhampir Racial Traits

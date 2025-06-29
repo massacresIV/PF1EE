@@ -32,25 +32,25 @@ Elves can see twice as far as humans in conditions of dim light.
 You select a lineage at 1st level to reflect abilities passed down to you from your ancestors or common among those of your race in the environment where you were born or grew up. You have only one lineage and can’t change it later. A lineage is not the same as a culture or ethnicity, though some cultures or ethnicities might have more or fewer members from a particular lineage.
 
 ### Darkkin
-Darkkin gain the following Lineage Traits;
+Darkkin gain the following racial traits;
 - **Darkkin:** Darkkin are nimble and manipulative. They gain +2 Dexterity, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Dexterity or Charisma.
 - **Umbral Magic (3 RP):** Darkkin can cast *dancing lights, darkness, and faerie fire*, once each per day, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the Darkkin’s Charisma modifier.
 - **Darkvision (1 RP):** Darkkin can see perfectly in the dark up to 60 feet, but lose their racial ability to see in areas of dim light (Low-Light Vision).
 
 ### Highkin
-Highkin gain the following Lineage Traits;
+Highkin gain the following racial traits;
 - **Highkin:** Highkin are nimble, both in body and mind. They gain +2 Dexterity, +2 Intelligence, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Dexterity or Intelligence.
 - **Arcane Insight (2 RP):**  Highkin can cast *Detect Magic* at will as a spell-like ability, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the Highkin’s Intelligence modifier.
 - **Eidetic Recall (2 RP):** Highkin gain a +1 racial bonus on all Knowledge checks, and once per day, they may reroll a Knowledge check and take the better result.
 
 ### Lunarkin
-Lunarkin gain the following Lineage Traits;
+Lunarkin gain the following racial traits;
 - **Lunarkin:** Lunarkin are mystics, drawn to the moon’s pull. They gain +2 Dexterity, +2 Charisma, -2 Strength, and a +2 bonus to one other ability score of their choice, except Dexterity or Charisma.
 - **Moonlight (2 RP):**  Lunarkin can cast *light* at will as a spell-like ability, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the Lunarkin’s Charisma modifier.
 - **Moonkissed (2 RP):** Lunarkin gain a +1 racial bonus on saving throws.
 
 ### Woodkin
-Woodkin gain the following Lineage Traits;
+Woodkin gain the following racial traits;
 - **Woodkin:** Woodkin are deeply in tune with the world. They gain +2 Dexterity, +2 Wisdom, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Dexterity or Wisdom.
 - **Nature’s Embrace (3 RP):** Woodkin can cast *Barkskin, Naturewatch, and Speak with Animals*, once each per day, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the Woodkin’s Wisdom modifier.
 - **Rooted Resilience (1 RP):** Woodkin gain a +1 racial bonus on saving throws against poison and disease.
