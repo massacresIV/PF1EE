@@ -1,7 +1,7 @@
 # Changelings
 Changelings are the eerie offspring of mortal unions with hags—be they born of deception, dark magic, or madness. Whether conceived through occult rituals or monstrous seduction, changelings are rarely raised by their true mothers. Instead, they are left in the care of strangers: placed on stoops, found swaddled in the woods, or even discovered at the center of half-finished witch circles.
 
-Despite often resembling their mortal parent’s ancestry, changelings bear unmistakable marks of their heritage. Most are tall and lithe, with unnaturally pale skin and mismatched eyes—one echoing their mortal lineage, the other reflecting the baleful hue of their hag mother. These unusual traits, especially their mismatched gaze, often incite suspicion or superstition, branding them as cursed or fey-touched. Such children may grow up as outcasts, fostered with wariness or driven from their communities entirely.
+Despite often resembling their mortal parent’s ancestry, changelings bear unmistakable marks of their lineage. Most are tall and lithe, with unnaturally pale skin and mismatched eyes—one echoing their mortal lineage, the other reflecting the baleful hue of their hag mother. These unusual traits, especially their mismatched gaze, often incite suspicion or superstition, branding them as cursed or fey-touched. Such children may grow up as outcasts, fostered with wariness or driven from their communities entirely.
 
 **The Call:** At some point during adolescence or early adulthood, changelings experience the Call—a haunting whisper in their soul that urges them to seek their origins. This psychic pull is often described as a voice heard only in dreams, a compulsion tied not to memory but to fate. It leads them toward strange places, occult secrets, or even directly into the territory of the hag who birthed them.
 
@@ -18,18 +18,18 @@ Whatever their path, changelings straddle the line between the mortal world and 
 ---
 
 ## Changeling Details
-To play a character with a Changeling heritage, first select your race, just like you would for any character. You gain hit points, type, size, speed, languages, heritage traits, and other abilities from that race. Then, instead of choosing a heritage from those normally available to that race, apply your chosen Changeling heritage. You gain all the features from your Changeling heritage, some of which might modify or replace statistics, abilities, or traits from your race.
+To play a character with a Changeling lineage, first select your race, just like you would for any character. You gain hit points, type, size, speed, languages, lineage traits, and other abilities from that race. Then, instead of choosing a lineage from those normally available to that race, apply your chosen Changeling lineage. You gain all the features from your Changeling lineage, some of which might modify or replace statistics, abilities, or traits from your race.
 
-**When you apply a Changeling heritage, you gain the Changeling subtype,** while retaining any racial subtypes, creature size, and racial traits associated with your base race (e.g., Dwarf, Elf, Human).
+**When you apply a Changeling lineage, you gain the Changeling subtype,** while retaining any racial subtypes, creature size, and racial traits associated with your base race (e.g., Dwarf, Elf, Human).
 
-Since a Changeling heritage is a heritage, you can only apply one, and you cannot take another heritage in addition to your Changeling heritage.
+Since a Changeling lineage is a lineage, you can only apply one, and you cannot take another lineage in addition to your Changeling lineage.
 
-When selecting heritage traits, you can choose from those available to your race as well as those available to your Changeling heritage.
+When selecting lineage traits, you can choose from those available to your race as well as those available to your Changeling lineage.
 
 ---
 
 ### Hagborn
-Marked by eerie insight and an unsettling presence, Hagborn Changelings bear the legacy of their monstrous mothers. Their blood hums with foul magic and whispers secrets in the dark. Hagborn gain the following Heritage Traits:
+Marked by eerie insight and an unsettling presence, Hagborn Changelings bear the legacy of their monstrous mothers. Their blood hums with foul magic and whispers secrets in the dark. Hagborn gain the following lineage Traits:
 
 - **Hag-Touched:** Born of a mortal and a hag, the Hagborn inherit unnatural insight and a strange charm, but their monstrous blood weakens their vitality. They gain +2 Wisdom, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Wisdom or Charisma.
 
