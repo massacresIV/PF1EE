@@ -41,8 +41,6 @@ Grave-Touched are dhampirs—creatures born of mortal blood and undead sin. Caug
 
 - **Predatory Nature:** A lifetime spent navigating fear, suspicion, and lies hones the Grave-Touched’s instincts. They gain a +2 racial bonus on Bluff and Perception checks.
 
-- **Whispers from the Grave:** Grave-Touched can cast *detect undead* once per day as a spell-like ability. They often describe this as a chilling awareness of death lingering nearby. The caster level equals the Grave-Touched’s character level.
-
 - **Vampiric Eyes:** A Grave-Touched’s gaze pierces gloom like moonlight over headstones. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 60 feet.
 
 ---

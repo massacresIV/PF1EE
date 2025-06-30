@@ -40,4 +40,4 @@ Those of the Versatile-Blooded lineage are born from the union of humanity and a
 
 - **Versatile Training:** At 1st level, a Versatile-Blooded character selects any two skills. These skills are always considered class skills for them.
 
-- **Natural Linguist:** Versatile-Blooded characters with high Intelligence scores can select any language (except secret languages such as Druidic) as bonus languages, regardless of their lineage or upbringing.
+- **Natural Linguist:** Versatile-Blooded characters with high Intelligence scores can select any language (except secret languages such as Druidic) as bonus languages, regardless of their race.
