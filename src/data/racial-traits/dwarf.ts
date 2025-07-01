@@ -74,7 +74,7 @@ export const dwarfRacialTraits = [
 - *Humanoid (Goblin)*
 - *Humanoid (Orc)*
 
-**Special:** You can select this heritage trait multiple times. Its effects do not stack. Each time you select this heritage trait, choose two new subtypes of humanoids.`,
+**Special:** You can select this racial trait multiple times. Its effects do not stack. Each time you select this racial trait, choose two new subtypes of humanoids.`,
   },
   {
     id: "healthy",

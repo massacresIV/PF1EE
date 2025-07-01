@@ -34,7 +34,7 @@ Deep Dwarves gain the following racial traits;
 Surface Dwarves gain the following racial traits;
 - **Greed (1 RP):** Surface Dwarves gain a +2 racial bonus on Appraise checks made to determine the price of non-magical goods that contain precious metals or gemstones.
 - **Stonecunning (1 RP):** Surface Dwarves gain a +2 bonus on Perception checks to notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
-- **Weapon Familiarity (2 RP):** Surface Dwarves
+- **Weapon Familiarity (2 RP):** Surface Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.
 
 ---
 

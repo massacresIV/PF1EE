@@ -87,7 +87,7 @@ export const elfRacialTraits = [
 - *Aberration*
 - *Outsider (Demon)*
 
-**Special:** You can select this heritage trait multiple times. Its effects do not stack. Each time you select this heritage trait, choose a new creature type or subtype from the list.`,
+**Special:** You can select this racial trait multiple times. Its effects do not stack. Each time you select this racial trait, choose a new creature type or subtype from the list.`,
   },
   {
     id: "devoted-companion",
@@ -184,7 +184,7 @@ export const elfRacialTraits = [
 - *Humanoid (Orc)*
 - *Outsider (Demon)*
 
-**Special:** You can select this heritage trait multiple times. Its effects do not stack. Each time you select this heritage trait, choose two new subtypes of humanoids.`,
+**Special:** You can select this racial trait multiple times. Its effects do not stack. Each time you select this racial trait, choose two new subtypes of humanoids.`,
   },
   {
     id: "keeper-of-secrets",
@@ -262,7 +262,7 @@ export const elfRacialTraits = [
     name: "Silent Hunter",
     markdownContent: `*Your stealth is unparalleled, allowing you to move unseen and unheard even in the most difficult of circumstances.*
 
-**Benefits:** You reduce the penalty for using Stealth while moving by 5, and you can make Stealth checks while running at a –20 penalty (this includes the penalty reduction from this heritage trait).`,
+**Benefits:** You reduce the penalty for using Stealth while moving by 5, and you can make Stealth checks while running at a –20 penalty (this includes the penalty reduction from this racial trait).`,
   },
   {
     id: "slender",
