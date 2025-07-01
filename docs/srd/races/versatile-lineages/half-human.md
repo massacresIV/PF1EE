@@ -34,8 +34,6 @@ When selecting racial traits, you can choose from those available to your race a
 ### Versatile-Blooded Lineage
 Those of the Versatile-Blooded lineage are born from the union of humanity and another common humanoid ancestry—such as elf, dwarf, gnome, halfling, or orc. Though they inherit traits from both parents, it is the human adaptability within them that shines most strongly, granting them a flexibility that defies rigid expectations. Versatile-Blooded individuals often thrive in diverse roles, finding success in both martial and magical paths with equal ease.
 
-- **Flexible Ancestry:** Versatile-Blooded characters gain a +2 racial bonus to any two ability scores of their choice. These bonuses must be applied to two different ability scores at 1st level and cannot be changed later.
-
 - **Adaptability:** Versatile-Blooded characters gain the *Skill Focus* feat as a bonus feat at 1st level.
 
 - **Versatile Training:** At 1st level, a Versatile-Blooded character selects any two skills. These skills are always considered class skills for them.

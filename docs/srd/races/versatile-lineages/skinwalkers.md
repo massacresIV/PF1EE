@@ -9,15 +9,3 @@ When selecting racial traits, you can choose from those available to your race a
 
 ---
 
-### Mooncursed
-
-- **Mooncursed:** Mooncursed Skinwalkers are well attuned to the natural order of things and value passion above reason. They gain a +2 racial bonus to one other ability score of their choice, except Strength or Constitution. While in their animal and hybrid forms, they gain a +2 Strength, +2 Constitution, and -2 Charisma.
-
-- **Change Shape (Su, 5 RP):** A Mooncursed Skinwalker can change shape between three forms—a humanoid form, an animal form, and a hybrid form. Equipment does not meld with the new form between humanoid and hybrid form, but does between those forms and animal form. A Mooncursed Skinwalker can change shape between any of its three forms as a standard action. While in animal and hybrid form, a skinwalker gains a +2 racial bonus to Strength and Constitution, but take a -2 penalty to Charisma.
-
-While in either form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features:
-
-    - Bite attack that deals 1d6 points of damage
-    - 2 claw attacks that each deal 1d4 points of damage
-    - Darkvision to a range of 60 feet.
-    - +2 racial bonus on all saving throws

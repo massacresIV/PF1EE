@@ -23,10 +23,7 @@ Some take up arms for glory, wealth, or revenge. Others do battle to prove thems
 # Class Skills
 The fighter’s class skills are Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (engineering) (Int), Profession (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
 
-**Skill Ranks per Level:** 4 + Int modifier.
-:::info[Changes]
-Increased skill ranks per level by 2.
-:::
+**Skill Ranks per Level:** 2 + Int modifier.
 
 # Class Features
 

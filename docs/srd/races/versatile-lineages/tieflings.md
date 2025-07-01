@@ -12,6 +12,5 @@ When selecting racial traits, you can choose from those available to your race a
 ## Hellspawn
 Stalwart and conniving, diabolical Tieflings know the discipline and might of Hell’s legions. Hellspawn gain the following racial traits;
 
-- **Devil Descended (0 RP):** Descended from devils, Hellspawn are hardy and shrewd, but their infernal blood leaves them grim and unnerving. They gain +2 Constitution, +2 Wisdom, and –2 Charisma.
 - **Infernal Resistance (1 RP):** Hellspawn have Fire resistance 5.
 - **Hellish Magic (2 RP)**: Hellspawn can use Scorching Ray once per day as a spell-like ability, using their total character level as caster level.

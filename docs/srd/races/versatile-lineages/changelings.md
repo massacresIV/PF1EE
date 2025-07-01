@@ -33,8 +33,6 @@ When selecting racial traits, you can choose from those available to your race a
 ### Hagborn
 Marked by eerie insight and an unsettling presence, Hagborn Changelings bear the legacy of their monstrous mothers. Their blood hums with foul magic and whispers secrets in the dark. Hagborn gain the following racial traits:
 
-- **Hag-Touched:** Born of a mortal and a hag, the Hagborn inherit unnatural insight and a strange charm, but their monstrous blood weakens their vitality. They gain +2 Wisdom, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Wisdom or Charisma.
-
 - **Claws:** As a free action, a Hagborn can cause her nails to lengthen into jagged, talon-like claws. These claws are considered primary natural attacks and can be used to make two claw attacks (dealing 1d4 damage if Medium, or 1d3 if Small).
 
 - **Haghide:** Changelings gain a +1 natural armor bonus due to their unnaturally tough flesh and resilient, hag-tainted skin.

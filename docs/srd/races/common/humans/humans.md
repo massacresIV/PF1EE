@@ -7,9 +7,10 @@ import { humanRacialTraits } from "@site/src/data/racial-traits/human";
 ---
 
 ## Human Details
+- **Ability Scores:** Humans gain a +2 bonus to any two different ability scores of their choice.
 - **Type:** Humans are Humanoids with the Human subtype.
 - **Size:**  Humans are Medium creatures and thus receive no bonuses or penalties due to their size.
-- **Hit Points:** Humans gain an additional 6 hit points at 1st level.
+- **Hit Points:** Humans are resilient, and gain an additional 6 hit points at 1st level.
 - **Speed:** Humans have a base speed of 30 feet.
 - **Languages:** Humans begin play speaking Common. Humans with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).
 
@@ -26,18 +27,15 @@ You select a lineage at 1st level to reflect abilities passed down to you from y
 
 ### Focused-kind
 Humans are skillful, but some, rather than being generalists, tend to specialize in a handful of skills. Focused-kind gain the following racial traits;
-- **Focused-kind:** Focused-kind gain a +2 racial bonus to any two ability scores of their choice.
 - **Focused Study:** Focused-kind gain additional Skill Focus feats at 8th and 16th level. 
 
 ### Primitive-kind
 Primitive-kind devote more of their time to honing the basic skills of how to avoid predators and gather food, rather than to higher-minded pursuits. Primitive-kind gain the following racial traits;
-- **Primitive-kind:** Primitive-kind gain a +2 racial bonus to any two physical ability scores of their choice (e.g Strength, Dexterity, or Constitution).
 - **Savage Skills:** Primitive-kind receive a +2 racial bonus on Climb, Survival, and Swim skill checks.
 - **Savage Surge:** Once per day, Primitive-kind can call upon a well of inner savagery. This grants a +4 bonus to any one Strength-based skill check, Strength check, or weapon damage roll. Using this ability is a Free Action, but it must be used before the check or attack roll is made.
 
 ### Versatile-kind
 Humanity's adaptability and versatility allows them to pursue almost any calling with a surprising level of competence. Versatile-kind gain the following racial traits;
-- **Versatile-kind:** Versatile-kind gain a +2 racial bonus to any two ability scores of their choice.
 - **Versatility:** Versatile-kind gain an extra Standard Feat at 1st level.
 
 ---

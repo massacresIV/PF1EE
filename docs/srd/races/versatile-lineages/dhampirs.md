@@ -31,8 +31,6 @@ When selecting racial traits, you can choose from those available to your race a
 
 Grave-Touched are dhampirs—creatures born of mortal blood and undead sin. Caught between life and death, they inherit a paradox of existence: breathing, yet touched by the grave. Whether the result of a vampire’s cursed bite upon an unborn child or a darker union best left unspoken, Grave-Touched walk the world with beauty that chills and a soul forever shadowed.
 
-- **Cursed Grace:** Grave-Touched possess a haunting beauty and unnatural agility. They gain +2 Dexterity, +2 Charisma, –2 Constitution, and a +2 bonus to one other ability score of their choice, except Dexterity or Charisma.
-
 - **Blood Without Decay:** Death does not claim a Grave-Touched easily. They take no penalties from energy drain effects, though they can still be killed if they accrue more negative levels than they have Hit Dice. After 24 hours, any negative levels they possess are removed automatically without requiring a saving throw.
 
 - **Grave-Touched Fortitude:** The taint of undeath grants strange resilience. Grave-Touched gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
