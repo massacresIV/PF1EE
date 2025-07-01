@@ -1,4 +1,4 @@
-# Half-Human
+# Half-Humans
 
 Half-Humans are the children of two worlds, born from the union of a human and another mortal ancestry—elves, orcs, dwarves, gnomes, and others of the Material Plane. Sometimes welcomed, often distrusted, these individuals stand as living proof that the boundaries between peoples can be crossed—whether by love, desperation, or accident.
 
