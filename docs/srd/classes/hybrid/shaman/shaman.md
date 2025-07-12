@@ -156,10 +156,18 @@ At 2nd level, the shaman gains a deeper understanding of her spirit’s nature a
 
 Unless otherwise noted, activating the power of a revelation is a standard action, and any saving throw DC associated with a revelation is equal to 10 + 1/2 the Shaman’s level + the Shaman’s Wisdom modifier.
 
+:::info[Changes]
+*Shaman hexes now split into Revelations like an Oracle, and Hexes like a Witch. Gains three revelations (half the amount of an Oracle).*
+:::
+
 ## Hex
 At 4th level, the shaman learns a magical trick known as a hex, a minor supernatural ability that draws upon her deepening connection to the spirit world. She gains additional hexes at 8th, 12th, 16th, and 20th level. A shaman can select from any of the following hexes. A Shaman cannot select a hex more than once unless noted otherwise.
 
 Using a hex is a standard action that doesn’t provoke an attack of opportunity unless otherwise noted. The saving throw DC to resist a hex is equal to 10 + 1/2 the shaman’s level + the Shaman’s Wisdom modifier.
+
+:::info[Changes]
+*Shaman hexes now split into Revelations like an Oracle, and Hexes like a Witch. Gains five hexes (half the amount of a Witch).*
+:::
 
 ## Wandering Spirit (Su)
 At 6th level, a shaman can form a temporary bond with a spirit other than the one selected using her spirit class feature. She must make this selection each day when preparing her spells. While this feature is active, she gains the spirit ability granted by the spirit. She also adds the spells granted by that spirit to her list of spells that she can cast using spirit magic. She does not add the revelations from her wandering spirit to her list of revelations that she can choose from with the revelation class feature. At 12th level, she gains the abilities listed in the greater version of her wandering spirit. At 20th level, she gains the ability listed in the true version of her wandering spirit.
