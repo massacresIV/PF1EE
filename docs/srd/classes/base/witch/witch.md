@@ -65,7 +65,7 @@ The Witch's class skills are Craft (Int), Fly (Dex), Heal (Wis), Intimidate (Cha
         </tr>
     </thead>
     <tbody>
-        <tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td>Cantrips, Patron, Patron Magic, Witch's Familiar, Witch Hex</td><td>3</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td>Cantrips, Patron, Witch's Familiar, Witch Hex</td><td>3</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td>Witch Hex</td><td>4</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>3rd</td><td>+1</td><td>+1</td><td>+1</td><td>+3</td><td>Patron Spell</td><td>4</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>4th</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td>Witch Hex</td><td>4</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
@@ -91,32 +91,100 @@ The Witch's class skills are Craft (Int), Fly (Dex), Heal (Wis), Intimidate (Cha
 
 ## Weapon and Armor Proficiency
 Witches are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor interferes with a witch's gestures, which can cause her spells with somatic components to fail.
+
 ## Witch Spellcasting
-A witch casts arcane spells drawn from the witch spell list. A witch must choose and prepare her spells ahead of time.
 
-To learn or cast a spell, a witch must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a witch's spell is 10 + the spell level + the witch's Intelligence modifier.
+**Arcane Spells:** A witch casts arcane spells drawn from the witch spell list.
 
-A witch can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on the table. In addition, she receives bonus spells per day if she has a high Intelligence score.
+**Prepared Casting:** A witch must choose and prepare her spells ahead of time by resting and consorting with her familiar.
 
-A witch may know any number of spells. She must choose and prepare her spells ahead of time by getting 8 hours of sleep and spending 1 hour communing with her familiar. While communing, the witch decides which spells to prepare.
-## Witch Cantrips
-Witches can prepare a number of cantrips, or 0-level spells, each day, as noted on the table under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again. Cantrips prepared using other spell slots, due to metamagic feats for example, are expended normally.
+To learn, prepare, or cast a spell, a witch must have an Intelligence score equal to 10 + the spell's level. The saving throw DC for a witch’s spell is 10 + the spell's level + the witch’s Intelligence modifier.
+
+A witch can cast only a limited number of spells per spell level per day, as shown on the class progression table. She also receives bonus spells per day if her Intelligence is high enough (see “Ability Modifiers and Bonus Spells”).
+
+**Cantrips:** Witches can prepare a number of cantrips, or 0-level spells, each day, as shown on the class progression table. These spells are cast like any other spell, but are not expended when cast and may be used again.
+
+<details>
+<summary><strong>Rest and Spell Preparation</strong></summary>
+
+To prepare spells, a witch must meet the following conditions:
+
+- **Rest:** The witch must rest for 8 hours to recover spell slots. This rest must be free from combat, movement, spellcasting, or other demanding activity. Interruptions add 1 hour per disruption, and she must have at least 1 uninterrupted hour before preparing spells.
+
+- **No Recent Casting:** Any spells cast in the last 8 hours count against the number of spells the Witch can prepare. For example, casting a 5th-level spell before resting reduces that day’s 5th-level spell slots available for preparation by one.
+
+- **Consorting with Familiar:** After resting, the witch must spend 1 uninterrupted hour consorting with her familiar. During this time, she chooses which spells to prepare and in which slots, drawn from those stored by her familiar.
+
+- **Preparation Environment:** The Witch’s surroundings must be reasonably quiet and free of distractions to consort with her familiar effectively. Inclement weather, injury, or failing saving throws during her consorting can prevent preparation. She must have access to her familiar and adequate light to consort it.
+
+- **Partial Preparation and Open Slots:** The Witch can prepare only some spells at a time, requiring at least 15 minutes. She may leave spell slots empty and later prepare spells in those slots by consorting her familiar for at least 15 minutes. However, she cannot replace or refill slots already used without resting again.
+
+- **Prepared Spells:** Prepared spells remain attuned to the Witch until cast or released. If the Witch dies, all prepared spells are lost.
+
+</details>
+
+<details>
+<summary><strong>Familiars and Gaining Spells</strong></summary>
+
+A witch must consort with her familiar each day to prepare spells. She cannot prepare any spell not stored within her familiar.
+
+- **Starting Familiar Spells:** At 1st level, the Witch’s familiar stores all 0-level Witch spells plus three 1st-level Witch spells of choice, plus additional 1st-level spells equal to her Intelligence modifier.
+
+- **Gaining New Spells:** Each time the Witch gains a new level, she adds two new Witch spells of any level she can cast to her familiar.
+
+- **Ritual Teaching:** A witch may use a spell scroll to teach a new spell to her familiar through an esoteric ritual by:
+  - **Deciphering:** Firstly deciper the magical writing (Spellcraft DC 20 + spell level, or use *read magic*).
+  - **Teaching:** Secondly after a successful deciphering, the Witch spends 1 hour teaching her familiar the spell by succeeding at a Spellcraft check (DC 15 + spell level).
+  - **Ritual:** Thirdly after a successfully teaching her familiar the spell, she binds the teachings through a ritual, which costs 1 hour per spell level (30 minutes for 0-level spells), and materials costing gold equal to the spell level's ritual cost.
+
+    | Spell Level | Ritual Cost |
+    |-------------|--------------|
+    | 0           | 5 gp         |
+    | 1           | 10 gp        |
+    | 2           | 40 gp        |
+    | 3           | 90 gp        |
+    | 4           | 160 gp       |
+    | 5           | 250 gp       |
+    | 6           | 360 gp       |
+    | 7           | 490 gp       |
+    | 8           | 640 gp       |
+    | 9           | 810 gp       |
+
+</details>
+
+:::info[Changes]
+*Teaching familiars spells no longer expends the spell scroll and requires the same skill checks and costs as a Wizard copying scrolls or spellbooks.*
+:::
+
+## Witch’s Familiar (Ex)
+At 1st level, a witch forms a binding pact with a familiar—a creature that serves not only as her arcane conduit, but also as an agent of her mysterious patron. Its knowledge is vast, its loyalty divided, and its counsel never entirely free of ulterior intent. The familiar aids a witch by granting her a special ability.
+
+A witch's familiar stores only witch spells. All other spells obtained from other classes are stored and prepared normally, as dictated by their respective class features.
+
+**Deliver Touch Spells (Su):** Once the witch reaches 3rd level, her familiar gains the ability to deliver touch spells or hexes on her behalf. If the witch and familiar are in contact when she casts a touch spell, she may designate the familiar as the “toucher.” The familiar can then deliver the touch spell as if it were the caster. If the witch casts another spell before the touch is delivered, the touch spell dissipates as usual. For hexes that require a touch, the familiar can make the delivery without needing to be in contact with the witch at the time of activation.
+
+<details>
+<summary><strong>Replacing a Familiar</strong></summary>
+
+- If a witch’s familiar is dismissed, slain, or otherwise lost, she may replace it by performing a special ritual lasting 24 uninterrupted hours. During this ritual, the witch beseeches her patron to send a new emissary to serve as her familiar.
+
+- This rite requires no material components or gold but demands intense focus, whispered invocations, and a symbolic reaffirmation of the witch’s pact with her patron. At the ritual’s conclusion, a new familiar—an emissary of the patron—finds the witch and binds itself to her.
+
+- The new familiar begins play knowing all the 0-level spells the witch knows, her patron spells, and any additional spells previously learned through scrolls, rituals, or other means. No spell knowledge is lost in the transition, though the familiar’s form may differ.
+
+- This ritual may also be used to replace a familiar voluntarily released from service, though doing so may have consequences depending on the patron’s will.
+
+</details>
+
+:::info[Changes]
+*Can now replace her Familiar within 24 hours at no cost as a Druid would their animal companion. Now no longer loses additional spells learned through scrolls.*
+:::
+
 ## Witch Hex
-Witches learn a number of magic tricks, called hexes, that grant them powers or weaken foes. At 1st level, a witch gains one hex of her choice. She gains an additional hex at 2nd level and for every 2 levels attained after 2nd level, as noted on Table 2–10. A witch cannot select an individual hex more than once.
+At 1st level, a Witch learns Hex of her choice, granting them powers or abilities to weaken foes. She gains an additional hex at 2nd level and for every 2 levels attained after 2nd level, as shown on the class progression table. A witch cannot select an individual hex more than once.
 
 Unless otherwise noted, using a hex is a standard action that does not provoke an attack of opportunity. The save to resist a hex is equal to 10 + 1/2 the witch's level + the witch's Intelligence modifier.
-## Witch’s Familiar (Ex)
-At 1st level, a witch forms a close bond with a familiar, a creature that teaches her magic and helps to guide her along her path. Familiars also aid a witch by granting her skill bonuses, additional spells, and help with some types of magic. This functions like the wizard's arcane bond class feature, except as noted in the Witch's Familiar section.
 
-A witch must commune with her familiar each day to prepare her spells. Familiars store all of the spells that a witch knows, and a witch cannot prepare a spell that is not stored by her familiar. A witch's familiar begins play storing all of the 0-level witch spells plus three 1st-level spells of the witch's choice. The witch also selects a number of additional 1st-level spells equal to her Intelligence modifier to store in her familiar. At each new witch level, she adds two new spells of any spell level or levels that she can cast (based on her new witch level) to her familiar. A witch can also add additional spells to her familiar through a special ritual.
-### Adding Spells to a Witch’s Familiar
-Witches can add new spells to their familiars through several methods. A witch can only add spells to her familiar if those spells belong to the witch’s spell list.
-
-**Spells Gained at a New Level:** A witch’s familiar learns a certain amount of lore and magic as the witch adventures. Whenever a witch gains a level, she may add two spells from the witch spell list to her familiar. The two free spells must be of spell levels she can cast.
-
-**Familiar Teaching Familiar:** A witch’s familiar can learn spells from another witch’s familiar. To accomplish this, the familiars must spend one hour per level of the spell being taught in communion with one another. At the end of this time, the witch whose familiar is learning a spell must make a Spellcraft check (DC 15 + spell level). If the check succeeds, the familiar has learned the spell and the witch may utilize it the next time she prepares spells. If the check fails, the familiar has failed to learn the spell and cannot try to learn that spell again until the witch has gained another rank in Spellcraft. Most witches require a spell of equal or greater level in return for this service. If a familiar belongs to a witch that has died, it only retains its knowledge of spells for 24 hours, during which time it is possible to coerce or bribe the familiar into teaching its spells to another, subject to GM discretion.
-
-**Learn from a Scroll:** A witch can use a scroll to teach her familiar a new spell. This process takes 1 hour per level of the spell to be learned, during which time the scroll is burned and its ashes used to create a special brew or powder that is consumed by the familiar. This process destroys the scroll. At the end of this time, the witch must make a Spellcraft check (DC 15 + spell level). If the check fails, the process goes awry in some way and the spell is not learned, although the scroll is still consumed.
 ## Patron
 At 1st level, when a witch gains her familiar, she must also select a patron. This patron is a vague and mysterious force, granting the witch power for reasons that she might not entirely understand. While these forces need not be named, they typically hold influence over one of the following forces. 
 
@@ -127,7 +195,9 @@ A Witch gains one patron spell slot for each level of Witch spell she can cast, 
 :::info[Changes]
 *Patrons now grant an additional Spell Slot to bring Witch in-line with other 9th level casters getting; arcane schools, domains, spirits. Additionally, this new spell slot and the spells known are gained every odd level, to match their general spell progression.*
 :::
+
 ## Major Witch Hex
 Starting at 10th level, and every two levels thereafter, a witch can choose one of the following major hexes whenever she could select a new hex.
+
 ## Grand Witch Hex
 Starting at 18th level, and every two levels thereafter, a witch can choose one of the following grand hexes whenever she could select a new hex.

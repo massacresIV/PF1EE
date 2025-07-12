@@ -59,7 +59,7 @@ The barbarian’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), H
         <tr><td>17th</td><td>+17/+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td>Tireless Rage</td></tr>
         <tr><td>18th</td><td>+18/+13/+8/+3</td><td>+11</td><td>+6</td><td>+6</td><td>Danger Sense +6, Rage Power</td></tr>
         <tr><td>19th</td><td>+19/+14/+9/+4</td><td>+11</td><td>+6</td><td>+6</td><td>Damage Reduction 5/—</td></tr>
-        <tr><td>20th</td><td>+20/+15/+10/+5</td><td>+12</td><td>+6</td><td>+6</td><td>Rage Power</td></tr>
+        <tr><td>20th</td><td>+20/+15/+10/+5</td><td>+12</td><td>+6</td><td>+6</td><td>Mighty Rage, Rage Power</td></tr>
     </tbody>
 </table>
 
@@ -138,6 +138,9 @@ At 14th level, While in rage, a barbarian gains a +4 bonus on Will saves to resi
 
 ## Tireless Rage (Ex)
 At 17th level, a barbarian no longer becomes fatigued at the end of her rage.
+
+## Mighty Rage (Ex)
+At 20th level, when a barbarian enters rage, her Strength and Constitution bonuses increase to +8, and her Will save bonus increases to +4.
 
 ---
 
