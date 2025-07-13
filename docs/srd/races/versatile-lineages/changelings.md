@@ -33,8 +33,8 @@ When selecting racial traits, you can choose from those available to your race a
 ### Hagborn
 Marked by eerie insight and an unsettling presence, Hagborn Changelings bear the legacy of their monstrous mothers. Their blood hums with foul magic and whispers secrets in the dark. Hagborn gain the following racial traits:
 
-- **Claws:** As a free action, a Hagborn can cause her nails to lengthen into jagged, talon-like claws. These claws are considered primary natural attacks and can be used to make two claw attacks (dealing 1d4 damage if Medium, or 1d3 if Small).
+- **Claws (1 RP):** As a free action, a Hagborn can cause her nails to lengthen into jagged, talon-like claws. These claws are considered primary natural attacks and can be used to make two claw attacks (dealing 1d4 damage if Medium, or 1d3 if Small).
 
-- **Haghide:** Changelings gain a +1 natural armor bonus due to their unnaturally tough flesh and resilient, hag-tainted skin.
+- **Haghide (2 RP):** Changelings gain a +1 natural armor bonus due to their unnaturally tough flesh and resilient, hag-tainted skin.
 
-- **Witchborn Eyes:** Changelings can see twice as far as humans in conditions of dim light, gaining low-light vision. If they already have low-light vision from their base race, they instead gain darkvision out to 60 feet.
+- **Witchborn Eyes (1 RP):** Changelings can see twice as far as humans in conditions of dim light, gaining low-light vision. If they already have low-light vision from their base race, they instead gain darkvision out to 60 feet.

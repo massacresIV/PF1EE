@@ -1,3 +1,7 @@
+import React from "react";
+import RacialTraitTable from "@site/src/components/RacialTraitTable";
+import { dhampirRacialTraits } from "@site/src/data/racial-traits/dhampir";
+
 # Dhampirs
 
 Dhampirs are the mournful offspring of mortal and vampire—born of flesh, yet forever touched by undeath. Most are conceived in shadow: the result of a vampire’s predation, a profane ritual, or a curse passed through blood. Whether raised in orphanages, by cloistered monks, or in the wild margins of civilization, dhampirs grow up haunted by what they are—and what they are not.
@@ -31,16 +35,19 @@ When selecting racial traits, you can choose from those available to your race a
 
 Grave-Touched are dhampirs—creatures born of mortal blood and undead sin. Caught between life and death, they inherit a paradox of existence: breathing, yet touched by the grave. Whether the result of a vampire’s cursed bite upon an unborn child or a darker union best left unspoken, Grave-Touched walk the world with beauty that chills and a soul forever shadowed.
 
-- **Blood Without Decay:** Death does not claim a Grave-Touched easily. They take no penalties from energy drain effects, though they can still be killed if they accrue more negative levels than they have Hit Dice. After 24 hours, any negative levels they possess are removed automatically without requiring a saving throw.
+- **Blood Without Decay (1 RP):** Death does not claim a Grave-Touched easily. They take no penalties from energy drain effects, though they can still be killed if they accrue more negative levels than they have Hit Dice. After 24 hours, any negative levels they possess are removed automatically without requiring a saving throw.
 
-- **Grave-Touched Fortitude:** The taint of undeath grants strange resilience. Grave-Touched gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
+- **Grave-Touched Fortitude (1 RP):** The taint of undeath grants strange resilience. Grave-Touched gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
 
-- **Negative Energy Affinity:** Though living, a Grave-Touched reacts to energy as if undead—positive energy harms them, while negative energy heals them.
+- **Negative Energy Affinity (-1 RP):** Though living, a Grave-Touched reacts to energy as if undead—positive energy harms them, while negative energy heals them.
 
-- **Predatory Nature:** A lifetime spent navigating fear, suspicion, and lies hones the Grave-Touched’s instincts. They gain a +2 racial bonus on Bluff and Perception checks.
+- **Predatory Nature (2 RP):** A lifetime spent navigating fear, suspicion, and lies hones the Grave-Touched’s instincts. They gain a +2 racial bonus on Bluff and Perception checks.
 
-- **Vampiric Eyes:** A Grave-Touched’s gaze pierces gloom like moonlight over headstones. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 60 feet.
+- **Vampiric Eyes (1 RP):** A Grave-Touched’s gaze pierces gloom like moonlight over headstones. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 60 feet.
 
 ---
 
 ## Dhampir Racial Traits
+At 1st level, you gain one racial trait, and you gain an additional racial trait every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Dhampir, you may select from the racial traits available to your base race, as well as those listed below.
+
+<RacialTraitTable traits={[...dhampirRacialTraits]} />
