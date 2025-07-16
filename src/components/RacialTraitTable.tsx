@@ -71,7 +71,7 @@ export default function RacialTraitTable({ traits }: RacialTraitTableProps) {
                 onClick={() => setSelectedTraitId(trait.id)}
                 style={{
                   cursor: "pointer",
-                  backgroundColor: selectedTraitId === trait.id ? "#b3d4fc" : "inherit",
+                  backgroundColor: selectedTraitId === trait.id ? "#8abb8c" : "inherit",
                 }}
               >
                 <td style={{ padding: "6px" }}>{trait.name}</td>
