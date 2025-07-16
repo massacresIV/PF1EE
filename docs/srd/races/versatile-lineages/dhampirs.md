@@ -32,7 +32,6 @@ When selecting racial traits, you can choose from those available to your race a
 ## Dhampir Lineages
 
 ### Grave-Touched
-
 Grave-Touched are dhampirs—creatures born of mortal blood and undead sin. Caught between life and death, they inherit a paradox of existence: breathing, yet touched by the grave. Whether the result of a vampire’s cursed bite upon an unborn child or a darker union best left unspoken, Grave-Touched walk the world with beauty that chills and a soul forever shadowed.
 
 - **Blood Without Decay (1 RP):** Death does not claim a Grave-Touched easily. They take no penalties from energy drain effects, though they can still be killed if they accrue more negative levels than they have Hit Dice. After 24 hours, any negative levels they possess are removed automatically without requiring a saving throw.

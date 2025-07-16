@@ -34,7 +34,7 @@ You select a lineage at 1st level to reflect abilities passed down to you from y
 
 ### High Elf
 High Elves gain the following racial traits;
-- **Arcane Insight (2 RP):** High Elves can cast *Detect Magic* at will as a spell-like ability, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the High Elf’s Intelligence modifier.
+- **Arcane Insight (2 RP):** High Elves can cast *Detect Magic* at will as a spell-like ability, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the High Elf’s Charisma modifier.
 - **Eidetic Recall (2 RP):** High Elves gain a +1 racial bonus on all Knowledge checks, and once per day, they may reroll a Knowledge check and take the better result.
 
 ### Dark Elf
@@ -49,7 +49,7 @@ Moon Elves gain the following racial traits;
 
 ### Wood Elf
 Wood Elves gain the following racial traits;
-- **Nature’s Embrace (3 RP):** Wood Elves can cast *Barkskin, Naturewatch, and Speak with Animals*, once each per day, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the Wood Elf’s Wisdom modifier.
+- **Nature’s Embrace (3 RP):** Wood Elves can cast *Barkskin, Naturewatch, and Speak with Animals*, once each per day, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the Wood Elf’s Charisma modifier.
 - **Rooted Resilience (1 RP):** Wood Elves gain a +1 racial bonus on saving throws against poison and disease.
 
 ---
