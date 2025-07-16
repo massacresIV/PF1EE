@@ -28,6 +28,11 @@ Halflings can see twice as far as humans in conditions of dim light.
 ## Halfling Lineages
 You select a lineage at 1st level to reflect abilities passed down to you from your ancestors or common among those of your race in the environment where you were born or grew up. You have only one lineage and can’t change it later. A lineage is not the same as a culture or ethnicity, though some cultures or ethnicities might have more or fewer members from a particular lineage.
 
+### Common Halfling
+- **Sociable (1 RP):** Common Halflings who attempt to change a creature’s attitude with a Diplomacy check and fail by 5 or more, they can try to influence the creature a second time even if 24 hours have not passed.
+- **Sure-Footed (2 RP):** Common Halflings gain a +2 racial bonus on Acrobatics and Climb checks.
+- **Weapon Familiarity (1 RP):** Common Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon.
+
 ---
 
 ## Halfling Racial Traits

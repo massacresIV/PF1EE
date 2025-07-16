@@ -25,6 +25,11 @@ Orcs can see perfectly in the dark up to 30 feet.
 ## Orc Lineages
 You select a lineage at 1st level to reflect abilities passed down to you from your ancestors or common among those of your race in the environment where you were born or grew up. You have only one lineage and can’t change it later. A lineage is not the same as a culture or ethnicity, though some cultures or ethnicities might have more or fewer members from a particular lineage.
 
+### Common Orc
+- **Diehard (2 RP):** Common Orcs gain Diehard as a bonus feat at 1st level.
+
+### Deep Orc
+
 ---
 
 ## Orc Racial Traits

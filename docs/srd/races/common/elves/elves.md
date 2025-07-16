@@ -32,15 +32,15 @@ Elves can see twice as far as humans in conditions of dim light.
 ## Elf Lineages
 You select a lineage at 1st level to reflect abilities passed down to you from your ancestors or common among those of your race in the environment where you were born or grew up. You have only one lineage and can’t change it later. A lineage is not the same as a culture or ethnicity, though some cultures or ethnicities might have more or fewer members from a particular lineage.
 
-### High Elf
-High Elves gain the following racial traits;
-- **Arcane Insight (2 RP):** High Elves can cast *Detect Magic* at will as a spell-like ability, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the High Elf’s Charisma modifier.
-- **Eidetic Recall (2 RP):** High Elves gain a +1 racial bonus on all Knowledge checks, and once per day, they may reroll a Knowledge check and take the better result.
+### Common Elf
+Common Elves gain the following racial traits;
+- **Arcane Insight (2 RP):** Common Elves can cast *Detect Magic* at will as a spell-like ability, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the Common Elf’s Charisma modifier.
+- **Eidetic Recall (2 RP):** Common Elves gain a +1 racial bonus on all Knowledge checks, and once per day, they may reroll a Knowledge check and take the better result.
 
-### Dark Elf
+### Deep Elf
 Dark Elves gain the following racial traits;
 - **Umbral Magic (3 RP):** Dark Elves can cast *dancing lights, darkness, and faerie fire*, once each per day, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the Dark Elf’s Charisma modifier.
-- **Darkvision (1 RP):** Dark Elves can see perfectly in the dark up to 30 feet, but lose their racial ability to see in areas of dim light (Low-Light Vision).
+- **Darkvision (1 RP):** Dark Elves can see perfectly in the dark up to 30 feet.
 
 ### Moon Elf
 Moon Elves gain the following racial traits;
