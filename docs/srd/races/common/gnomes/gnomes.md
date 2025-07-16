@@ -44,3 +44,5 @@ Surface Gnomes gain the following racial traits;
 
 ## Gnome Racial Traits
 At 1st level, you gain one racial trait, and you gain an additional racial trait every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Gnome, you select from among the following racial traits.
+
+<RacialTraitTable traits={[...gnomeRacialTraits]} />
