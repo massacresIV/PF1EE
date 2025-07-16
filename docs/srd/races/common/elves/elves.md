@@ -1,6 +1,6 @@
 import React from "react";
 import RacialTraitTable from "@site/src/components/RacialTraitTable";
-import { elfRacialTraits } from "@site/src/data/racial-traits/elf";
+import { elfRacialTraits } from "@site/src/data/racial-traits/elf-racials";
 
 # Elves
 
@@ -40,7 +40,7 @@ High Elves gain the following racial traits;
 ### Dark Elf
 Dark Elves gain the following racial traits;
 - **Umbral Magic (3 RP):** Dark Elves can cast *dancing lights, darkness, and faerie fire*, once each per day, using their total character level as caster level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the Dark Elf’s Charisma modifier.
-- **Darkvision (1 RP):** Dark Elves can see perfectly in the dark up to 60 feet, but lose their racial ability to see in areas of dim light (Low-Light Vision).
+- **Darkvision (1 RP):** Dark Elves can see perfectly in the dark up to 30 feet, but lose their racial ability to see in areas of dim light (Low-Light Vision).
 
 ### Moon Elf
 Moon Elves gain the following racial traits;

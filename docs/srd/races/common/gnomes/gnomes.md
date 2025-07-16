@@ -1,3 +1,7 @@
+import React from "react";
+import RacialTraitTable from "@site/src/components/RacialTraitTable";
+import { gnomeRacialTraits } from "@site/src/data/racial-traits/gnome-racials";
+
 # Gnomes
 
 ---
@@ -26,7 +30,7 @@ You select a lineage at 1st level to reflect abilities passed down to you from y
 
 ### Deep Gnome
 Deep Gnomes gain the following racial traits;
-- **Darkvision (1 RP):** Deep Gnomes can see perfectly in the dark up to 60 feet.
+- **Darkvision (1 RP):** Deep Gnomes can see perfectly in the dark up to 30 feet.
 - **Deep Gnome Magic (2 RP):** Deep Gnomes add +1 to the DC of any illusion spells or spell-like abilities they cast. Deep Gnomes also gain the following spell-like abilities: At Will—*ghost sound*; 1/day—*disguise self*. The caster level for these effects is equal to the Deep Gnome’s level. The DC for these spell-like abilities is equal to 10 + the spell’s level + the Deep Gnome’s Charisma modifier.
 - **Stonecunning (1 RP):** Deep Gnomes gain a +2 bonus on Perception checks to notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
 

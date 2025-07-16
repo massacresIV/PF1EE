@@ -1,6 +1,6 @@
 import React from "react";
 import RacialTraitTable from "@site/src/components/RacialTraitTable";
-import { dhampirRacialTraits } from "@site/src/data/racial-traits/dhampir";
+import { dhampirRacialTraits } from "@site/src/data/racial-traits/dhampir-racials";
 
 # Dhampirs
 
@@ -42,7 +42,7 @@ Grave-Touched are dhampirs—creatures born of mortal blood and undead sin. Caug
 
 - **Predatory Nature (2 RP):** A lifetime spent navigating fear, suspicion, and lies hones the Grave-Touched’s instincts. They gain a +2 racial bonus on Bluff and Perception checks.
 
-- **Vampiric Eyes (1 RP):** A Grave-Touched’s gaze pierces gloom like moonlight over headstones. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 60 feet.
+- **Vampiric Eyes (1 RP):** A Grave-Touched’s gaze pierces gloom like moonlight over headstones. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 30 feet.
 
 ---
 

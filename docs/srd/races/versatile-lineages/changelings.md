@@ -37,4 +37,4 @@ Marked by eerie insight and an unsettling presence, Hagborn Changelings bear the
 
 - **Haghide (2 RP):** Changelings gain a +1 natural armor bonus due to their unnaturally tough flesh and resilient, hag-tainted skin.
 
-- **Witchborn Eyes (1 RP):** Changelings can see twice as far as humans in conditions of dim light, gaining low-light vision. If they already have low-light vision from their base race, they instead gain darkvision out to 60 feet.
+- **Witchborn Eyes (1 RP):** Changelings can see twice as far as humans in conditions of dim light, gaining low-light vision. If they already have low-light vision from their base race, they instead gain darkvision out to 30 feet.

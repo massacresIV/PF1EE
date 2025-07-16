@@ -1,6 +1,6 @@
 import React from "react";
 import RacialTraitTable from "@site/src/components/RacialTraitTable";
-import { dwarfRacialTraits } from "@site/src/data/racial-traits/dwarf";
+import { dwarfRacialTraits } from "@site/src/data/racial-traits/dwarf-racials";
 
 # Dwarves
 
@@ -18,7 +18,7 @@ import { dwarfRacialTraits } from "@site/src/data/racial-traits/dwarf";
 Dwarves gain a +2 racial bonus on saving throws against poison, spells, and spell-like abilities.
 
 ### Darkvision
-Dwarves can see perfectly in the dark up to 60 feet.
+Dwarves can see perfectly in the dark up to 30 feet.
 
 ---
 

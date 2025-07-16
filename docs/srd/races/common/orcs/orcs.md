@@ -1,3 +1,7 @@
+import React from "react";
+import RacialTraitTable from "@site/src/components/RacialTraitTable";
+import { orcRacialTraits } from "@site/src/data/racial-traits/orc-racials";
+
 # Orcs
 
 ---
@@ -14,7 +18,7 @@
 Orcs receive Endurance as a bonus feat at 1st level.
 
 ### Darkvision
-Orcs can see perfectly in the dark up to 60 feet.
+Orcs can see perfectly in the dark up to 30 feet.
 
 ---
 

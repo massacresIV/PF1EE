@@ -71,7 +71,7 @@ export const skillFeats = [
         name: "Breadth of Experience",
         categories: ["Skill Feats"],
         prerequisites: "100+ years old.",
-        changes: `Bonus down from +2 to +1.`,
+        changes: `Bonus down from +2 to +1. Removed race restrictions.`,
         markdownContent: `# Breadth of Experience
 *You have a lifetime of knowledge and training.*
 

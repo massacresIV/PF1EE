@@ -1,6 +1,6 @@
 import React from "react";
 import RacialTraitTable from "@site/src/components/RacialTraitTable";
-import { skinwalkerRacialTraits } from "@site/src/data/racial-traits/skinwalker";
+import { skinwalkerRacialTraits } from "@site/src/data/racial-traits/skinwalker-racials";
 
 # Skinwalkers
 To play a character with a Skinwalker lineage, first select your race, just like you would for any character. You gain hit points, type, size, speed, languages, racial traits, and other abilities from that race. Then, instead of choosing a lineage from those normally available to that race, apply your chosen Skinwalker lineage. You gain all the features from your Skinwalker lineage, some of which might modify or replace statistics, abilities, or traits from your race.

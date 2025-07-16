@@ -66,7 +66,7 @@ export const elfRacialTraits = [
     id: "dark-powers",
     name: "Dark Powers",
     markdownContent: `*The shadows answer your call, twisting your magic with a subtle malevolence that clings to every word and gesture.*  
-**Prerequisites:** Darkkin Heritage.
+**Prerequisites:** Dark Elf.
 
 **Benefit:** You add +1 to the saving throw DCs for spells and spell-like abilities with the evil descriptor.`,
   },
@@ -74,9 +74,9 @@ export const elfRacialTraits = [
     id: "deepsight",
     name: "Deepsight",
     markdownContent: `*Your vision pierces the endless dark, allowing you to see what others cannot beneath the earth.*  
-**Prerequisites:** Darkkin Heritage.
+**Prerequisites:** Dark Elf.
 
-**Benefits:** Your darkvision has a range of 120 feet.`,
+**Benefits:** Your darkvision has a range of 60 feet.`,
   },
   {
     id: "defensive-training",
@@ -246,7 +246,7 @@ export const elfRacialTraits = [
     id: "poisoner",
     name: "Poisoner",
     markdownContent: `*Your keen senses and careful training allow you to manipulate poisons with deadly precision, making you a master of subtle and dangerous arts.*  
-**Prerequisites:** Darkkin or Woodkin Heritage.
+**Prerequisites:** Dark Elf or Wood Elf.
 
 **Benefits:** You receive Poison Use as a bonus feat, even if you do not meet the prerequisites.`,
   },

@@ -1,3 +1,7 @@
+import React from "react";
+import RacialTraitTable from "@site/src/components/RacialTraitTable";
+import { halflingRacialTraits } from "@site/src/data/racial-traits/halfling-racials";
+
 # Halflings
 
 ---

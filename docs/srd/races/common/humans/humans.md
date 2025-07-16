@@ -1,6 +1,6 @@
 import React from "react";
 import RacialTraitTable from "@site/src/components/RacialTraitTable";
-import { humanRacialTraits } from "@site/src/data/racial-traits/human";
+import { humanRacialTraits } from "@site/src/data/racial-traits/human-racials";
 
 # Humans
 
