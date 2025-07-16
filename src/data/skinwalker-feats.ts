@@ -17,12 +17,12 @@ export const skinwalkerFeats = [
     id: "bear-shape",
     name: "Bear Shape",
     categories: ["General Feats", "Racial Feats"],
-    prerequisites: "Con 13, Werebear-kin, character level 6th.",
+    prerequisites: "Cha 13, Werebear-kin, character level 6th.",
     changes: `New feat granting access to the true form of a bear as per Beast Shape II.`,
     markdownContent: `# Bear Shape
 *You have embraced the might of your ursine lineage, allowing you to fully assume the form of a great bear.*
 
-**Prerequisites:** Con 13, Werebear-kin, character level 6th.
+**Prerequisites:** Cha 13, Werebear-kin, character level 6th.
 
 **Benefit:** You can assume the form of a black bear, brown bear, or polar bear. This form is static and does not change each time you use this ability. You gain a +10 racial bonus on Disguise checks to appear as a natural bear. Changing into bear form is a standard action. This ability otherwise functions as *beast shape II*, and your ability scores adjust accordingly.
 
@@ -32,12 +32,12 @@ export const skinwalkerFeats = [
     id: "boar-shape",
     name: "Boar Shape",
     categories: ["General Feats", "Racial Feats"],
-    prerequisites: "Con 13, Wereboar-kin, character level 3rd.",
+    prerequisites: "Cha 13, Wereboar-kin, character level 3rd.",
     changes: `New feat granting access to the true form of a boar as per Beast Shape II.`,
     markdownContent: `# Boar Shape
 *You embrace the unyielding fury and raw power of the wild boar.*
 
-**Prerequisites:** Con 13, Wereboar-kin, character level 3rd.
+**Prerequisites:** Cha 13, Wereboar-kin, character level 3rd.
 
 **Benefit:** You can assume the form of a boar. This form is static and does not change each time you use this ability. You gain a +10 racial bonus on Disguise checks to appear as a natural boar. Changing into boar form is a standard action. This ability otherwise functions as *beast shape II*, and your ability scores adjust accordingly.
 
@@ -47,12 +47,12 @@ export const skinwalkerFeats = [
     id: "crocodile-shape",
     name: "Crocodile Shape",
     categories: ["General Feats", "Racial Feats"],
-    prerequisites: "Con 13, Werecrocodile-kin, character level 6th.",
+    prerequisites: "Cha 13, Werecrocodile-kin, character level 6th.",
     changes: `New feat granting access to the true form of a crocodile as per Beast Shape II.`,
     markdownContent: `# Crocodile Shape
 *You embody the silent menace and powerful jaws of the ancient crocodile.*
 
-**Prerequisites:** Con 13, Werecrocodile-kin, character level 6th.
+**Prerequisites:** Cha 13, Werecrocodile-kin, character level 6th.
 
 **Benefit:** You can assume the form of a crocodile. This form is static and does not change each time you use this ability. You gain a +10 racial bonus on Disguise checks to appear as a natural crocodile. Changing into crocodile form is a standard action. This ability otherwise functions as *beast shape II*, and your ability scores adjust accordingly.
 
@@ -92,12 +92,12 @@ export const skinwalkerFeats = [
     id: "shark-shape",
     name: "Shark Shape",
     categories: ["General Feats", "Racial Feats"],
-    prerequisites: "Con 13, Wereshark-kin, character level 6th.",
+    prerequisites: "Cha 13, Wereshark-kin, character level 6th.",
     changes: `New feat granting access to the true form of a shark as per Beast Shape II.`,
     markdownContent: `# Shark Shape
 *You become a fierce predator of the sea, embodying the power and grace of the shark.*
 
-**Prerequisites:** Con 13, Wereshark-kin, character level 6th.
+**Prerequisites:** Cha 13, Wereshark-kin, character level 6th.
 
 **Benefit:** You can assume the form of a shark. This form is static and does not change each time you use this ability. You gain a +10 racial bonus on Disguise checks to appear as a natural shark. Changing into shark form is a standard action. This ability otherwise functions as *beast shape II*, and your ability scores adjust accordingly.
 
@@ -107,12 +107,12 @@ export const skinwalkerFeats = [
     id: "tiger-shape",
     name: "Tiger Shape",
     categories: ["General Feats", "Racial Feats"],
-    prerequisites: "Con 13, Weretiger-kin, character level 6th.",
+    prerequisites: "Cha 13, Weretiger-kin, character level 6th.",
     changes: `New feat granting access to the true form of a tiger as per Beast Shape II.`,
     markdownContent: `# Tiger Shape
 *You have awakened the primal strength and deadly grace of the tiger lurking in your blood.*
 
-**Prerequisites:** Con 13, Weretiger-kin, character level 6th.
+**Prerequisites:** Cha 13, Weretiger-kin, character level 6th.
 
 **Benefit:** You can assume the form of a tiger. This form is static and does not change each time you use this ability. You gain a +10 racial bonus on Disguise checks to appear as a natural tiger. Changing into tiger form is a standard action. This ability otherwise functions as *beast shape II*, and your ability scores adjust accordingly.
 
