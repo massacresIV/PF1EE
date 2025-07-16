@@ -84,13 +84,13 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'srdSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'SRD',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/massacresIV/PF1EE',
           label: 'GitHub',
           position: 'right',
         },
