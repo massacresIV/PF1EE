@@ -73,7 +73,9 @@ export const skillFeats = [
         prerequisites: "100+ years old.",
         changes: `Bonus down from +2 to +1.`,
         markdownContent: `# Breadth of Experience
-*Although still young for your kind, you have a lifetime of knowledge and training.*
+*You have a lifetime of knowledge and training.*
+
+**Prerequisites:** 100+ years old.
 
 **Benefit:** You get a +1 bonus on all Knowledge and Profession skill checks, and can make checks with those skills untrained.`,    
     },
