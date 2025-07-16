@@ -69,7 +69,7 @@ export const skinwalkerFeats = [
 
 **Prerequisites:** Dex 13, Wereraptor-kin, character level 3rd.
 
-**Benefit:** You can assume the form of a raptor. This form is static and does not change each time you use this ability. You gain a +10 racial bonus on Disguise checks to appear as a natural raptor. Changing into raptor form is a standard action. This ability otherwise functions as *beast shape II*, and your ability scores adjust accordingly.
+**Benefit:** You can assume the form of a velociraptor. This form is static and does not change each time you use this ability. You gain a +10 racial bonus on Disguise checks to appear as a natural raptor. Changing into raptor form is a standard action. This ability otherwise functions as *beast shape II*, and your ability scores adjust accordingly.
 
 **Special:** If you wear a raptor pelt, you may instead assume a form resembling the raptor whose skin you wear.`,
   },
