@@ -65,8 +65,18 @@ The Shifter's class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly (
     </tbody>
 </table>
 
+## Shifter Strikes (Su)
+At 1st level, as a Swift Action a Shifter can transform her hands—or equivalent limbs—into natural weapons at will. This magical transformation is fueled as much by the Shifter’s faith in the natural world as it is by inborn talent. The Shifter can extend two primary natural attacks—choosing claws, natural attacks granted by her aspects, or one of each. Each attack deals 1d4 points of damage (1d3 if Small). Claws deal piercing and slashing damage, while natural attacks from aspects deal damage as described in their respective entries.
+
+As the shifter gains levels, the power of these natural attacks increases.
+
+At 3rd level, these natural attacks count as magic weapons, ignore DR/cold iron and DR/silver. At 7th level, the damage increases to 1d6 (1d4 if Small). At 11th level, the damage increases to 1d8 (1d6 if Small). At 13th level, the damage increases to 1d10 (1d8 if Small).
+At 17th level, the damage die does not increase, but the critical multiplier becomes ×3. Lastly, at 19th level, these natural attacks ignore DR/adamantine and DR/—.
+
+While the shifter uses Wild Shape, her natural attacks gain the same benefits granted by her Shifter Strikes ability. If the form she takes has claw attacks or other natural attacks granted by her aspects, she can use either the base damage of her Shifter Strikes or the damage of the form's natural attacks, whichever is greater. If the form does not have claw attacks or natural attacks granted by her aspects, she can choose up to two natural attacks that would deal less damage than her Shifter Strikes damage and have those natural attacks instead deal the same damage as her Shifter Strikes.
+
 ## Wild Shape (Su) 
-At 4th level, a Shifter gains the ability to turn herself into any Tiny, Small, Medium, or Large animal, or into the major form of one of her aspects.This ability functions as *Beast Shape II*, except as noted here. If the Shifter turns into the major form of her aspects, she may only turn into one of her aspects at a time. Using Wild Shape to change into either an animal, a major form, or back is a standard action that doesn’t provoke attacks of opportunity.
+At 4th level, a Shifter gains the ability to turn herself into any Tiny, Small, Medium, or Large animal, or into the major form of one of her aspects. This ability functions as *Beast Shape II*, except as noted here. If the Shifter turns into the major form of her aspects, she may only turn into one of her aspects at a time. Using Wild Shape to change into either an animal, a major form, or back is a standard action that doesn’t provoke attacks of opportunity.
 
 Often a particular aspect’s major form grants abilities beyond the normal effect of *Beast Shape II*. Each major form details the abilities the Shifter gains with that major form and at what level; she gains these instead of the form abilities from *Beast Shape II*, but she still gains *Beast Shape II* abilities that are size dependent.
 
