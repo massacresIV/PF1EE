@@ -201,3 +201,15 @@ Starting at 10th level, and every two levels thereafter, a witch can choose one 
 
 ## Grand Witch Hex
 Starting at 18th level, and every two levels thereafter, a witch can choose one of the following grand hexes whenever she could select a new hex.
+
+---
+
+# Favored Class Bonuses
+Instead of receiving an additional skill rank or hit point whenever they gain a level in their favored class, a character may instead select from a number of alternate bonuses specific to that class. These bonuses are available to any character whose favored class matches the listed class, regardless of their race. Unless otherwise noted, the bonus applies each time the character selects the favored class reward.
+
+The following options are available to characters who have **Witch** as their favored class:
+
+- Add +¼ to the Witch’s caster level when determining the effects of the spells granted to by the patron.
+- Add ⅕ of a new Hex (Select five times to gain one Hex; the Witch must meet its prerequisites).
+- Add 1 spell from the Witch spell list to the Witch's Familiar. This spell must be at least one level below the highest spell level the Witch can cast.  If the witch ever replaces this familiar, the new familiar knows these bonus spells. 
+- Add 1 spell from the Druid spell list to the Witch's Familiar. This spell must be at least one level below the highest spell level the Witch can cast.  If the witch ever replaces this familiar, the new familiar knows these bonus spells. 

@@ -233,3 +233,16 @@ At 11th level, a Champion can expend two uses of her Smite ability to grant the 
 
 ## Divine Champion (Su)
 At 20th level, a Champion becomes a conduit for the power of her god. Her Damage Reduction granted by her Code increases by 5. Whenever she uses Smite and successfully strikes an Outsider opposed to her chosen Smite, the outsider is also subject to a banishment, using her Champion level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). After the banishment effect and the damage from the attack is resolved, the Smite immediately ends. In addition, whenever she Channels Energy or uses Champion’s Touch, she heals or harms the maximum possible amount.
+
+---
+
+# Favored Class Bonuses
+Instead of receiving an additional skill rank or hit point whenever they gain a level in their favored class, a character may instead select from a number of alternate bonuses specific to that class. These bonuses are available to any character whose favored class matches the listed class, regardless of their race. Unless otherwise noted, the bonus applies each time the character selects the favored class reward.
+
+The following options are available to characters who have **Champion** as their favored class:
+- Add +1 foot to the size of all the Champion’s Oath Mantles. This bonus only applies in 5-foot increments (each time this bonus is selected five times).
+- Add +½ to the Champion’s Champion's Touch ability (whether using it to heal or harm).
+- Add +¼ to the Champion’s critical hit confirmation rolls made while using Smite (maximum bonus of +5).
+- Add +¼ to the Champion’s deflection bonus granted by their Smite ability.
+- Add +1 to the Champion’s energy resistance to one kind of energy (maximum +20).
+- Add ⅕ of a new Infused Touch (Select five times to gain one Mercy or Cruelty; the Champion must meet its prerequisites).

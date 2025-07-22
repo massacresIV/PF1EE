@@ -8,11 +8,11 @@ hide_table_of_contents: true
   <img src="/PF1EE/img/artwork/classes/Bard.png" alt="Bard Class Artwork" />
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
-The bard uses skill and spell alike to bolster his allies, confound his enemies, and build upon his fame.
+The Bard uses skill and spell alike to bolster his allies, confound his enemies, and build upon his fame.
 
-Untold wonders and secrets exist for those skillful enough to discover them. Through cleverness, talent, and magic, these cunning few unravel the wiles of the world, becoming adept in the arts of persuasion, manipulation, and inspiration. Typically masters of one or many forms of artistry, bards possess an uncanny ability to know more than they should and use what they learn to keep themselves and their allies ever one step ahead of danger. Bards are quick-witted and captivating, and their skills might lead them down many paths, be they gamblers or jacks-of-all-trades, scholars or performers, leaders or scoundrels, or even all of the above. For bards, every day brings its own opportunities, adventures, and challenges, and only by bucking the odds, knowing the most, and being the best might they claim the treasures of each.
+Untold wonders and secrets exist for those skillful enough to discover them. Through cleverness, talent, and magic, these cunning few unravel the wiles of the world, becoming adept in the arts of persuasion, manipulation, and inspiration. Typically masters of one or many forms of artistry, Bards possess an uncanny ability to know more than they should and use what they learn to keep themselves and their allies ever one step ahead of danger. Bards are quick-witted and captivating, and their skills might lead them down many paths, be they gamblers or jacks-of-all-trades, scholars or performers, leaders or scoundrels, or even all of the above. For Bards, every day brings its own opportunities, adventures, and challenges, and only by bucking the odds, knowing the most, and being the best might they claim the treasures of each.
 
-**Role:** Bards capably confuse and confound their foes while inspiring their allies to ever-greater daring. While accomplished with both weapons and magic, the true strength of bards lies outside melee, where they can support their companions and undermine their foes without fear of interruptions to their performances.
+**Role:** Bards capably confuse and confound their foes while inspiring their allies to ever-greater daring. While accomplished with both weapons and magic, the true strength of Bards lies outside melee, where they can support their companions and undermine their foes without fear of interruptions to their performances.
 
 **Alignment:** Any
 
@@ -21,7 +21,7 @@ Untold wonders and secrets exist for those skillful enough to discover them. Thr
 **Starting Wealth:** 3d6 × 10 gp (average 105 gp.) In addition, each character begins play with an outfit worth 10 gp or less.
 
 # Class Skills
-The bard’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex), and Use Magic Device (Cha).
+The Bard’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex), and Use Magic Device (Cha).
 
 **Skill Ranks Per Level:** 6 + Int modifier.
 # Class Features
@@ -71,7 +71,7 @@ The bard’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Cli
 </table>
 
 ## Weapon and Armor Proficiency
-A bard is proficient with all simple weapons, plus the longsword, rapier, sap, shortsword, shortbow, and whip. Bards are also proficient with light armor and shields (except tower shields). A bard can cast bard spells while wearing light armor and using a shield without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a bard wearing medium or heavy armor incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+A Bard is proficient with all simple weapons, plus the longsword, rapier, sap, shortsword, shortbow, and whip. Bards are also proficient with light armor and shields (except tower shields). A Bard can cast Bard spells while wearing light armor and using a shield without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a Bard wearing medium or heavy armor incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass Bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
 ## Bard Spellcasting
 
@@ -150,8 +150,21 @@ Improved Spells Per Day and Spells Known progression.
 :::
 
 ## Bardic Knowledge (Ex)
-A bard adds half his class level (minimum 1) to all Knowledge skill checks and may make all Knowledge skill checks untrained.
+A Bard adds half his class level (minimum 1) to all Knowledge skill checks and may make all Knowledge skill checks untrained.
 
 ## Bardic Performance
 
 ## Versatile Performance (Ex)
+
+---
+
+# Favored Class Bonuses
+Instead of receiving an additional skill rank or hit point whenever they gain a level in their favored class, a character may instead select from a number of alternate bonuses specific to that class. These bonuses are available to any character whose favored class matches the listed class, regardless of their race. Unless otherwise noted, the bonus applies each time the character selects the favored class reward.
+
+The following options are available to characters who have **Bard** as their favored class:
+- Add +½ on Bluff checks to pass secret messages and +½ on Diplomacy checks to gather information.  
+- Add +½ to the Bard’s Bardic Knowledge bonus (Maximum +10).  
+- Add +1 to the Bard’s total number of Bardic Performance rounds per day.  
+- Add +5 feet to the range of one of the Bard’s Bardic Performances (Maximum +20 feet to any one performance).  
+- Add 1 spell known from the Bard spell list. This spell must be at least one level below the highest spell level the Bard can cast.  
+- Add 1 spell known from the Wizard’s Illusion school. This spell must be at least one level below the highest spell level the Bard can cast.
