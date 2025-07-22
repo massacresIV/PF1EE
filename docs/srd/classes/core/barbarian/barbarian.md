@@ -108,7 +108,7 @@ As a Barbarian gains levels, she learns to use her rage in new ways. Starting at
 
 Any Barbarian who meets the powers’ prerequisites can select and use rage powers. Totem rage powers grant powers related to a theme. A Barbarian cannot select from more than one group of totem rage powers; for example, a Barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with “dragon totem” in its title).
 
-A complete list of rage powers can be found here: [Rage Powers](/docs/srd/classes/core/Barbarian/rage-powers)
+A complete list of rage powers can be found here: [Rage Powers](/docs/srd/classes/core/barbarian/rage-powers)
 
 :::info[Changes]
 Multiple Rage Power changes.
