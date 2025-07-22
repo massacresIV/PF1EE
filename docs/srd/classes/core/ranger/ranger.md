@@ -169,3 +169,12 @@ Alternatively, a Ranger may also choose an animal companion from any of the anim
 :::info[Changes]
 Changed companion bond duration from a number of rounds equal to Wisdom modifier. Removed -3 effective Druid level penalty for Animal Companions on the Ranger list. Added access to all Animal Choices as a Druid with the -3 Druid level penalty.
 :::
+
+## Woodland Stride (Ex)
+At 7th level, a Ranger may move through any sort of undergrowth (such as thorns, briars, overgrown areas, and similar terrain), whether natural or magically manipulated, at his normal speed and without taking damage or suffering any movement penalties from such terrain.
+
+This ability allows a Ranger to ignore the difficult terrain and movement-impairing damage of spells like *Sickening Entangle* or *Spike Growth*, but it does not grant immunity to other effects of such spells (such as being sickened or entangled by magical vines). A Ranger must still save against or resist such effects normally.
+
+:::info[Changes]
+Woodland Stride now allows the Ranger to move through magically manipulated undergrowth with immunity to movement impairment and movement-impaired damage, but not other effects.
+:::

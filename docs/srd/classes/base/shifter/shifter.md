@@ -120,12 +120,16 @@ Track changed into a skill feat. Skill bonus tethered to class. Feat redundancy 
 :::
 
 ## Woodland Grace (Ex)
-At 3rd level, a Shifter can move through any sort of undergrowth (such as briars, natural thorns, overgrown areas, and similar terrain) at her normal speed and without taking damage or suffering any other impairment. Briars, thorns, and overgrown areas that are enchanted or magically manipulated to impede motion still affect the Shifter. In addition, the Shifter is immune to the entangled condition and gains a +2 dodge bonus to AC against attacks of opportunity. This ability functions only while the Shifter is conscious and not flat-footed.
+At 3rd level, a Shifter can move through any sort of undergrowth (such as thorns, briars, overgrown areas, and similar terrain), whether natural or magically manipulated, at her normal speed and without taking damage or suffering any movement penalties from such terrain. 
+
+This ability allows a Shifter to ignore the difficult terrain and movement-impairing damage of spells like *Sickening Entangle* or *Spike Growth*, but it does not grant immunity to other effects of such spells (such as being sickened or entangled by magical vines). A Shifter must still save against or resist such effects normally.
+
+In addition, the Shifter is immune to the entangled condition and gains a +2 dodge bonus to AC against attacks of opportunity. These additional benefits only function while the Shifter is conscious and not flat-footed.
 
 This ability counts as *Woodland Stride* for the purposes of qualifying for feats and prestige classes, treating her effective Druid level as equal to her Shifter level.
 
 :::info[Changes]
-Woodland Stride replaced with Owlcat's Woodland Grace ability, gaining an additional immunity against being entangled and a bonus to AC against AOOs. Added clause that the Shifter can only benefit from these benefits whilst conscious and not flat-footed.
+Woodland Stride replaced with Owlcat's Woodland Grace ability, gaining an additional immunity to the entangled condition and a dodge bonus to AC against attacks of opportunity. Also allows movement through magically manipulated undergrowth, ignoring movement impairment and terrain damage. Added clause that the Shifter only benefits while conscious and not flat-footed.
 :::
 
 ## Wild Shape (Su) 

@@ -172,3 +172,12 @@ In addition, when using the Wild Empathy feat, the Druid adds a bonus equal to h
 :::info[Changes]
 Wild Empathy changed into a skill feat. Halved skill bonus and it tethered to class. Now uses Handle Animal instead of a Charisma-ability check. Feat redundancy added.
 :::
+
+## Woodland Stride (Ex)
+Starting at 2nd level, a druid may move through any sort of undergrowth (such as thorns, briars, overgrown areas, and similar terrain), whether natural or magically manipulated, at her normal speed and without taking damage or suffering any movement penalties from such terrain.
+
+This ability allows a Druid to ignore the difficult terrain and movement-impairing damage of spells like *Sickening Entangle* or *Spike Growth*, but it does not grant immunity to other effects of such spells (such as being sickened or entangled by magical vines). A Druid must still save against or resist such effects normally.
+
+:::info[Changes]
+Woodland Stride now allows the Druid to move through magically manipulated undergrowth with immunity to movement impairment and movement-impaired damage, but not other effects.
+:::
