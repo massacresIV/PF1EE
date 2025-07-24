@@ -42,19 +42,19 @@ The Barbarian’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), H
     <tbody>
         <tr><td>1st</td><td>+1</td><td>+2</td><td>+0</td><td>+0</td><td>Fast Movement, Rage</td></tr>
         <tr><td>2nd</td><td>+2</td><td>+3</td><td>+0</td><td>+0</td><td>Rage Power, Uncanny Dodge</td></tr>
-        <tr><td>3rd</td><td>+3</td><td>+3</td><td>+1</td><td>+1</td><td>Danger Sense +1</td></tr>
+        <tr><td>3rd</td><td>+3</td><td>+3</td><td>+1</td><td>+1</td><td>Barbarian Feat, Danger Sense +1</td></tr>
         <tr><td>4th</td><td>+4</td><td>+4</td><td>+1</td><td>+1</td><td>Rage Power</td></tr>
         <tr><td>5th</td><td>+5</td><td>+4</td><td>+1</td><td>+1</td><td>Improved Uncanny Dodge</td></tr>
         <tr><td>6th</td><td>+6/+1</td><td>+5</td><td>+2</td><td>+2</td><td>Danger Sense +2, Rage Power</td></tr>
         <tr><td>7th</td><td>+7/+2</td><td>+5</td><td>+2</td><td>+2</td><td>Damage Reduction 1/—</td></tr>
         <tr><td>8th</td><td>+8/+3</td><td>+6</td><td>+2</td><td>+2</td><td>Rage Power</td></tr>
-        <tr><td>9th</td><td>+9/+4</td><td>+6</td><td>+3</td><td>+3</td><td>Danger Sense +3</td></tr>
+        <tr><td>9th</td><td>+9/+4</td><td>+6</td><td>+3</td><td>+3</td><td>Barbarian Feat, Danger Sense +3</td></tr>
         <tr><td>10th</td><td>+10/+5</td><td>+7</td><td>+3</td><td>+3</td><td>Damage Reduction 2/—, Rage Power</td></tr>
         <tr><td>11th</td><td>+11/+6/+1</td><td>+7</td><td>+3</td><td>+3</td><td>Greater Rage</td></tr>
         <tr><td>12th</td><td>+12/+7/+2</td><td>+8</td><td>+4</td><td>+4</td><td>Danger Sense +4, Rage Power</td></tr>
         <tr><td>13th</td><td>+13/+8/+3</td><td>+8</td><td>+4</td><td>+4</td><td>Damage Reduction 3/—</td></tr>
         <tr><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+4</td><td>+4</td><td>Indomitable Will, Rage Power</td></tr>
-        <tr><td>15th</td><td>+15/+10/+5</td><td>+9</td><td>+5</td><td>+5</td><td>Danger Sense +5</td></tr>
+        <tr><td>15th</td><td>+15/+10/+5</td><td>+9</td><td>+5</td><td>+5</td><td>Barbarian Feat, Danger Sense +5</td></tr>
         <tr><td>16th</td><td>+16/+11/+6/+1</td><td>+10</td><td>+5</td><td>+5</td><td>Damage Reduction 4/—, Rage Power</td></tr>
         <tr><td>17th</td><td>+17/+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td>Tireless Rage</td></tr>
         <tr><td>18th</td><td>+18/+13/+8/+3</td><td>+11</td><td>+6</td><td>+6</td><td>Danger Sense +6, Rage Power</td></tr>
@@ -118,6 +118,13 @@ Multiple Rage Power changes.
 At 2nd level, a Barbarian gains the ability to react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dexterity bonus to AC if immobilized. A Barbarian with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her.
 
 If a Barbarian already has uncanny dodge from a different class, she automatically gains improved uncanny dodge instead.
+
+## Barbarian Feats
+At 3rd level, and at every six levels thereafter, a Barbarian gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as combat feats. The Barbarian must meet the prerequisites of these bonus feats.
+
+:::info[Changes]
+Added three combat feats to bring Barbarian in-line with Bloodrager and help alleviate feat starvation for a martial class.
+:::
 
 ## Danger Sense (Ex)
 At 3rd level, a Barbarian gains a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks by traps. In addition, she gains a +1 bonus on Perception checks to avoid being surprised by a foe. These bonuses increase by 1 every 3 levels thereafter (to a maximum of +6 at 18th level). This ability counts as trap sense for any feat or class prerequisite, and can be replaced by any archetype class feature that replaces trap sense. The bonuses gained from this ability stack with those gained from trap sense (if the Barbarian has trap sense from another class).
