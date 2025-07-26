@@ -11,10 +11,10 @@ Added domain bonus.
 
 **Inspiring Word (Sp):** As a standard action, you can speak an inspiring word to a creature within 30 feet. That creature receives a +2 morale bonus on attack rolls, skill checks, ability checks, and saving throws for a number of rounds equal to 1/2 your cleric level (minimum 1). You can use this power a number of times per day equal to 3 + your Wisdom modifier.
 
-**Leadership (Ex):** At 8th level, you receive Leadership as a bonus feat. This cohort is a practioner of your faith, and remains your cohort so long as you uphold the tenets of your deity (or divine concept if you do not venerate a deity).
+**Sovereign Dignity (Su):** At 8th level your nobility manifests in supernatural confidence and focus. Whenever you receive a competence or a morale bonus from a spell, spell-like ability, or magic item, including those you cast on yourself, that bonus increases by +1. If you receive a morale bonus or a competence bonus that affects an area or multiple targets, as an immediate action you can share your increased bonus with all other recipients. This increase to other participants lasts a number of rounds equal to your Wisdom modifier bonus. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.
 
 :::info[Changes]
-Altered to account for Leadership changes.
+Leadership domain power replaced with a more maneagable ability.
 :::
 
 # Domain Spells

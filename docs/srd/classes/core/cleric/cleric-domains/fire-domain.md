@@ -1,7 +1,7 @@
 # Fire Domain
 
 # Domain Bonus
-*You can call forth fire, command creatures of the inferno, and your flesh does not burn. In addition, you gain a +1 bonus to your caster level when casting Cleric spells with the fire descriptor.*
+*You can call forth fire, command creatures of the inferno, and your flesh does not burn. In addition, you gain a +1 bonus to your caster level when casting Cleric spells with the fire descriptor or the light descriptor.*
 
 :::info[Changes]
 Added domain bonus.
