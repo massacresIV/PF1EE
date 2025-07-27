@@ -167,11 +167,9 @@ At 10th level, his unarmed attacks are also treated as lawful weapons for the pu
 
 At 16th level, his unarmed attacks are treated as adamantine weapons for the purpose of overcoming damage reduction and bypassing hardness.
 
-By spending 1 point from his ki pool as a swift action, a Monk can make one additional unarmed strike at his highest attack bonus when making a flurry of blows attack. This bonus attack stacks with all bonus attacks gained from flurry of blows, as well as those from haste and similar effects. A Monk gains additional powers that consume points from his ki pool as he gains levels.
-
 By spending 1 point from his ki pool as a swift action, a monk can do one of the following:
 
-- Make one additional attack at his highest attack bonus when making a flurry of blows attack.
+- Make one additional attack at his highest attack bonus when making a flurry of blows attack. This bonus attack stacks with all bonus attacks gained from haste and similar effects.
 - Increase his speed by 20 feet for 1 round.
 - Give himself a +4 dodge bonus to AC for 1 round.
 

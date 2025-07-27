@@ -15,7 +15,11 @@ Added a Domain Bonus.
 Improved scaling damage, added ability modifier to damage, reduced uses per day.
 :::
 
-**Electricity Resistance (Ex):** At 6th level, you gain Resist Electricity 10. This resistance increases to 20 at 12th level. At 20th level, you gain Immunity to Electricity.
+**Electricity Resistance (Ex):** At 6th level, you gain Resist Electricity 10. This resistance increases to 20 at 12th level and to 30 at 18th level. At 20th level, you gain immunity to Electricity.
+
+:::info[Changes]
+Improved Scaling and added new resistance intervals.
+:::
 
 # Domain Spells
 1st—obscuring mist, 2nd—wind wall, 3rd—gaseous form, 4th—air walk, 5th—control winds, 6th—chain lightning, 7th—elemental body IV (air only), 8th—whirlwind, 9th—elemental swarm (air spell only).

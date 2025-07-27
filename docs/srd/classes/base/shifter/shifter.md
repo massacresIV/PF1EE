@@ -92,6 +92,10 @@ At 17th level, the damage die does not increase, but the critical multiplier bec
 
 While the Shifter uses Wild Shape, her natural attacks gain the same benefits granted by her Shifter Strikes ability. If the form she takes has claw attacks or other natural attacks granted by her aspects, she can use either the base damage of her Shifter Strikes or the damage of the form's natural attacks, whichever is greater. If the form does not have claw attacks or natural attacks granted by her aspects, she can choose up to two natural attacks that would deal less damage than her Shifter Strikes damage and have those natural attacks instead deal the same damage as her Shifter Strikes.
 
+:::info[Changes]
+Renamed to *Shifter Strikes* to reflect broader applicability beyond claws. Now allows any combination of claws or natural weapons granted by aspects. Natural weapon damage types clarified. Adjusted language for broader natural weapon choices when combined with new wild shape.
+:::
+
 ## Wild Empathy (Ex)
 At 1st level, a Shifter gains the *Wild Empathy* feat as a bonus feat, even if she does not meet the prerequisites. If the Shifter already possesses Wild Empathy, she instead gains a skill feat for which she meets the prerequisites.
 

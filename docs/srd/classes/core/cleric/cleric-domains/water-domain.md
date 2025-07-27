@@ -15,7 +15,11 @@ Added a Domain Bonus.
 Improved scaling damage, added ability modifier to damage, reduced uses per day.
 :::
 
-**Cold Resistance (Ex):** At 6th level, you gain resist cold 10. This resistance increases to 20 at 12th level. At 20th level, you gain immunity to cold.
+**Cold Resistance (Ex):** At 6th level, you gain resist cold 10. This resistance increases to 20 at 12th level and to 30 at 18th level. At 20th level, you gain immunity to Cold.
+
+:::info[Changes]
+Improved Scaling and added new resistance intervals.
+:::
 
 # Domain Spells
 1st—obscuring mist, 2nd—fog cloud, 3rd—water breathing, 4th—control water, 5th—ice storm, 6th—cone of cold, 7th—elemental body IV (water only), 8th—horrid wilting, 9th—elemental swarm (water spell only).

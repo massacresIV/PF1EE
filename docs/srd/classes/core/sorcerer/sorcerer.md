@@ -169,7 +169,7 @@ Additionally, the sorcerer gains further bloodline powers at 3rd, 9th, 15th, and
 
 At 1st level and every six levels thereafter (7th, 13th, and 19th), she gains a bonus feat selected from her bloodline’s list of bonus feats. The sorcerer must meet all prerequisites for these feats.
 
-Finally, at 1st level and every two levels thereafter (3rd, 5th, 7th, etc.), the sorcerer adds one bloodline spell to her list of spells known. These spells are in addition to those gained from Table: Sorcerer Spells Known and may not be replaced when she gains the ability to swap spells at later levels.
+Finally, at 1st level and every two levels thereafter (3rd, 5th, 7th, etc.), the sorcerer adds one bloodline spell to her list of spells known. These spells are in addition to those gained from the Sorcerer's Spells Known Table and may not be replaced when she gains the ability to swap spells at later levels.
 
 :::info[Changes]
 Sorcerer gains an additional Bloodline feat at 1st level.
@@ -187,7 +187,7 @@ A sorcerer casts arcane spells drawn primarily from the sorcerer/wizard spell li
 
 Like other spellcasters, a sorcerer can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on the table. In addition, she receives bonus spells per day if she has a high Charisma score.
 
-A sorcerer’s selection of spells is extremely limited. A sorcerer begins play knowing four 0-level spells and two 1st-level spells of her choice. At each new sorcerer level, she gains one or more new spells, as indicated on the Spells Known table. Unlike spells per day, the number of spells a sorcerer knows is not affected by her Charisma score; the numbers on Table: Sorcerer Spells Known are fixed. These new spells can be common spells chosen from the sorcerer/wizard spell list, or they can be unusual spells that the sorcerer has gained some understanding of through study.
+A sorcerer’s selection of spells is extremely limited. A sorcerer begins play knowing four 0-level spells and two 1st-level spells of her choice. At each new sorcerer level, she gains one or more new spells, as indicated on the Spells Known table. Unlike spells per day, the number of spells a sorcerer knows is not affected by her Charisma score; the numbers on the Sorcerer's Spells Known Table are fixed. These new spells can be common spells chosen from the sorcerer/wizard spell list, or they can be unusual spells that the sorcerer has gained some understanding of through study.
 
 Upon reaching a new level, a sorcerer can choose to learn a new spell in place of one she already knows. In effect, the sorcerer loses the old spell in exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged. A sorcerer may swap only a single spell at any given level, and must choose whether or not to swap the spell at the same time that she gains new spells known for the level.
 

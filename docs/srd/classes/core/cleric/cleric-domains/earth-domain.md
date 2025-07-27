@@ -15,7 +15,11 @@ Added domain bonus.
 Improved scaling damage, added ability modifier to damage, reduced uses per day.
 :::
 
-**Acid Resistance (Ex):** At 6th level, you gain resist acid 10. This resistance increases to 20 at 12th level. At 20th level, you gain immunity to acid.
+**Acid Resistance (Ex):** At 6th level, you gain resist acid 10. This resistance increases to 20 at 12th level and to 30 at 18th level. At 20th level, you gain immunity to Acid.
+
+:::info[Changes]
+Improved Scaling and added new resistance intervals.
+:::
 
 # Domain Spells
 1st—magic stone, 2nd—soften earth and stone, 3rd—stone shape, 4th—spike stones, 5th—wall of stone, 6th—stoneskin, 7th—elemental body IV (earth only), 8th—earthquake, 9th—elemental swarm (earth spell only).
