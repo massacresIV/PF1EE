@@ -112,7 +112,7 @@ The Archivist’s prayerbook functions like a wizard’s spellbook but contains 
 
 - **Gaining New Spells:** Each time the Archivist gains a new level, he adds two new cleric spells of any level he can cast to his prayerbook.
 
-- **Copying Spells:** The Archivist can copy spells from other Archivists’ prayerbooks or spell scrolls by:
+- **Copying Spells:** The Archivist can copy spells from any prayerbook, spellbook, or spell scroll, as long as the spell is on the Cleric spell list:
   - **Deciphering:** Firstly deciper the magical writing (Spellcraft DC 20 + spell level, or use *read magic*).
   - **Studying:** Secondly after a successful deciphering, study the spell for 1 hour, then succeeding at a Spellcraft check (DC 15 + spell level). Specialists receive +2 on this check for spells from their specialty school.
   - **Copying:** Thirdly after a successful study, copying the spell to the prayerbook, which costs 1 hour per spell level (30 minutes for 0-level spells), one page per spell level, and materials costing gold equal to the spell level’s write cost.

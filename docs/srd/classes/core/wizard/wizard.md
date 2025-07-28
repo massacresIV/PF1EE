@@ -119,8 +119,8 @@ A wizard must study his spellbook each day to prepare spells. He cannot prepare 
 
 - **Gaining New Spells:** Each time the Wizard gains a new level, he adds two new wizard spells of any level he can cast to his spellbook.
 
-- **Copying Spells:** The Wizard can copy spells from other Wizard’ spellbooks or spell scrolls by:
-  - **Deciphering:** Firstly deciper the magical writing (Spellcraft DC 20 + spell level, or use *read magic*).
+- **Copying Spells:** The Wizard can copy spells from any prayerbook, spellbook, or spell scroll, as long as the spell is on the Sorcerer/Wizard spell list:
+  - **Deciphering:** First, deciper the magical writing (Spellcraft DC 20 + spell level, or use *read magic*).
   - **Studying:** Secondly after a successful deciphering, study the spell for 1 hour, then succeeding at a Spellcraft check (DC 15 + spell level). Specialists receive +2 on this check for spells from their specialty school.
   - **Copying:** Thirdly after a successful study, copying the spell to the spellbook, which costs 1 hour per spell level (30 minutes for 0-level spells), one page per spell level, and materials costing gold equal to the spell level’s write cost.
 
