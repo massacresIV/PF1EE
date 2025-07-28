@@ -32,4 +32,13 @@ Improved Scaling and added new resistance intervals.
 
 **Elemental Movement (Su):** At 15th level, you gain a special movement type or bonus. This ability is based on your chosen element, as indicated on the Elemental Bloodline Energy Types and Movement Table.
 
-**Elemental Body (Su):** At 20th level, elemental power surges through your body. You gain immunity to sneak attacks and critical hits.
+**Elemental Apotheosis (Su):** At 20th level, your mortal frame is finally subsumed by raw elemental energy. You transcend your original form and become a native elemental. Your creature type changes to outsider (elemental, native, [air/earth/fire/water]), and you gain all associated outsider and elemental traits. You are always treated as a creature of your elemental type and subtype for the purposes of spells, planar effects, and interactions with elementals. In addition, your body continuously radiates elemental energy, granting one of the following additional benefits based on your energy type:
+
+- **Air:** You gain a constant *feather fall* effect and gain the ability to become incorporeal for 1 round per sorcerer level per day (these rounds need not be consecutive, activated as a swift action). While incorporeal, you retain your fly speed and can move through solid objects.
+- **Earth:** You gain DR 10/adamantine and a tremorsense radius of 30 feet. You always know which square a burrowing or grounded creature is in, even if you can't see them.
+- **Fire:** You gain a fiery aura. Any creature that ends its turn adjacent to you takes 1d6 fire damage (no save). In addition, your fire spells ignore fire resistance and treat immunity as resistance 30.
+- **Water:** You gain concealment (20% miss chance) in fog, mist, or water. In addition, you can move through difficult terrain caused by water or ice without penalty.
+
+:::info[Changes]
+Type changes to outsider (elemental, native, [air/earth/fire/water]); added full elemental traits; added energy interaction based on subtype. Grants permanent form of Elemental Body IV benefits and thematic immunities or enhancements.
+:::

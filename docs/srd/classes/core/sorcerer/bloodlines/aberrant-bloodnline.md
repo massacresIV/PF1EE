@@ -27,4 +27,8 @@ Improved scaling damage, added ability modifier to damage, reduced uses per day.
 
 **Alien Resistance (Su):** At 15th level, you gain spell resistance equal to your sorcerer level + 10.
 
-**Aberrant Form (Ex):** At 20th level, your body becomes truly unnatural. You are immune to critical hits and sneak attacks. In addition, you gain blindsight with a range of 60 feet and damage reduction 5/—.
+**Aberrant Form (Ex):** At 20th level, your body and mind undergo a final, incomprehensible metamorphosis, becoming something wholly alien. Your creature type changes to aberration, and you gain all associated traits. You become immune to critical hits, sneak attacks, and polymorph effects unless you allow them. You gain blindsight 60 feet and DR 10/—. In addition, creatures within 30 feet of you must succeed at a Will save (DC 10 + 1/2 your sorcerer level + your Charisma modifier) or become shaken for 1 round as their minds reel from your unnatural presence. This is a mind-affecting fear effect. A creature that succeeds at this save is immune to this effect for 24 hours.
+
+:::info[Changes]
+Type changes to Aberration. DR increased to 10/—. Gained immunity to polymorph. Added fear aura reflecting unnatural presence. Existing blindsight and immunity to crits/sneak preserved.
+:::

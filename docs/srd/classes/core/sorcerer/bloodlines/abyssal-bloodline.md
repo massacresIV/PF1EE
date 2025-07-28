@@ -31,4 +31,12 @@ Improved Scaling and added new resistance and saving throw intervals.
 
 **Added Summonings (Su):** At 15th level, whenever you summon a creature with the demon subtype or the fiendish template using a summon monster spell, you summon one additional creature of the same kind.
 
-**Demonic Might (Su):** At 20th level, the power of the Abyss flows through you. You gain immunity to electricity and poison. You also gain resistance to acid 10, cold 10, and fire 10, and gain telepathy with a range of 60 feet (allowing you to communicate with any creature that can speak a language).
+**Demonic Apotheosis (Su):** At 20th level, the power of the Abyss fully corrupts your flesh and soul, and you ascend into a true demon. Your creature type changes to outsider (chaotic, demon, evil, extraplanar), and you gain all associated traits. You grow demonic wings, granting you a fly speed of 60 feet (good maneuverability), and gain telepathy 60 feet.
+
+You gain immunity to electricity, poison, and disease, resistance 10 to acid, cold, and fire, and DR 10/good and cold iron. In addition, you can use *greater teleport* (self plus 50 lbs. only) and *unholy blight* as spell-like abilities once per day each (caster level equal to your sorcerer level).
+
+You are always treated as a demon for the purpose of spells, effects, and creature interactions.
+
+:::info[Changes]
+Type changes to outsider (chaotic, evil, extraplanar); added DR 10/good and cold iron; immunity to disease; demonic wings for flight; limited teleport and unholy blight SLAs; explicitly treated as a demon.
+:::

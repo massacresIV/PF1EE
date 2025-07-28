@@ -31,7 +31,7 @@ Added new saving throw increase interval.
 
 **Dream Walking (Sp):** At 15th level, you can enter the ethereal plane. This functions like *ethereal jaunt*, but with a duration of 1 minute for every 2 sorcerer levels you possess. Once during this trip, you may cast *nightmare* as a spell-like ability on a creature you see on the Material Plane. (This is an exception to the normal rule that ethereal creatures cannot affect targets on the Material Plane).
 
-**Fearsome Survival (Su):** At 20th level, the power in your blood fully manifests, and you transcend your mortal form to become a true hag. Your creature type changes to monstrous humanoid, and you acquire all the monstrous humanoid traits. You are always treated as a hag for the purpose of coven abilities and effects that interact with hags. In addition, you gain DR 10/cold iron and spell resistance equal to 6 + your sorcerer level. Finally, you are immune to charm, cold, fear, fire, and sleep effects.
+**Fearsome Survival (Su):** At 20th level, the power in your blood fully manifests, and you transcend your mortal form to become a true hag. Your creature type changes to monstrous humanoid, and you gain all associated traits. You are always treated as a hag for the purpose of coven abilities and effects that interact with hags. In addition, you gain DR 10/cold iron and spell resistance equal to 6 + your sorcerer level. Finally, you are immune to charm, cold, fear, fire, and sleep effects.
 
 :::info[Changes]
 Type changes to Monstrous Humanoid and treated as a Hag. Added immunity to charm, cold, fear, fire and sleep effects. 

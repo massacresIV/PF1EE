@@ -51,7 +51,7 @@ The Monk’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escape
         <tr><td>8th</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td>Ki Power</td><td>1d10</td><td>+2</td><td>+20 ft.</td></tr>
         <tr><td>9th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+3</td><td>Improved Evasion, Style Strike</td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr>
         <tr><td>10th</td><td>+10/+5</td><td>+7</td><td>+7</td><td>+3</td><td>Ki Power, Ki Strike (Lawful), Monk Feat</td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr>
-        <tr><td>11th</td><td>+11/+6/+1</td><td>+7</td><td>+7</td><td>+3</td><td>Flurry of Blows (Bonus Attack)</td><td>1d0</td><td>+2</td><td>+30 ft.</td></tr>
+        <tr><td>11th</td><td>+11/+6/+1</td><td>+7</td><td>+7</td><td>+3</td><td>Flurry of Blows (Bonus Attack)</td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr>
         <tr><td>12th</td><td>+12/+7/+2</td><td>+8</td><td>+8</td><td>+4</td><td>Ki Power</td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
         <tr><td>13th</td><td>+13/+8/+3</td><td>+8</td><td>+8</td><td>+4</td><td>Style strike, Tongue of the Sun and Moon</td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
         <tr><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td>Ki Power, Monk Feat</td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
@@ -110,7 +110,9 @@ At 1st level, the Monk gains Stunning Fist as a bonus feat, even if he does not 
 
 At 4th level, and every 4 levels thereafter, the Monk gains the ability to apply a new condition to the target of his Stunning Fist. This condition replaces stunning the target for 1 round, and a successful saving throw still negates the effect.
 
-At 4th level, the Monk can choose to make the target fatigued. At 8th level, he can make the target sickened for 1 minute.
+At 4th level, the Monk can choose to make the target fatigued. 
+
+At 8th level, he can make the target sickened for 1 minute.
 
 At 12th level, he can make the target staggered for 1d6+1 rounds.
 
@@ -248,31 +250,31 @@ At 5th level, a Monk gains immunity to all diseases, including supernatural and 
 ## Style Strike (Ex)
 At 5th level, a Monk can learn one type of style strike. Whenever he makes a flurry of blows, he can designate one of his unarmed strikes as a style strike. This attack is resolved as normal, but it has an additional effect depending on the type of strike chosen. At 9th level, and every 4 levels thereafter, a Monk learns an additional style strike. He must choose which style strike to apply before the attack roll is made. At 15th level, he can designate up to two of his unarmed strikes each round as a style strike, and each one can be a different type. The Monk can choose from any of the following strikes.
 
-- Break: The Monk combines a writhing twist with a violent strike against a foe that is grappling him. If the Monk’s attack is successful, he can attempt a grapple combat maneuver check or Escape Artist check as a free action to escape a grapple, adding the strike’s damage as a bonus on his check.
+- **Break:** The Monk combines a writhing twist with a violent strike against a foe that is grappling him. If the Monk’s attack is successful, he can attempt a grapple combat maneuver check or Escape Artist check as a free action to escape a grapple, adding the strike’s damage as a bonus on his check.
 
-- Defensive Spin: The Monk spins about, confounding his foe. If the attack hits, the Monk gains a +4 dodge bonus to AC against any attacks made by the target of the style strike until the start of his next turn. This bonus does not stack with itself. The Monk must attack with a fist to use this style strike.
+- **Defensive Spin:** The Monk spins about, confounding his foe. If the attack hits, the Monk gains a +4 dodge bonus to AC against any attacks made by the target of the style strike until the start of his next turn. This bonus does not stack with itself. The Monk must attack with a fist to use this style strike.
 
-- Elbow Smash: The Monk follows up a punch with a strike from his elbow. If the attack hits, the Monk can make an additional attack using the same attack bonus as the punch at a –5 penalty. If this second attack hits, it deals damage as normal, but all of the damage is nonlethal. The Monk must attack with a fist to use this style strike.
+- **Elbow Smash:** The Monk follows up a punch with a strike from his elbow. If the attack hits, the Monk can make an additional attack using the same attack bonus as the punch at a –5 penalty. If this second attack hits, it deals damage as normal, but all of the damage is nonlethal. The Monk must attack with a fist to use this style strike.
 
-- Flying Kick: The Monk leaps through the air to strike a foe with a kick. Before the attack, the Monk can move a distance equal to his fast movement bonus. This movement is made as part of the Monk’s flurry of blows attack and does not require an additional action. At the end of this movement, the Monk must make an attack against an adjacent foe. This movement may be between attacks. This movement provokes an attack of opportunity as normal. The attack made after the movement must be a kick.
+- **Flying Kick:** The Monk leaps through the air to strike a foe with a kick. Before the attack, the Monk can move a distance equal to his fast movement bonus. This movement is made as part of the Monk’s flurry of blows attack and does not require an additional action. At the end of this movement, the Monk must make an attack against an adjacent foe. This movement may be between attacks. This movement provokes an attack of opportunity as normal. The attack made after the movement must be a kick.
 
-- Foot Stomp: The Monk stomps on a foe’s foot, preventing the opponent from escaping. If the attack hits and the Monk ends his turn adjacent to that foe, the foe’s movement is restricted. Until the start of the Monk’s next turn, the target of this attack can move only in such a way that the space it occupies is adjacent to the Monk. Alternatively, it can attempt a combat maneuver check (against the Monk’s CMD) as a standard action to break free. This strike does not work against foes that cannot be tripped. The Monk must attack with a kick to use this style strike.
+- **Foot Stomp:** The Monk stomps on a foe’s foot, preventing the opponent from escaping. If the attack hits and the Monk ends his turn adjacent to that foe, the foe’s movement is restricted. Until the start of the Monk’s next turn, the target of this attack can move only in such a way that the space it occupies is adjacent to the Monk. Alternatively, it can attempt a combat maneuver check (against the Monk’s CMD) as a standard action to break free. This strike does not work against foes that cannot be tripped. The Monk must attack with a kick to use this style strike.
 
-- Hammerblow: The Monk links his hands together, swinging both arms like a club and dealing tremendous damage. If the attack hits, the Monk rolls his unarmed strike damage twice, adding both rolls together before applying Strength and other modifiers to the damage. This bonus damage is not multiplied on a critical hit. The Monk must attack with a fist to use this style strike, but must have both hands free.
+- **Hammerblow:** The Monk links his hands together, swinging both arms like a club and dealing tremendous damage. If the attack hits, the Monk rolls his unarmed strike damage twice, adding both rolls together before applying Strength and other modifiers to the damage. This bonus damage is not multiplied on a critical hit. The Monk must attack with a fist to use this style strike, but must have both hands free.
 
-- Head-Butt: The Monk slams his head into his enemy’s head, leaving his foe reeling. If the attack hits and the foe is of the same size or one size smaller than the Monk, the Monk can make a free combat maneuver check against the target of this strike (using the base attack bonus of the attack used to hit the foe). If the foe is not of the same creature type as the Monk, the Monk takes a –8 penalty on this check. If the check is successful, the target is staggered for 1 round. Creatures without a discernible head are not affected by this style strike (subject to GM discretion). The Monk must attack with a head-butt to use this style strike.
+- **Head-Butt:** The Monk slams his head into his enemy’s head, leaving his foe reeling. If the attack hits and the foe is of the same size or one size smaller than the Monk, the Monk can make a free combat maneuver check against the target of this strike (using the base attack bonus of the attack used to hit the foe). If the foe is not of the same creature type as the Monk, the Monk takes a –8 penalty on this check. If the check is successful, the target is staggered for 1 round. Creatures without a discernible head are not affected by this style strike (subject to GM discretion). The Monk must attack with a head-butt to use this style strike.
 
-- Knockback Kick: The Monk attempts to knock his foe back with a powerful kick. If the attack hits, the Monk can attempt a free combat maneuver check against the foe (using the base attack bonus of the attack used to hit the foe). If the check is successful, the foe is knocked 10 feet directly away from the Monk. This distance increases by 10 feet for every 5 by which the check exceeds the foe’s CMD, to a maximum distance equal to the Monk’s fast movement bonus. This movement does not provoke an attack of opportunity. The foe stops moving if it strikes another creature, barrier, or otherwise solid object. The creature is not knocked prone by this movement. The Monk must attack with a kick to use this style strike.
+- **Knockback Kick:** The Monk attempts to knock his foe back with a powerful kick. If the attack hits, the Monk can attempt a free combat maneuver check against the foe (using the base attack bonus of the attack used to hit the foe). If the check is successful, the foe is knocked 10 feet directly away from the Monk. This distance increases by 10 feet for every 5 by which the check exceeds the foe’s CMD, to a maximum distance equal to the Monk’s fast movement bonus. This movement does not provoke an attack of opportunity. The foe stops moving if it strikes another creature, barrier, or otherwise solid object. The creature is not knocked prone by this movement. The Monk must attack with a kick to use this style strike.
 
-- Leg Sweep: The Monk attempts to sweep his foe’s leg, knocking the opponent down. If the attack hits, the Monk can make a free trip attempt against the target of this strike (using the base attack bonus of the attack used to hit the foe). This trip attempt does not provoke an attack of opportunity. The Monk must attack with a kick to use this style strike.
+- **Leg Sweep:** The Monk attempts to sweep his foe’s leg, knocking the opponent down. If the attack hits, the Monk can make a free trip attempt against the target of this strike (using the base attack bonus of the attack used to hit the foe). This trip attempt does not provoke an attack of opportunity. The Monk must attack with a kick to use this style strike.
 
-- Rabbit Punch: The Monk gives a sharp blow to the back of a foe’s head. The critical threat range and critical multiplier of this strike increase by 1, and the Monk gains a +2 bonus on attack rolls to confirm a critical hit with this strike. This increase is not doubled by Improved Critical or similar effects. Creatures without a discernible head are unaffected by this style strike (subject to GM discretion). The Monk must attack with a fist to use this style strike.
+- **Rabbit Punch:** The Monk gives a sharp blow to the back of a foe’s head. The critical threat range and critical multiplier of this strike increase by 1, and the Monk gains a +2 bonus on attack rolls to confirm a critical hit with this strike. This increase is not doubled by Improved Critical or similar effects. Creatures without a discernible head are unaffected by this style strike (subject to GM discretion). The Monk must attack with a fist to use this style strike.
 
-- Shattering Punch: The Monk delivers a brutal punch that can penetrate defenses. If the attack hits, it bypasses any damage reduction or hardness possessed by the target of that attack. The Monk must attack with a fist to use this style strike.
+- **Shattering Punch:** The Monk delivers a brutal punch that can penetrate defenses. If the attack hits, it bypasses any damage reduction or hardness possessed by the target of that attack. The Monk must attack with a fist to use this style strike.
 
-- Spin Kick: The Monk spins about, delivering a kick his foe did not expect. The Monk makes his attack against the foe’s flat-footed AC. Creatures with the uncanny dodge class feature or a similar effect cannot be caught flat-footed by this style strike. The Monk must attack with a kick to use this style strike.
+- **Spin Kick:** The Monk spins about, delivering a kick his foe did not expect. The Monk makes his attack against the foe’s flat-footed AC. Creatures with the uncanny dodge class feature or a similar effect cannot be caught flat-footed by this style strike. The Monk must attack with a kick to use this style strike.
 
-- Throat Crush: The Monk gives a sharp blow to a foe’s throat, hampering its ability to speak for 1 round as if it had the caster croak spellblight. Creatures without a discernible throat, or with multiple vocal organs, are unaffected (subject to GM discretion).
+- **Throat Crush:** The Monk gives a sharp blow to a foe’s throat, hampering its ability to speak for 1 round as if it had the caster croak spellblight. Creatures without a discernible throat, or with multiple vocal organs, are unaffected (subject to GM discretion).
 
 ## Improved Evasion (Ex)
 At 9th level, a Monk’s evasion ability improves. He still takes no damage on successful Reflex saving throws against attacks, but henceforth he takes only half damage on failed saves. A helpless Monk does not gain the benefit of improved evasion.
@@ -288,6 +290,20 @@ At 19th level, a Monk gains total control over his mental faculties. Whenever he
 
 ## Perfect Self
 At 20th level, a Monk becomes a magical creature. He is forevermore treated as an outsider rather than a humanoid (or whatever his original creature type was) for the purpose of spells and magical effects. Additionally, the Monk gains damage reduction 10/chaotic, which allows him to ignore the first 10 points of damage from any attack made by a nonchaotic weapon. Unlike other outsiders, the Monk can still be brought back from the dead as if he were a member of his previous creature type. Finally, the Monk gains the ability to enter a state of perfect calm. During this time, the Monk can take no actions, but he does regain ki at the rate of 1 point per 10 minutes spent at calm. He cannot use this ability to gain an amount of ki in excess of his maximum.
+
+---
+
+# Favored Class Bonuses
+Instead of receiving an additional skill rank or hit point whenever they gain a level in their favored class, a character may instead select from a number of alternate bonuses specific to that class. These bonuses are available to any character whose favored class matches the listed class, regardless of their race. Unless otherwise noted, the bonus applies each time the character selects the favored class reward.
+
+The following options are available to characters who have **Monk** as their favored class:
+
+- Add +1 foot to the Monks’s base speed. This bonus only applies in 5-foot increments (each time this bonus is selected five times).
+- Add +1 to the Monk’s CMD when resisting a grapple and +½ to the number of Stunning Fist attempts per day.
+- Add +¼ ki points to the Monk's *Ki Pool*.
+- Add ⅕ of a new ki Power (Select five times to gain one ki power; the Monk must meet its prerequisites).
+
+---
 
 # Monk Archetypes
 ## Archetype Mapping
