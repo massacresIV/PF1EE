@@ -110,12 +110,12 @@ export const skillFeats = [
     id: "careful-sneak",
     name: "Careful Sneak",
     categories: ["Skill Feats"],
-    prerequisites: "Dexterity 15, 6 ranks in Stealth.",
+    prerequisites: "Dex 15, 6 ranks in Stealth.",
     changes: `Removed movement speed limiter. Removed feat chain.`,
     markdownContent: `# Careful Sneak
 *You know how to move silently even while wearing some forms of armor.*
 
-**Prerequisites:** Dexterity 15, 6 ranks in Stealth.
+**Prerequisites:** Dex 15, 6 ranks in Stealth.
 
 **Benefit:** You do not apply the armor check penalty for light and medium armor on Stealth skill checks.`,
     },
@@ -123,11 +123,11 @@ export const skillFeats = [
     id: "careful-speaker",
     name: "Careful Speaker",
     categories: ["Skill Feats"],
-    prerequisites: "Wisdom 13.",
+    prerequisites: "Wis 13.",
     markdownContent: `# Careful Speaker
 *The paranoid terror that comes from living in a region with a dangerous government has made you unusually aware of what you say.*
 
-**Prerequisites:** Wisdom 13.
+**Prerequisites:** Wis 13.
 
 **Benefit:** You gain a +2 bonus on all Bluff checks made to fool someone or pass secret messages (but not to feint in combat), and a +2 bonus on all Will saves against attempts to scry upon you or read your mind.`,
     },
@@ -135,11 +135,11 @@ export const skillFeats = [
     id: "childlike",
     name: "Childlike",
     categories: ["Skill Feats"],
-    prerequisites: "Charisma 13, halfling.",
+    prerequisites: "Cha 13, halfling.",
     markdownContent: `# Childlike
 *Your resemblance to a human child tends to make others trust you, perhaps more than they should.*
 
-**Prerequisites:** Charisma 13, halfling.
+**Prerequisites:** Cha 13, halfling.
 
 **Benefit:** You can take 10 on Bluff checks to convince others you are telling the truth, so long as your story makes you appear innocent. You gain a +2 bonus on Disguise checks to pose as a human child, and ignore the penalties for disguising yourself as a different race and age category when doing so.`,
     },
@@ -298,11 +298,11 @@ These bonuses do not stack with those granted by Persuasive, but this feat count
     id: "edge-runner",
     name: "Edge Runner",
     categories: ["Skill Feats"],
-    prerequisites: "Dexterity 13.",
+    prerequisites: "Dex 13.",
     markdownContent: `# Edge Runner
 *You move with speed and assurance in places that cause others to fall into danger.*
 
-**Prerequisites:** Dexterity 13.
+**Prerequisites:** Dex 13.
 
 **Benefit:** You can move at full speed while using Acrobatics to balance on narrow surfaces, and do not become flat-footed or lose your Dexterity bonus to AC while doing so. You also gain a +4 bonus on Climb checks to catch yourself while falling. Additionally, you gain a +4 bonus on saving throws against effects that would cause you to fall into a pit (such as create pit or pit traps). This bonus does not apply to your CMD against bull rush or trip attacks.`,
     },
@@ -395,12 +395,12 @@ These bonuses do not stack with those granted by Persuasive, but this feat count
         id: "falconry",
         name: "Falconry",
         categories: ["Skill Feats"],
-        prerequisites: "Charisma 11, Animal Affinity, animal companion class feature.",
+        prerequisites: "Cha 11, Animal Affinity, animal companion class feature.",
         changes: `Lowered Charisma prerequisite from 13.`,
         markdownContent: `# Falconry
     *You know the secret arts of falconry developed by a prestigious family.*
 
-    **Prerequisites:** Charisma 11, Animal Affinity, animal companion class feature.
+    **Prerequisites:** Cha 11, Animal Affinity, animal companion class feature.
 
     **Benefit:** You improve your affinity with birds of prey, such as eagles, falcons, hawks, and owls. You gain a +2 bonus on Animal Handling checks made to train or control birds of prey. In addition, if you have a bird of prey as an animal companion, your animal companion gains one of the following bonuses chosen when gained: a +1 dodge bonus to AC, a +1 morale bonus on all attack rolls, or a +2 morale bonus on all Will saves.`,
     },
@@ -468,12 +468,12 @@ These bonuses do not stack with those granted by Persuasive, but this feat count
     id: "master-of-knowledge",
     name: "Master of Knowledge",
     categories: ["Skill Feats"],
-    prerequisites: "Intelligence 17, Skill Focus (Knowledge [any]).",
+    prerequisites: "Int 17, Skill Focus (Knowledge [any]).",
     changes: `Removed deity restriction.`,
     markdownContent: `# Master of Knowledge
 *In times of need, you have the answers.*
 
-**Prerequisites:** Intelligence 17, Skill Focus (Knowledge [any]).
+**Prerequisites:** Int 17, Skill Focus (Knowledge [any]).
 
 **Benefit:** Choose a single Knowledge skill with which you have Skill Focus. Once per day, when you wish to make a check with that Knowledge skill, you need not roll and may treat the result as a natural 20 instead.`,
     },
@@ -638,11 +638,11 @@ A creature that fails to identify a false trail follows it for the determined di
     id: "one-eye-open",
     name: "One Eye Open",
     categories: ["Skill Feats"],
-    prerequisites: "Wisdom 13, Alertness.",
+    prerequisites: "Wis 13, Alertness.",
     markdownContent: `# One Eye Open
 *Your senses seek out threats even while you sleep.*
 
-**Prerequisites:** Wisdom 13, Alertness.
+**Prerequisites:** Wis 13, Alertness.
 
 **Benefit:** The DCs of your Perception checks don’t increase when you are asleep. If you succeed at a Perception check to notice something dangerous while asleep, you can wake up to confront the danger.
 
