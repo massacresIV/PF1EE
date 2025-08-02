@@ -175,7 +175,7 @@ A spellbook may be sold for half the total cost of inscribing the spells it cont
 </details>
 
 :::info[Changes]
-Spells per day maximum reduced by 1 at each level.
+Reduced maximum spells per day by 1 at each level.
 :::
 
 ## Arcane Pool (Su)

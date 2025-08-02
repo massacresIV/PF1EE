@@ -3,12 +3,12 @@ export const itemcreationFeats = [
         id: "brew-potion",
         name: "Brew Potion",
         categories: ["Item Creation Feats"],
-        prerequisites: "Caster level 3rd.",
-        changes: `Crafting duration standardized to 100gp per hour.`,
+        prerequisites: "Caster level 1st.",
+        changes: `Prerequisites lowered for access at first level. Crafting duration standardized to 100gp per hour.`,
         markdownContent: `# Brew Potion
 *You can create magic potions.*
 
-**Prerequisite:** Caster level 3rd.
+**Prerequisite:** Caster level 1st.
 
 **Benefit:** You can create a potion of any 3rd-level or lower spell that you know and that targets one or more creatures or objects. Brewing a potion takes 1 hour per 100 gp of the potion’s base price, rounded down to the nearest 100 gp (minimum 1 hour). When you create a potion, you set the caster level, which must be sufficient to cast the spell in question and no higher than your own level. To brew a potion, you must use up raw materials costing one half of this base price.
 

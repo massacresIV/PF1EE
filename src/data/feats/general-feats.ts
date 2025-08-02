@@ -31,6 +31,27 @@ A spellcaster with this feat can enhance a deck of cards as though it were a ran
 Only a character who possesses this feat can use an enhanced deck of cards; she must still use the Arcane Strike feat to activate the cards’ enhancement.`,
 },
 {
+    id: "deific-obedience",
+    name: "Deific Obedience",
+    categories: ["General Feats"],
+    prerequisites: "Knowledge (religion) 3 ranks, must worship a deity.",
+    changes: `Clarifies that characters without levels in evangelist, exalted, or sentinel choose one of those boon types upon first receiving a boon, and all subsequent boons follow that type. Gaining levels in a relevant prestige class replaces your chosen boon type with the appropriate one. Prestige classes still grant boons earlier than normal.`,
+    markdownContent: `# Deific Obedience
+*Your reverence for a deity is so great that daily prayer and minor sacrifices grant you special boons.*
+
+**Prerequisites:** Knowledge (religion) 3 ranks, must worship a deity.
+
+**Benefit:** Each deity requires a different daily obedience, but all obediences take no more than 1 hour per day to perform. Once you’ve performed the obedience, you gain the benefit of a special ability or resistance as indicated in the Obedience entry for the god to whom you performed the obedience.
+
+If you have at least 12 Hit Dice, you also gain the first boon granted by your deity. When you first become eligible for this boon, choose one type of boon set: **evangelist**, **exalted**, or **sentinel**. All subsequent boons granted by this feat belong to the same category. If you later gain levels in the **evangelist**, **exalted**, or **sentinel** prestige classes, your boon type changes to match that class, replacing any previous boons with those appropriate to your new class.
+
+If you have at least 16 Hit Dice, you also gain the second boon. If you have 20 Hit Dice or more, you also gain the third boon. Unless a specific duration or number of uses per day is listed, a boon’s effects are constant.
+
+Characters with levels in the evangelist, exalted, or sentinel prestige classes gain access to their associated boons at lower levels as a benefit of those classes.
+
+If you ever fail to perform a daily obedience, you lose all access to the benefits and boons granted by this feat until you next perform the obedience.`,
+},
+{
     id: "natural-spell",
     name: "Natural Spell",
     categories: ["General Feats"],
@@ -59,6 +80,21 @@ You can also use any material components or focuses you possess, even if such it
 **Benefit:** Whenever you activate your rage ability, you can choose to enter a Reckless Rage. During a Reckless Rage, the morale bonuses to your Strength and Constitution increases by +2, but you take an additional -2 penalty to your Armor Class. These increases and penalties last until your Reckless Rage ends.
 
 **Special:** If you have the variant rage class feature, you instead increase the bonus to melee attack rolls, melee damage rolls, thrown weapon damage rolls by 1 instead. Furthermore, you gain 1 additional temporary hitpoint per Hit Die. Finally, you take an additional -2 penalty to your Armor Class.`,
+},
+{
+    id: "selective-channel",
+    name: "Selective Channel",
+    categories: ["General Feats"],
+    prerequisites: "Cha 13, Channel energy class feature.",
+    changes: `Now excludes all allies or enemies, depending on whether you channel to heal or harm.`,
+    markdownContent: `# Selective Channel
+*You can choose whom to affect when you channel energy.*
+
+**Prerequisite:** Cha 13, channel energy class feature.
+
+**Benefit:** When you positive channel energy to heal the living or channel negative energy to heal the undead, you do not affect enemies. When you channel positive energy to damage undead or channel negative energy to damage living, you do not affect allies.
+
+**Normal:** All targets in a 30-foot burst are affected when you channel energy. You can only choose whether or not you are affected.`,
 },
 {
     id: "steadfast-determination",
