@@ -15,7 +15,13 @@ When selecting racial traits, you can choose from those available to your race a
 
 ## Geniekind Lineages
 
-### Common Geniekind
+### Ifrit
+
+### Oread
+
+### Sylph
+
+### Undine
 
 ---
 
