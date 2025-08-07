@@ -93,7 +93,7 @@ A Cleric of a chaotic, evil, good, or lawful deity has a particularly powerful a
 
 To prepare or cast a spell, the Cleric must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a Cleric’s spell is 10 + the spell level + the Cleric’s Wisdom modifier.
 
-A Cleric can only cast a limited number of spells per spell level each day, as shown on the class progression table. In addition, she receives bonus spells per day if her Wisdom is high enough (see “Ability Modifiers and Bonus Spells”).
+A Cleric can only cast a limited number of spells of each spell level per day, as shown on the class progression table. In addition, she receives bonus spells per day if her Wisdom is high enough (see “Ability Modifiers and Bonus Spells”).
 
 A Cleric can prepare and cast any spell on the Cleric spell list, provided she is capable of casting spells of that level. She must choose which spells to prepare during her daily ritual. 
 

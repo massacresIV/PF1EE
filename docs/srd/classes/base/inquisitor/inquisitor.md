@@ -136,7 +136,7 @@ The Inquisitor's class skills are Bluff (Cha), Climb (Str), Craft (Int), Diploma
 
         To learn or cast a spell, a Inquisitor must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a Inquisitor's spell is 10 + the spell level + the Inquisitor's Wisdom modifier.
 
-        A Inquisitor can cast a limited number of spells of each spell level per day, as shown on the Inquisitor class progression table. She also receives bonus spells per day if her Wisdom score is high enough (see Ability Modifiers and Bonus Spells).
+        A Inquisitor can only cast a limited number of spells of each spell level per day, as shown on the Inquisitor class progression table. She also receives bonus spells per day if her Wisdom score is high enough (see Ability Modifiers and Bonus Spells).
 
         A Inquisitor's selection of spells is extremely limited. She begins play knowing four 0-level spells of her choice and two 1st-level spells of her choice. At each new Inquisitor level, she gains one or more new spells, as indicated on the Inquisitor's Spells Known Table. These new spells can be common spells chosen from the Inquisitor spell list.
 

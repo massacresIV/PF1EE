@@ -131,7 +131,7 @@ Sorcerers are proficient with all simple weapons. They are not proficient with a
 
         To learn or cast a spell, a sorcerer must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a sorcerer's spell is 10 + the spell level + the sorcerer's Charisma modifier.
 
-        A sorcerer can cast a limited number of spells of each spell level per day, as shown on the Sorcerer class progression table. She also receives bonus spells per day if her Charisma score is high enough (see Ability Modifiers and Bonus Spells).
+        A sorcerer can only cast a limited number of spells of each spell level per day, as shown on the Sorcerer class progression table. She also receives bonus spells per day if her Charisma score is high enough (see Ability Modifiers and Bonus Spells).
 
         A sorcerer's selection of spells is extremely limited. She begins play knowing four 0-level spells of her choice and two 1st-level spells of her choice. At each new sorcerer level, she gains one or more new spells, as indicated on the Sorcerer's Spells Known Table. These spells can be common spells chosen from the sorcerer/wizard spell list.
 

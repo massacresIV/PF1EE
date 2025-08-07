@@ -122,7 +122,7 @@ A Bard is proficient with all simple weapons, plus the longsword, rapier, sap, s
 
         To learn or cast a spell, a Bard must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a Bard's spell is 10 + the spell level + the Bard's Charisma modifier.
 
-        A Bard can cast a limited number of spells of each spell level per day, as shown on the Bard class progression table. He also receives bonus spells per day if his Charisma score is high enough (see Ability Modifiers and Bonus Spells).
+        A Bard can only cast a limited number of spells of each spell level per day, as shown on the Bard class progression table. He also receives bonus spells per day if his Charisma score is high enough (see Ability Modifiers and Bonus Spells).
 
         A Bard's selection of spells is extremely limited. He begins play knowing four 0-level spells of his choice and two 1st-level spells of his choice. At each new Bard level, he gains one or more new spells, as indicated on the Bard's Spells Known Table. These new spells can be common spells chosen from the Bard spell list.
 

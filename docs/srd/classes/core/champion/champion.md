@@ -86,7 +86,7 @@ At 1st level, a Champion gains a particularly powerful aura which corresponds to
 
 To prepare or cast a spell, the Champion must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a Champion’s spell is 10 + the spell level + the Champion’s Charisma modifier.
 
-A Champion can only cast a limited number of spells per spell level each day, as shown on the class progression table. In addition, she receives bonus spells per day if her Wisdom is high enough (see “Ability Modifiers and Bonus Spells”). If the table indicates 0 spells per day of a given level, the Champion may still prepare and cast bonus spells of that level if his Wisdom score is high enough.
+A Champion can only cast a limited number of spells of each spell level per day, as shown on the class progression table. In addition, she receives bonus spells per day if her Wisdom is high enough (see “Ability Modifiers and Bonus Spells”). If the table indicates 0 spells per day of a given level, the Champion may still prepare and cast bonus spells of that level if his Wisdom score is high enough.
 
 A Champion can prepare and cast any spell on the Champion spell list, provided she is capable of casting spells of that level. She must choose which spells to prepare during her daily ritual. 
 

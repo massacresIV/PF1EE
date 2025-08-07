@@ -87,7 +87,7 @@ Wizards are now proficient with simple weapons.
 
 To learn, prepare, or cast a spell, a wizard must have an Intelligence score equal to 10 + the spell’s level. The saving throw DC for a wizard's spell is 10 + the spell’s level + the wizard’s Intelligence modifier.
 
-A wizard can only cast a limited number of spells per spell level each day, as shown on the class progression table. In addition, he receives bonus spells per day if his Intelligence is high enough (see “Ability Modifiers and Bonus Spells”).
+A wizard can only cast a limited number of spells of each spell level per day, as shown on the class progression table. In addition, he receives bonus spells per day if his Intelligence is high enough (see “Ability Modifiers and Bonus Spells”).
 
 **Cantrips:** Wizards can prepare a number of cantrips, or 0-level spells, each day, as shown on the class progression table. These spells are cast like any other spell, but they are not expended when cast and may be used again. A wizard can prepare a cantrip from an opposition school, but it uses up two of his available slots (see below).
 

@@ -82,7 +82,7 @@ An Archivist casts divine spells drawn from the cleric spell list. Unlike cleric
 
 To learn, prepare, or cast a spell, an Archivist must have an Intelligence score equal to 10 + the spell’s level. The saving throw DC for an Archivist’s spell is 10 + the spell’s level + the Archivist’s Intelligence modifier.
 
-An Archivist can only cast a limited number of spells per spell level each day, as shown on the class progression table. In addition, he receives bonus spells per day if his Intelligence is high enough (see “Ability Modifiers and Bonus Spells”).
+An Archivist can only cast a limited number of spells of each spell level per day, as shown on the class progression table. In addition, he receives bonus spells per day if his Intelligence is high enough (see “Ability Modifiers and Bonus Spells”).
 
 <details>
 <summary><strong>Rest and Spell Preparation</strong></summary>
