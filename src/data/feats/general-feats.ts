@@ -71,7 +71,7 @@ You can also use any material components or focuses you possess, even if such it
   name: "Rebuke Undead",
   categories: ["General Feats"],
   prerequisites: "Channel Negative Energy class feature.",
-  changes: "Homebrew feat reminiscent of 3.5 Rebuke Undead class feature, intended for parity with Turn Undead.",
+  changes: "Command Undead renamed to Rebuke Undead, intended for parity with Turn Undead. Commanded Undead no longer permanent, but minutes per level to match the Control Undead spell limitations.",
   markdownContent: `# Rebuke Undead
 *With a wave of malevolent divine energy, you assert control over the restless dead, cowing them into submission or forcing them to obey your will.*
 
