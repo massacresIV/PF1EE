@@ -156,13 +156,13 @@ Prayerbooks can be sold for half the total cost of inscribing the spells they co
 </details>
 
 ## Dark Knowledge (Su)
-At 1st level, the archivist can call upon him exhaustive research and forbidden scholarship to grant himself and him allies mystical insight into the vulnerabilities of unnatural creatures.
+At 1st level, the archivist can call upon his exhaustive research and forbidden scholarship to grant himself and his allies mystical insight into the vulnerabilities of unnatural creatures.
 
 As a standard action, the archivist can activate a Dark Knowledge effect, choosing one insight from the list below. This ability affects the archivist and all allies within 30 feet, but only applies against a single creature variant the archivist has identified (e.g., all ghouls, all hell hounds, all azatas). The bonuses do not apply against other creatures, even of the same type (e.g., other undead).
 
-If the archivist has not already identified the target creature variant with a successful Knowledge check, he may attempt the appropriate check as part of activating this ability. If the check fails, the activation attempt fails, no benefits are granted, and 1 minute of him daily Dark Knowledge duration is still consumed. he may attempt to activate Dark Knowledge again on a future turn, consuming another minute as normal.
+If the archivist has not already identified the target creature variant with a successful Knowledge check, he may attempt the appropriate check as part of activating this ability. If the check fails, the activation attempt fails, no benefits are granted, and 1 minute of his daily Dark Knowledge duration is still consumed. He may attempt to activate Dark Knowledge again on a future turn, consuming another minute as normal.
 
-The archivist can use this ability for a total number of minutes per day equal to him Archivist level + his Intelligence modifier. This duration does not need to be consecutive but must be spent in 1-minute increments. Activating a Dark Knowledge effect cannot be disrupted, but it ends immediately if the archivist is killed, paralyzed, stunned, or rendered unconscious. Only one Dark Knowledge effect may be active at a time.
+The archivist can use this ability for a total number of minutes per day equal to his Archivist level + his Intelligence modifier. This duration does not need to be consecutive but must be spent in 1-minute increments. Activating a Dark Knowledge effect cannot be disrupted, but it ends immediately if the archivist is killed, paralyzed, stunned, or rendered unconscious. Only one Dark Knowledge effect may be active at a time.
 
 At 7th level, activating a Dark Knowledge effect becomes a move action. At 13th level, it becomes a swift action. The archivist can change an active effect to another Dark Knowledge effect as a swift action, which consumes a new 1-minute increment and does not require an additional Knowledge check.
 
