@@ -133,12 +133,15 @@ Regardless of alignment, a Cleric can release a wave of energy by channelling th
 
 A good Cleric channels positive energy, dealing damage to undead or healing living creatures. An evil Cleric channels negative energy, dealing damage to living creatures or healing undead. A neutral Cleric must choose to channel either positive or negative energy; this choice is permanent and determines her spontaneous cure or inflict spells.
 
-Channelling energy affects all creatures of one type (either undead or living) in a 30-foot radius. The amount healed or dealt is 1d6, plus 1d6 for every two effective Channel levels beyond 1st. Damaging energy allows a Will save for half (DC = 10 + 1/2 your effective Channel level + your Charisma modifier). Your effective Channel level is equal to your Cleric level. Healing cannot exceed a creature’s maximum hit points.
+Channelling energy affects all creatures of one type (either undead or living) in a 30-foot radius. The amount healed or dealt is 1d6, plus 1d6 for every two effective Channel levels beyond 1st. Damaging energy allows a Will save for half (DC = 10 + 1/2 your effective Channel level + your Charisma modifier). Your effective Channel level is equal to your Cleric level. Healing cannot exceed a creature’s maximum hit points. Using channel energy to harm a creature is considered an attack.
 
 A Cleric may channel energy a number of times per day equal to 3 + her Charisma modifier. This is a standard action that does not provoke attacks of opportunity. The Cleric must be able to present her holy symbol to use this ability, and may choose whether or not to include herself in the effect.
 
 <span class="tag" title="This feature uses a unified Channel Energy pool. Your effective Channel level includes your Cleric level plus levels of other classes granting Channel Energy or an equivalent feature. Each such class adds 2 additional uses per day to the unified pool. Classes that fuel channeling with a different resource pools (such as Fervor or Champion’s Touch) also adds 2 additional uses per day to the unified pool. Classes without this feature contribute half their levels (rounded down) to dice and DC scaling.">Channel Scaling</span>
 
+:::info[Changes]
+Channeling Energy to harm creatures now outlined as an attack for GM adjudication.
+:::
 
 ## Domains
 A Cleric's deity influences her alignment, what magic she can perform, her values, and how others see her. A Cleric chooses two domains from among those belonging to her deity. A Cleric can select an alignment domain (Chaos, Evil, Good, or Law) only if her alignment matches that domain. If a Cleric is not devoted to a particular deity, she still selects two domains to represent her spiritual inclinations and abilities (subject to GM approval). The restriction on alignment domains still applies.

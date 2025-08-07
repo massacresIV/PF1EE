@@ -16,12 +16,22 @@ When selecting racial traits, you can choose from those available to your race a
 ## Geniekind Lineages
 
 ### Ifrit
+- **Energy Resistance (1 RP):** Ifrits have have Fire resistance 5.
+- **Ember-Eyes (1 RP):** The flickering soul of flame kindles behind an Ifrit’s gaze, painting the world in glowing outlines and shadow-dancing heat. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 30 feet.
 
 ### Oread
+- **Energy Resistance (1 RP):** Oreads have have Acid resistance 5.
+- **Stone-Eyes (1 RP):** The weight of the deep earth steadies an Oread’s gaze, letting them see as though through stone and shadow, unbothered by dimness. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 30 feet.
+
 
 ### Sylph
+- **Energy Resistance (1 RP):** Sylphs have have Electric resistance 5.
+- **Storm-Eyes (1 RP):** Sylphs see as the wind does—through swirling dust, rain, and fog—guided by lightning's flash and stormborne instinct. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 30 feet.
+
 
 ### Undine
+- **Energy Resistance (1 RP):** Undines have have Cold resistance 5.
+- **Mist-Eyes (1 RP):** The ebb and flow of water shapes the vision of an Undine, allowing them to see through gloom as though peering through moonlit waves or sea mist. They can see twice as far as humans in dim light, gaining low-light vision. If they already possess low-light vision from their base race, they instead gain darkvision out to 30 feet.
 
 ---
 

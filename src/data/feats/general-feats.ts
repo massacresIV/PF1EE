@@ -67,6 +67,25 @@ If you ever fail to perform a daily obedience, you lose all access to the benefi
 You can also use any material components or focuses you possess, even if such items are melded within your current form. This feat does not permit the use of magic items while you are in a form that could not ordinarily use them, and you do not gain the ability to speak while you are in a form that could not ordinarily.`,
 },
 {
+  id: "rebuke-undead",
+  name: "Rebuke Undead",
+  categories: ["General Feats"],
+  prerequisites: "Channel Negative Energy class feature.",
+  changes: "Homebrew feat reminiscent of 3.5 Rebuke Undead class feature, intended for parity with Turn Undead.",
+  markdownContent: `# Rebuke Undead
+*With a wave of malevolent divine energy, you assert control over the restless dead, cowing them into submission or forcing them to obey your will.*
+
+**Prerequisites:** Channel Negative Energy class feature.
+
+**Benefit:** You can, as a standard action, expend one use of your channel energy to rebuke all undead within 30 feet. Undead that fail a Will save (DC = 10 + ½ your effective channel level + your Charisma modifier) become rebuked for 1 minute. While rebuked, undead stand motionless, unable to take any actions. This condition ends immediately if the undead is attacked or targeted by a harmful spell or ability. Intelligent undead may attempt a new saving throw at the end of each of their turns; success ends the effect immediately.
+
+In addition, you may assume control over any number of undead that failed their saving throws, so long as their combined Hit Dice do not exceed your effective channel level. These commanded undead cease to be rebuked and act normally on their next turn, following your commands as if affected by the control undead spell. This control lasts for 1 minute per effective channel level. If the total Hit Dice of your commanded undead ever exceed your effective channel level, any excess creatures immediately break free of your control and are no longer rebuked. Likewise, undead that regain their freedom after the duration ends cease to be rebuked.
+
+If an undead creature is under the control of another creature, you must succeed at an opposed Charisma check to override their orders whenever they conflict.
+
+This use of your channel energy does not deal damage or provide healing.`
+},
+{
     id: "reckless-fury",
     name: "Reckless Fury",
     categories: ["General Feats"],
@@ -109,5 +128,20 @@ You can also use any material components or focuses you possess, even if such it
 
 **Benefit:** You can use your Constitution modifier in place of your Wisdom modifier on Will saves. You do not automatically fail Fortitude saves on a roll of natural 1.`,
 },
+{
+  id: "turn-undead",
+  name: "Turn Undead",
+  categories: ["General Feats"],
+  prerequisites: "Channel Positive Energy class feature.",
+  changes: `Now also roll your channel energy dice to determine the number of undead HD you can destroy outright. Only affects undead with HD equal to half or lower your channel energy level.`,
+  markdownContent: `# Turn Undead
 
+**Prerequisites:** Channel Positive Energy class feature.
+
+**Benefit:** You can, as a standard action, expend one use of your channel energy to cause all undead within 30 feet of you to flee. Undead that fail a Will save (DC = 10 + ½ your effective channel level + your Charisma modifier) flee from you for 1 minute. Intelligent undead may attempt a new saving throw at the end of each of their turns; success ends the effect immediately. This movement provokes attacks of opportunity as normal.
+
+In addition, when you use this ability, roll your channel energy damage dice (1d6 + 1d6 per two effective channel levels beyond 1st) to determine the total Hit Dice of undead you can destroy outright. Undead with the fewest HD are affected first. Only undead with Hit Dice equal to or less than half your effective channel level (minimum 1) can be destroyed this way.
+
+This use of channel energy has no other effect (it does not heal or harm creatures).`
+},
 ];

@@ -15,4 +15,4 @@ When selecting racial traits, you can choose from those available to your race a
 
 - **Forked-Tongue (1 RP)**: Devil-Spawn gain a +1 racial bonus on Diplomacy and Sense Motive checks.
 - **Hellish Magic (2 RP)**: Devil-Spawn can use Scorching Ray once per day as a spell-like ability, using their total character level as caster level.
-- **Infernal Resistance (1 RP):** Devil-Spawn have Fire resistance 5.
+- **Energy Resistance (1 RP):** Devil-Spawn have Fire resistance 5.
