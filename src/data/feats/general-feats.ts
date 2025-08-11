@@ -81,9 +81,9 @@ You can also use any material components or focuses you possess, even if such it
 
 In addition, you may assume control over any number of undead that failed their saving throws, so long as their combined Hit Dice do not exceed your effective channel level. These commanded undead cease to be rebuked and act normally on their next turn, following your commands as if affected by the control undead spell. This control lasts for 1 minute per effective channel level. If the total Hit Dice of your commanded undead ever exceed your effective channel level, any excess creatures immediately break free of your control and are no longer rebuked. Likewise, undead that regain their freedom after the duration ends cease to be rebuked.
 
-If an undead creature is under the control of another creature, you must succeed at an opposed Charisma check to override their orders whenever they conflict.
+This use of your channel energy does not deal damage or provide healing.
 
-This use of your channel energy does not deal damage or provide healing.`
+**Special:** If an undead creature fails its saving throw but is already affected by another creature’s Turn Undead or Rebuke Undead ability, you must succeed at an opposed Charisma check against the original source to impose your effect. On a success, your effect replaces the existing one. On a failure, your effect does not take hold.`
 },
 {
     id: "reckless-fury",
@@ -142,6 +142,8 @@ This use of your channel energy does not deal damage or provide healing.`
 
 In addition, when you use this ability, roll your channel energy damage dice (1d6 + 1d6 per two effective channel levels beyond 1st) to determine the total Hit Dice of undead you can destroy outright. Undead with the fewest HD are affected first. Only undead with Hit Dice equal to or less than half your effective channel level (minimum 1) can be destroyed this way.
 
-This use of channel energy has no other effect (it does not heal or harm creatures).`
+This use of channel energy has no other effect (it does not heal or harm creatures).
+
+**Special:** If an undead creature fails its saving throw but is already affected by another creature’s Turn Undead or Rebuke Undead ability, you must succeed at an opposed Charisma check against the original source to impose your effect. On a success, your effect replaces the existing one. On a failure, your effect does not take hold.`
 },
 ];

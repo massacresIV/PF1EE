@@ -268,11 +268,12 @@ When you deal nonlethal damage with an unarmed strike, you can spend up to 5 sta
     id: "weapon-focus",
     name: "Weapon Focus",
     categories: ["Combat Feats"],
-    prerequisites: "Proficiency with at least one weapon from the selected weapon group, base attack bonus +1.",
+    prerequisites: "Proficiency with at least one weapon from the selected weapon group.",
+    changes: `Removed BAB prerequisite.`,
     markdownContent: `# Weapon Focus
 *You become more accurate with a specific group of weapons.*
 
-**Prerequisites:** Proficiency with at least one weapon from the selected weapon group, base attack bonus +1.
+**Prerequisites:** Proficiency with at least one weapon from the selected weapon group.
 
 **Benefit:** Choose one weapon group listed under the fighter’s Weapon Training class feature. You gain a +1 bonus on all attack rolls you make using any weapon from the selected group.
 
@@ -295,5 +296,18 @@ Once per round, you can spend 2 stamina points to gain your Weapon Focus bonus o
 **Benefits:** Choose one weapon group from those listed under the fighter’s weapon training class feature. When wielding a light or one-handed piercing or slashing weapon from the chosen weapon group that is appropriately sized for you, you treat that weapon as though it had the finesse weapon quality. Additionally, when wielding such a weapon one-handed, you can treat it as a one-handed piercing melee weapon for all feats and class abilities that require such a weapon.
 
 **Special:** If you possess the panache class feature and have at least 1 panache point, you gain a +2 bonus to your CMD against disarm attempts made against you while wielding a weapon that qualifies for this feat.`,    
+},
+{
+  id: "whirling-cleave",
+  name: "Whirling Cleave",
+  categories: ["Combat Feats"],
+  prerequisites: "Str 13, Cleave, Great Cleave, base attack bonus +6.",
+  changes: "",
+  markdownContent: `# Whirling Cleave
+*You become a whirlwind of steel on the battlefield.*
+
+**Prerequisites:** Str 13, Cleave, Great Cleave, base attack bonus +6.
+
+**Benefit:** You can take a single 5-foot step during a Cleave or Great Cleave, as long as it brings you within reach of another creature against which you can make an additional attack. This 5-foot step is a free action and does not subtract from your normal movement for the round.`,
 },
 ];
