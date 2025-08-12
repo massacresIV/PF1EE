@@ -119,7 +119,7 @@ To prepare spells, a Shaman must meet the following conditions:
 
 - **Partial Preparation and Open Slots:** The Shaman can prepare only some spells at a time, requiring at least 15 minutes. She may leave spell slots empty and later prepare spells in those slots by consorting her Spirit Animal for at least 15 minutes. However, she cannot replace or refill slots already used without resting again.
 
-- **Prepared Spells:** Prepared spells remain attuned to the Shaman until cast or released. If the Witch dies, all prepared spells are lost.
+- **Prepared Spells:** Prepared spells remain attuned to the Shaman until cast or released. If the Shaman dies, all prepared spells are lost.
 
 </details>
 
@@ -135,7 +135,7 @@ If the shaman takes levels in another class that grants a mystery (such as the o
 ## Spirit Animal (Ex)
 At 1st level, a shaman forms a close bond with a spirit animal tied to her chosen spirit. This animal is her conduit to the spirit world, guiding her along the path to enlightenment. The animal also aids a shaman by granting her a special ability.
 
-**Deliver Touch Spells (Su):** Once the witch reaches 3rd level, her spirit animal can deliver touch spells or hexes for her. If the shaman and the spirit animal are in contact at the time the shaman casts a touch spell, she can designate her animal as the “toucher.” The spirit animal can then deliver the touch spell just as the shaman would. If the shaman casts another spell before the touch is delivered, the touch spell dissipates. If the shaman activates a hex, her spirit animal can be used to make the touch; she doesn’t have to be in contact with the animal to use this ability with hexes.
+**Deliver Touch Spells (Su):** Once the Shaman reaches 3rd level, her spirit animal can deliver touch spells or hexes for her. If the shaman and the spirit animal are in contact at the time the shaman casts a touch spell, she can designate her animal as the “toucher.” The spirit animal can then deliver the touch spell just as the shaman would. If the shaman casts another spell before the touch is delivered, the touch spell dissipates. If the shaman activates a hex, her spirit animal can be used to make the touch; she doesn’t have to be in contact with the animal to use this ability with hexes.
 
 <details>
 <summary><strong>Replacing a Spirit Animal</strong></summary>
@@ -170,7 +170,7 @@ Using a hex is a standard action that doesn’t provoke an attack of opportunity
 :::
 
 ## Wandering Spirit (Su)
-At 6th level, a shaman can form a temporary bond with a spirit other than the one selected using her spirit class feature. She must make this selection each day when preparing her spells. While this feature is active, she gains the spirit ability granted by the spirit. She also adds the spells granted by that spirit to her list of spells that she can cast using spirit magic. She does not add the revelations from her wandering spirit to her list of revelations that she can choose from with the revelation class feature. At 12th level, she gains the abilities listed in the greater version of her wandering spirit. At 20th level, she gains the ability listed in the true version of her wandering spirit.
+At 6th level, a shaman can form a temporary bond with a spirit other than the one selected using her spirit class feature. She must make this selection each day when preparing her spells. While this feature is active, she gains the spirit ability granted by the spirit. She also adds the spells granted by that spirit to her list of spells that she can cast using spirit magic. She does not add the revelations from her wandering spirit to her list of revelations that she can choose from with the revelation class feature. At 14th level, she gains the abilities listed in the greater version of her wandering spirit. At 20th level, she gains the ability listed in the true version of her wandering spirit.
 
 ## Manifestation (Su)
 Upon reaching 20th level, a shaman undergoes a transformation as she manifests as a pinnacle of her main spirit. The nature of this manifestation depends on the shaman’s spirit, and is described in its entry.
