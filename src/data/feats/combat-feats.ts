@@ -46,6 +46,18 @@ You cannot attack the same creature more than once during this attack action. Wh
 When you move your speed or farther, you can spend a number of stamina points up to double your Dexterity bonus. If you do, until the start of your next turn, you gain an increase to the dodge bonus granted by the Dodge feat equal to half the number of stamina points you spent. This dodge bonus is doubled against attacks of opportunity provoked by movement.`,    
 },
 {
+  id: "martial-weapon-proficiency",
+  name: "Martial Weapon Proficiency",
+  categories: ["Combat Feats"],
+  changes: "Now grants proficiency with all martial weapons, not just a single weapon.",
+  markdownContent: `# Martial Weapon Proficiency
+*You are trained in the use of martial weapons.*
+
+**Benefit:** You make attack rolls with all martial weapons without the non-proficient penalty.
+
+**Normal:** When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.`,
+},
+{
     id: "oversized-two-Weapon-fighting",
     name: "Oversized Two-Weapon Fighting",
     categories: ["Combat Feats"],
@@ -100,6 +112,17 @@ If you reload a weapon from the chosen group as a free action, you may make as m
 **Normal:** Without this feat, reloading a weapon with the *Short Reload* quality requires a move action, and reloading a weapon with the *Long Reload* quality requires a full-round action. Reloading a weapon typically provokes an attack of opportunity.
 
 **Special:** You can take this feat multiple times. Each time you do, it applies to a different weapon group.`,    
+},
+{
+  id: "simple-weapon-proficiency",
+  name: "Simple Weapon Proficiency",
+  categories: ["Combat Feats"],
+  markdownContent: `# Simple Weapon Proficiency
+*You are trained in the use of simple weapons.*
+
+**Benefit:** You make attack rolls with all simple weapons without the non-proficient penalty.
+
+**Normal:** When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.`,
 },
 {
     id: "starry-grace",
