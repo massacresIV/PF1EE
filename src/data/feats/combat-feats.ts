@@ -1,5 +1,23 @@
 export const combatFeats = [
 {
+    id: "acrobatic-spellcaster",
+    name: "Acrobatic Spellcaster",
+    categories: ["Combat Feats"],
+    prerequisites: "Combat Casting",
+    changes: "Removed Skill Focus prerequisite. New Combat Trick.",
+    markdownContent: `# Acrobatic Spellcaster
+*Your skillful movements prevent foes from disrupting your spells.*
+
+**Prerequisites:** Combat Casting.
+
+**Benefit:** When you succeed at an Acrobatics check to move through a threatened square without provoking attacks of opportunity or to move through an enemy’s space, creatures denied attacks of opportunity by your Acrobatics check also cannot make attacks of opportunity against you when you cast spells for the remainder of your turn.
+
+**Normal:** Casting a spell within an enemy’s reach provokes attacks of opportunity even after you succeed at an Acrobatics check to move through a threatened square.
+
+## Combat Trick
+When attempting an Acrobatics check to move through threatened squares, you can spend up to 5 stamina points to gain a bonus on that check equal to the number of stamina points you spent.`
+},
+{
     id: "agile-combatant",
     name: "Agile Combatant",
     categories: ["Combat Feats"],
@@ -12,7 +30,26 @@ export const combatFeats = [
 
 **Special:** With or without this feat, when you are using a finesse weapon, you may use your Dexterity bonus in place of your Strength bonus when attempting a disarm, sunder, or trip maneuver.
 
-This feat also allows you to add your Dexterity bonus in place of your Strength bonus when attempting a bull rush, grapple, hamstring, or overrun maneuver.`
+This feat also allows you to add your Dexterity bonus in place of your Strength bonus when attempting a bull rush, grapple, hamstring, or overrun maneuver.
+
+## Combat Trick
+You can spend a number of stamina points equal to your Dexterity bonus while attempting combat maneuver checks. For every 2 stamina points that you spend in this way, you are considered to be one size category larger than your actual size when determining whether you can affect a target creature with your combat maneuver and when calculating your size bonus for that check.`
+},
+{
+    id: "anticipate-dodge",
+    name: "Anticipate Dodge",
+    categories: ["Combat Feats"],
+    prerequisites: "Dodge; Base Attack Bonus +6, Brawler level 4th, or Monk level 4th.",
+    changes: "Lowered BAB prerequisite by 1.",
+    markdownContent: `# Anticipate Dodge
+*Your knowledge of mobility and your attack prowess allow you to thwart elusive opponents.*
+
+**Prerequisites:** Dodge; Base Attack Bonus +6, Brawler level 4th, or Monk level 4th.
+
+**Benefit:** You automatically know whether a creature you can see has a dodge bonus to its AC. You gain up to a +2 bonus on attack rolls against a target that has a dodge bonus. This bonus cannot exceed the dodge bonus of the creature you attack.
+
+## Combat Trick
+You can spend 1 stamina point to increase the maximum bonus from Anticipate Dodge by 2 (this is still limited by the creature’s dodge bonus, however).`
 },
 {
     id: "arcane-strike",
@@ -26,7 +63,44 @@ This feat also allows you to add your Dexterity bonus in place of your Strength 
 
 **Benefit:** As a swift action, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. 
 
-For every five caster levels you possess, this bonus increases by +1, to a maximum of +5 at 20th level.`
+For every five caster levels you possess, this bonus increases by +1, to a maximum of +5 at 20th level.
+
+## Combat Trick
+
+You can spend any number of stamina points to increase the duration of this feat’s effects by 1 round for each stamina point spent.`
+},
+{
+    id: "armor-focus",
+    name: "Armor Focus",
+    categories: ["Combat Feats"],
+    prerequisites: "Base attack bonus +1, proficiency with selected armor type.",
+    changes: "Now applies to all armors of a particular type, rather than a single armor.",
+    markdownContent: `# Armor Focus
+*Your familiarity with a specific type of armor increases the amount of protection you receive from it.*
+
+**Prerequisites:** Base attack bonus +1, proficiency with selected armor type.
+
+**Benefit:** Select one type of armor, such as light, medium, or heavy. The AC bonus granted by the selected armor type increases by 1.
+
+**Special:** You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of armor. The Armor Focus feat counts as the armor training class feature for the purpose of armor mastery feat prerequisites and determines what types of armor you can use with armor mastery feats.`
+},
+{
+    id: "barroom-brawler",
+    name: "Barroom Brawler",
+    categories: ["Combat Feats"],
+    prerequisites: "Base attack bonus +4.",
+    changes: "",
+    markdownContent: `# Barroom Brawler
+*You have learned how to mimic the combat tricks and forms of others.*
+
+**Prerequisites:** Base attack bonus +4.
+
+**Benefit:** Once per day as a Move Action, you can gain the benefit of a combat feat that you do not possess for 1 minute. You must otherwise meet the feat’s requirements.
+
+**Special:** If you have the Martial Flexibility class feature, this feat instead grants you one additional use per day of that ability.
+
+## Combat Trick
+You can spend 5 stamina points to use this feat as a Swift Action instead of a Move Action. If you have the Martial Flexibility class feature, you can spend 5 stamina points to use that class feature as a Swift Action instead of a Move Action, or as a Free Action instead of a Swift Action.`
 },
 {
     id: "light-battlecaster-training",
@@ -107,7 +181,11 @@ You do not need to make Acrobatics skill checks to move at full speed while blin
 
 **Normal:** Regular attack roll modifiers for invisible attackers trying to hit you apply, and you lose your Dexterity bonus to AC. The speed reduction for darkness and poor visibility also applies.
 
-**Special:** The Blind-Fight feat is of no use against a character who is the subject of a blink spell.`
+**Special:** The Blind-Fight feat is of no use against a character who is the subject of a blink spell.
+
+## Combat Trick
+
+Once per round, when you hit a creature that benefits from concealment, you can spend 2 stamina points to ignore the miss chance from that creature’s concealment until the end of your next turn.`
 },
 {
     id: "blinding-critical",
@@ -135,7 +213,11 @@ You do not need to make Acrobatics skill checks to move at full speed while blin
 
 **Benefit:** You do not suffer any penalties for using an improvised weapon. Unarmed opponents are flat-footed against any attacks you make with an improvised weapon. You receive a +1 circumstance bonus on attack rolls made with thrown splash weapons.
 
-**Normal:** You take a –4 penalty on attack rolls made with an improvised weapon.`
+**Normal:** You take a –4 penalty on attack rolls made with an improvised weapon.
+
+## Combat Trick
+
+When making an attack with an improvised weapon against an armed opponent, you can spend 5 stamina points. If you do, the target is considered flat-footed during that attack. An opponent who recognizes you and has seen you use Catch Off-Guard in this way is immune to this effect.`
 },
 {
     id: "channel-smite",
@@ -147,7 +229,11 @@ You do not need to make Acrobatics skill checks to move at full speed while blin
 
 **Prerequisites:** Channel energy class feature.
 
-**Benefit:** Before you make a melee attack roll, you can choose to spend one use of your channel energy ability as a swift action. If you channel positive energy and hit an undead creature, that creature takes an amount of additional damage equal to the damage dealt by your channel positive energy ability. If you channel negative energy and hit a living creature, that creature takes an amount of additional damage equal to the damage dealt by your channel negative energy ability. Your target can make a Will save, as normal, to halve this additional damage. If your attack misses, the channel energy ability is still expended with no effect.`
+**Benefit:** Before you make a melee attack roll, you can choose to spend one use of your channel energy ability as a swift action. If you channel positive energy and hit an undead creature, that creature takes an amount of additional damage equal to the damage dealt by your channel positive energy ability. If you channel negative energy and hit a living creature, that creature takes an amount of additional damage equal to the damage dealt by your channel negative energy ability. Your target can make a Will save, as normal, to halve this additional damage. If your attack misses, the channel energy ability is still expended with no effect.
+
+## Combat Trick
+
+When making an attack using this feat, you can spend a number of stamina points up to the number of dice in your channel energy. For each stamina point you spend in this way, add an additional 1d6 points of positive or negative energy damage to your Channel Smite attack. This damage is also halved if the target succeeds at its Will save against the Channel Smite attack.`
 },
 {
     id: "combat-reflexes",
@@ -173,7 +259,7 @@ You do not need to make Acrobatics skill checks to move at full speed while blin
 
 **Prerequisites:** Str 13, base attack bonus +1.
 
-**Benefit:** As a standard action, you can make a single attack at your full base attack bonus against a creature within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against another creature within reach. The second creature does not need to be adjacent to the first.
+**Benefit:** As a standard action, you can make a single attack at your full base attack bonus against a creature within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against another creature within reach.
 
 You can only make one additional attack per round with this feat. When you use this feat, you take a -2 penalty to your Armor Class until your next turn.`
 },
@@ -322,6 +408,22 @@ When you move your speed or farther, you can spend a number of stamina points up
 **Normal:** You normally add only half of your Strength modifier to damage rolls made with a weapon wielded in your off-hand.`
 },
 {
+    id: "drunken-brawler",
+    name: "Drunken Brawler",
+    categories: ["Combat Feats"],
+    prerequisites: "Great Fortitude.",
+    changes: "Prerequisite changed from Endurance to Great Fortitude and removed deity restriction. In line with other alcohol-themed feats. Added Combat Trick.",
+    markdownContent: `# Drunken Brawler
+*You have learned how to fight effectively while drunk.*
+
+**Prerequisites:** Great Fortitude.
+
+**Benefit:** When you drink an alcoholic beverage, you take a –2 penalty on Reflex saving throws, but gain a number of temporary hit points equal to your character level, and gain a +2 alchemical bonus on Fortitude and Will saving throws. These bonuses last 1 hour or until the temporary hit points gained by this effect are lost, whichever occurs first. Regardless, the penalty lasts for a full hour.
+
+## Combat Trick
+When drinking an alcoholic beverage to use this feat, you can spend 5 stamina points to double the amount of temporary hit points you receive.`
+},
+{
     id: "exhausting-critical",
     name: "Exhausting Critical",
     categories: ["Combat Feats", "Critical Feats"],
@@ -350,6 +452,21 @@ When you move your speed or farther, you can spend a number of stamina points up
 **Normal:** You suffer a -2 penalty per full range increment between you and your target.`
 },
 {
+    id: "gang-up",
+    name: "Gang Up",
+    categories: ["Combat Feats"],
+    prerequisites: "",
+    changes: "Removed old Combat Expertise INT prerequisites.",
+    markdownContent: `# Gang Up
+*You are adept at using greater numbers against foes.*
+
+**Prerequisites:** None.
+
+**Benefit:** You are considered to be flanking an opponent if at least two of your allies are threatening that opponent, regardless of your actual positioning.
+
+**Normal:** You must be positioned opposite an ally to flank an opponent.`
+},
+{
     id: "gorgons-fist",
     name: "Gorgon's Fist",
     categories: ["Combat Feats"],
@@ -375,6 +492,19 @@ When you move your speed or farther, you can spend a number of stamina points up
 **Benefit:** As a standard action, you can make a single attack at your full base attack bonus against a creature within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against another creature within reach. If that attack also hits, you can continue to make additional attacks against other creatures, as long as each new target is within your reach.
 
 You cannot attack the same creature more than once during this attack action. When you use this feat, you take a -2 penalty to your Armor Class until your next turn.`
+},
+{
+    id: "great-hatred",
+    name: "Great Hatred",
+    categories: ["Combat Feats"],
+    prerequisites: "Hatred racial trait",
+    changes: "Removed racial restriction, adjusted language to trigger with Hatred style, now applies on all attacks.",
+    markdownContent: `# Great Hatred
+*Your rage burns with vast intensity.*
+
+**Prerequisites:** Hatred racial trait.
+
+**Benefit:** Your bonus on attack rolls against targets of your hatred racial trait increases by 1.`
 },
 {
     id: "greater-bull-rush",
@@ -484,6 +614,26 @@ You cannot attack the same creature more than once during this attack action. Wh
 **Benefit:** Increase the AC bonus granted by any shield you are using by 1. This bonus stacks with the bonus granted by Shield Focus. Additionally, the AC bonus against ranged weapons granted by Shield Focus now affects ranged touch attacks (including rays and similar magical effects).`
 },
 {
+    id: "greater-steal",
+    name: "Greater Steal",
+    categories: ["Combat Feats"],
+    prerequisites: "Deft Maneuvers, base attack bonus +6, Dex 13.",
+    Changes: "Added a Combat Trick to allow selection without the Dex 13 prerequisite and stamina-based benefits.",
+    markdownContent: `# Greater Steal
+*You have a knack for snatching items from your opponents in combat.*
+
+**Prerequisite(s):** Deft Maneuvers, base attack bonus +6, Dex 13.  
+
+**Changes:** Added a Combat Trick to allow selection without the Dex 13 prerequisite and stamina-based benefits.
+
+**Benefit:** You receive a +2 bonus on checks made to steal an item from a foe. This bonus stacks with the bonus granted by Deft Maneuvers. If you successfully steal an item from a foe during combat, it does not notice the theft until after combat is over or if it attempts to use the missing item.  
+
+**Normal:** Creatures automatically notice items taken from them through the steal combat maneuver.  
+
+## Combat Trick
+You can select this feat even if you don’t meet the ability score prerequisite (Dexterity 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When attempting a Steal combat maneuver with a whip, you can spend 2 stamina points to negate the –4 penalty on the check.`
+},
+{
     id: "greater-sunder",
     name: "Greater Sunder",
     categories: ["Combat Feats"],
@@ -537,7 +687,11 @@ When you are fighting defensively or using the total defense action, this shield
 
 **Benefit:** In addition to the standard single extra attack you get with an off-hand weapon, you get a second attack with it, albeit at a -5 penalty. When your base attack bonus reaches +11, you also gain a third attack with your off-hand weapon, albeit at a -10 penalty.
 
-**Normal:** Without this feat, you can only get a single extra attack with an off-hand weapon.`
+**Normal:** Without this feat, you can only get a single extra attack with an off-hand weapon.
+
+## Combat Trick
+
+When making an attack of opportunity, you can spend 5 stamina points to also make an attack of opportunity with your off-hand weapon. That second attack takes a –5 penalty.`
 },
 {
     id: "greater-vital-strike",
@@ -748,6 +902,19 @@ When you are fighting defensively or using the total defense action, this shield
 **Benefit:** The penalty you take when using a ranged weapon while mounted is halved: -2 instead of -4 if your mount is taking a double move, and -4 instead of -8 if your mount is running.`
 },
 {
+    id: "mounted-blade",
+    name: "Mounted Blade",
+    categories: ["Combat Feats"],
+    prerequisites: "Mounted Combat, Ride-By Attack, Ride 3 ranks",
+    changes: "Changed from General feat to Combat feat. No longer requires the second creature to be adjaent to the first.",
+    markdownContent: `# Mounted Blade
+*You can use the momentum of your mount to carry your weapon through one foe and into another.*
+
+**Prerequisite(s):** Mounted Combat, Ride-By Attack, Ride 3 ranks.
+
+**Benefit(s):** When you use the Ride-By Attack feat, if your attack hits, you can also make an attack against another creature within reach. You take a –5 penalty on this additional attack, which does not benefit from any effects of a charge.`
+},
+{
     id: "mounted-combat",
     name: "Mounted Combat",
     categories: ["Combat Feats"],
@@ -758,6 +925,17 @@ When you are fighting defensively or using the total defense action, this shield
 **Prerequisites:** Ride 1 rank.
 
 **Benefit:** Once per round when your mount is hit in combat, you may attempt a Ride check (as an immediate action) to negate the hit. The hit is negated if your Ride check result is greater than the opponent’s attack roll.`
+},
+{
+    id: "mutual-hatred",
+    name: "Mutual Hatred",
+    categories: ["Combat Feats"],
+    markdownContent: `# Mutual Hatred
+*Others hate you, and their hatred feeds your own.*
+
+**Prerequisite(s):** None.
+
+**Benefit(s):** You gain a +1 bonus on attack rolls and damage rolls against creatures whose hatred racial trait or favored enemy class feature applies to you. For instance, an orc would gain this bonus against all dwarves and against rangers who chose humanoid (orc) as a favored enemy.`
 },
 {
     id: "oversized-two-Weapon-fighting",
@@ -1054,6 +1232,19 @@ If you reload a weapon from the chosen group as a free action, you may make as m
 **Normal:** When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.`,
 },
 {
+    id: "small-but-deadly",
+    name: "Small but Deadly",
+    categories: ["Combat Feats"],
+    prerequisites: "Weapon Focus, Small Size or smaller",
+    changes: "Added increased dice step. Moved from General Feats to Combat Feats.",
+    markdownContent: `# Small but Deadly
+*You have learned to make the most of certain weapons, despite your physical weakness.*
+
+**Prerequisite(s):** Weapon Focus, Small Size or smaller.
+
+**Benefit(s):** Weapons from your selected weapon group deal damage as if one size category larger than they actually are. Additionally, you ignore your Strength penalty to damage when making attacks with such weapons.`
+},
+{
     id: "snatch-arrows",
     name: "Snatch Arrows",
     categories: ["Combat Feats"],
@@ -1104,7 +1295,11 @@ You must have at least one hand free (holding nothing) to use this feat.`
 
 **Benefit:** As a full-round action, you can move up to your speed and make a single melee attack without provoking any attacks of opportunity from the target of your attack. You can move both before and after the attack, but you must move at least 10 feet before the attack and the total distance that you move cannot be greater than your speed. You cannot use this ability to attack a foe that is adjacent to you at the start of your turn.
 
-**Normal:** You cannot move before and after an attack.`
+**Normal:** You cannot move before and after an attack.
+
+## Combat Trick
+
+You can spend 5 stamina points to use this feat as a standard action instead of a full-round action.`
 },
 {
     id: "staggering-critical",
@@ -1148,7 +1343,11 @@ In addition, if you have the panache class feature and at least 1 panache point,
 
 **Prerequisites:** Base attack bonus +1.
 
-**Benefit:** Whenever an adjacent foe attempts to take a 5-foot step away from you, you may also make a 5-foot step as an immediate action so long as you end up adjacent to the foe that triggered this ability. If you take this step, you cannot take a 5-foot step during your next turn. If you take an action to move during your next turn, subtract 5 feet from your total movement.`
+**Benefit:** Whenever an adjacent foe attempts to take a 5-foot step away from you, you may also make a 5-foot step as an immediate action so long as you end up adjacent to the foe that triggered this ability. If you take this step, you cannot take a 5-foot step during your next turn. If you take an action to move during your next turn, subtract 5 feet from your total movement.
+
+## Combat Trick
+
+As long as you have at least 1 stamina point in your stamina pool, on the turn after you use this feat, you can still take a 5-foot step, and you don’t reduce your speed if you take an action to move due to this feat.`
 },
 {
     id: "strike-back",
@@ -1206,6 +1405,21 @@ A defender who fails this saving throw is stunned for 1 round (until just before
 **Benefit:** When using Cleave or Great Cleave, the second creature you attack on your turn is denied its Dexterity bonus to AC against your attack.
 
 When your base attack bonus reaches +6, this effect applies to all creatures you attack after the first when using Cleave or Great Cleave.`
+},
+{
+    id: "swift-aid",
+    name: "Swift Aid",
+    categories: ["Combat Feats"],
+    prerequisites: "Int 13, base attack bonus +6",
+    changes: "Adjusted language for clarity when used with other abilities that affect the Aid Another action.",
+    markdownContent: `# Swift Aid
+*With a quick but harmless swipe, you can aid an ally’s assault.*
+
+**Prerequisite(s):** Int 13, base attack bonus +6
+
+**Benefit(s):** You can attempt the Aid Another action as a Swift Action, but reduce the total bonus granted by half.
+
+**Normal:** Aid Another is a standard action.`
 },
 {
     id: "tiring-critical",
@@ -1363,6 +1577,21 @@ You can spend any number of stamina points to reduce the penalty from Two-Weapon
 When you deal nonlethal damage with an unarmed strike, you can spend up to 5 stamina points to deal an amount of additional nonlethal damage equal to double the amount of stamina points you spent. Additionally, when you are the target of a grapple combat maneuver to initiate or maintain a grapple, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that grapple attempt increases by that number.`,    
 },
 {
+    id: "vast-hatred",
+    name: "Vast Hatred",
+    categories: ["Combat Feats"],
+    prerequisites: "Hatred racial trait",
+    changes: "Removed racial restriction, adjusted language to work with other hatred feats.",
+    markdownContent: `# Vast Hatred
+*Your rage stretches beyond normal bounds.*
+
+**Prerequisite(s):** Hatred racial trait
+
+**Benefit(s):** Select two creature types (and subtypes where appropriate) from the list of potential favored enemies from the ranger class ability. Any bonuses granted against targets of your Hatred racial trait also apply to creatures of the selected types (and subtypes).
+
+**Special:** You may take this feat more than once. Its benefits do not stack. Each time you select this feat, you select two additional creature types to which your hatred racial trait applies.`
+},
+{
     id: "weapon-focus",
     name: "Weapon Focus",
     categories: ["Combat Feats"],
@@ -1408,6 +1637,19 @@ Once per round, you can spend 2 stamina points to gain your Weapon Focus bonus o
 **Benefit:** You gain a +2 bonus on all damage rolls you make using any weapon from the selected group.
 
 **Special:** You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new weapon group.`
+},
+{
+    id: "weapon-versatility",
+    name: "Weapon Versatility",
+    categories: ["Combat Feats"],
+    prerequisites: "Weapon Focus, base attack bonus +1",
+    changes: "",
+    markdownContent: `# Weapon Versatility
+*You can use your favored weapons in unconventional ways.*
+
+**Prerequisite(s):** Weapon Focus, base attack bonus +1
+
+**Benefit(s):** When wielding a weapon from your selected weapon group, you can shift your grip as a Swift Action so that your weapon deals bludgeoning, piercing, or slashing damage instead of the damage type normally dealt by that weapon. You may switch back to the weapon’s normal damage type or another damage type as a Swift Action. If your base attack bonus is +5 or higher, using this feat is a Free Action instead.`
 },
 {
   id: "whirling-cleave",
