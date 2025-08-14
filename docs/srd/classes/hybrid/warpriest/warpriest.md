@@ -102,7 +102,7 @@ A Warpriest can only cast a limited number of spells of each spell level per day
 
 A Warpriest can prepare and cast any spell on the Warpriest spell list, provided he is capable of casting spells of that level. He must choose which spells to prepare during his daily ritual. 
 
-**Alignement Limits:** His alignment may restrict his from preparing and casting certain spells opposed to his moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells. A Warpriest must choose and prepare his spells in advance.
+**Alignment Limits:** His alignment may restrict him from preparing and casting certain spells opposed to his moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells.
 
 **Orisons:** Warpriests can prepare a number of orisons, or 0-level spells, each day, as shown on the class progression table. These spells are cast like any other spell, but they are not expended when cast and may be used again.
 

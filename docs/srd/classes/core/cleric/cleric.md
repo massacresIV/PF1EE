@@ -97,7 +97,7 @@ A Cleric can only cast a limited number of spells of each spell level per day, a
 
 A Cleric can prepare and cast any spell on the Cleric spell list, provided she is capable of casting spells of that level. She must choose which spells to prepare during her daily ritual. 
 
-**Alignement Limits:** Her alignment may restrict her from preparing and casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells. A Cleric must choose and prepare her spells in advance.
+**Alignment Limits:** Her alignment may restrict her from preparing and casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells.
 
 **Orisons:** Clerics can prepare a number of orisons, or 0-level spells, each day, as shown on the class progression table. These spells are cast like any other spell, but they are not expended when cast and may be used again.
 

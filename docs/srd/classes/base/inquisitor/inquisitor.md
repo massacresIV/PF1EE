@@ -134,18 +134,20 @@ The Inquisitor's class skills are Bluff (Cha), Climb (Str), Craft (Int), Diploma
 
         **Spontaneous Casting:** Unlike prepared divine casters, an Inquisitor need not prepare spells in advance and can cast any spell she knows, provided she has spell slots available for that level.
 
-        To learn or cast a spell, a Inquisitor must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a Inquisitor's spell is 10 + the spell level + the Inquisitor's Wisdom modifier.
+        To learn or cast a spell, an Inquisitor must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an Inquisitor's spell is 10 + the spell level + the Inquisitor's Wisdom modifier.
 
-        A Inquisitor can only cast a limited number of spells of each spell level per day, as shown on the Inquisitor class progression table. She also receives bonus spells per day if her Wisdom score is high enough (see Ability Modifiers and Bonus Spells).
+        An Inquisitor can only cast a limited number of spells of each spell level per day, as shown on the Inquisitor class progression table. She also receives bonus spells per day if her Wisdom score is high enough (see Ability Modifiers and Bonus Spells).
 
-        A Inquisitor's selection of spells is extremely limited. She begins play knowing four 0-level spells of her choice and two 1st-level spells of her choice. At each new Inquisitor level, she gains one or more new spells, as indicated on the Inquisitor's Spells Known Table. These new spells can be common spells chosen from the Inquisitor spell list.
+        An Inquisitor's selection of spells is extremely limited. She begins play knowing four 0-level spells of her choice and two 1st-level spells of her choice. At each new Inquisitor level, she gains one or more new spells, as indicated on the Inquisitor's Spells Known Table. These new spells can be common spells chosen from the Inquisitor spell list.
 
-        At 2nd level, and every level thereafter, a Inquisitor may swap out one spell she knows for another of the same spell level.
+        At 2nd level, and every level thereafter, an Inquisitor may swap out one spell she knows for another of the same spell level.
+
+        **Alignment Limits:** Her alignment may restrict her from casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells.
 
         **Orisons:** Inquisitors learn a number of orisons, or 0-level spells, as noted on the Inquisitor's Spells Known Table. These spells are cast like any other spell, but they do not consume any slots and may be used again.
         
         <details>
-        <summary><strong>Daily Rest and Spell Slot Recovery</strong></summary>
+        <summary><strong>Daily Communion and Spell Slot Recovery</strong></summary>
 
         To recover her spells, an Inquisitor must meet all the following conditions:
 
@@ -160,5 +162,5 @@ The Inquisitor's class skills are Bluff (Cha), Climb (Str), Craft (Int), Diploma
 </div>
 
 :::info[Changes]
-Improved Spells Known progression.
+Improved Spells Known progression. Added Alignment limiter to spellcasting.
 :::

@@ -92,7 +92,7 @@ A druid can only cast a limited number of spells of each spell level per day, as
 
 A Druid can prepare and cast any spell on the druid spell list, provided she is capable of casting spells of that level. She must choose which spells to prepare during her daily ritual. 
 
-**Alignement Limits:** Her alignment may restrict her from preparing and casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells. A druid must choose and prepare her spells in advance.
+**Alignment Limits:** Her alignment may restrict her from preparing and casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells.
 
 **Orisons:** Druids can prepare a number of orisons, or 0-level spells, each day, as shown on the class progression table. These spells are cast like any other spell, but they are not expended when cast and may be used again.
 
@@ -107,7 +107,7 @@ To prepare spells, a Druid must meet all the following conditions:
 
 - **No Recent Casting:** Any spells cast in the last 8 hours count against the number of spells the Druid can prepare. For example, casting a 1st-level spell before the ritual reduces that day’s available 1st-level spells by one.
 
-- **Ritual:** During this communion, the Druid enters a state of quiet reflection, attuning himself to the natural world. He spends 1 hour in a calm environment—often in solitude, near running water, beneath open sky, or amid natural surroundings—drawing divine magic through her bond with nature and preparing her spells for the day.
+- **Ritual:** During this communion, the Druid enters a state of quiet reflection, attuning herself to the natural world. She spends 1 hour in a calm environment—often in solitude, near running water, beneath open sky, or amid natural surroundings—drawing divine magic through her bond with nature and preparing her spells for the day.
 
 - **Preparation Environment:** The Druid’s surroundings must be reasonably quiet and free of distractions to concentrate. Inclement weather, injury, or failing saving throws during a ritual can prevent preparation.
 
