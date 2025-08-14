@@ -23,6 +23,22 @@ export default function FeatTable({ feats }: FeatTableProps) {
   const [showFilter, setShowFilter] = useState(false);
   const filterRef = useRef<HTMLDivElement>(null);
 
+  // On first load, check if there is a hash and select the feat
+  useEffect(() => {
+    if (window.location.hash) {
+      const featIdFromHash = window.location.hash.slice(1);
+      if (feats.some(f => f.id === featIdFromHash)) {
+        setSelectedFeatId(featIdFromHash);
+      }
+    }
+  }, [feats]);
+
+  // Update URL hash whenever a feat is selected
+  const handleSelectFeat = (id: string) => {
+    setSelectedFeatId(id);
+    window.location.hash = id; // changes hash without reload
+  };
+
   // Close dropdown on outside click
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
@@ -172,7 +188,7 @@ export default function FeatTable({ feats }: FeatTableProps) {
               {sortedFeats.map((feat) => (
                 <tr
                   key={feat.id}
-                  onClick={() => setSelectedFeatId(feat.id)}
+                  onClick={() => handleSelectFeat(feat.id)}
                   style={{
                     cursor: "pointer",
                     backgroundColor: selectedFeatId === feat.id ? "#8abb8c" : "inherit",
@@ -212,7 +228,7 @@ export default function FeatTable({ feats }: FeatTableProps) {
           lineHeight: "1.4",
           wordWrap: "break-word",
           overflowWrap: "anywhere",
-          boxSizing: "border-box", // <-- add this!
+          boxSizing: "border-box",
         }}
       >
         {selectedFeat ? (
