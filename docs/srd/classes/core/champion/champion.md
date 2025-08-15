@@ -129,7 +129,7 @@ At 1st level, a Champion gains a particularly powerful aura which corresponds to
 At 1st level, a Champion swears an oath that reflects the tenets of her faith, her personal code, and the ideals she upholds. This oath serves as the foundation of her divine power and governs how her abilities manifest. A Champion’s Oath grants her unique powers and modifies or enhances several of her core class features, including her Smite ability, auras, and other class features as noted in the individual oath descriptions. Once chosen, an oath cannot be changed.
 
 See the list of available oaths for details.
-[Champion Oaths](Champion-oaths/index.mdx)
+[Champion Oaths](champion-oaths/index.mdx)
 
 ## Detect (Sp)
 At 1st level, the Champion gains the ability to use a specific detect spell at will, determined by her Oath. 
