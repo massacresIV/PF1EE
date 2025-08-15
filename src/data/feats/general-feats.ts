@@ -1,23 +1,23 @@
 export const generalFeats = [
-    {
-        id: "battle-blessing",
-        name: "Battle Blessing",
-        categories: ["General Feats"],
-        prerequisites: "Ability to cast 1st-level Champion spells",
-        changes: `Ported from Dungeons & Dragons 3.5 Complete Champion Feats.`,
-        markdownContent: `# Battle Blessing
-*You can cast spells more quickly than usual in the heat of battle.*
+{
+    id: "channel-surge",
+    name: "Channel Surge",
+    categories: ["General Feats"],
+    prerequisites: "Channel energy or Fervor class feature",
+    changes: "Adjusted language for class changes. Now usable by Warpriests.",
+    markdownContent: `# Channel Surge
+*You can amplify the power of your channel energy or fervor.*
 
-**Prerequisites:** Ability to cast 1st-level Champion spells.
+**Prerequisites:** Channel energy or Fervor class feature.
 
-**Benefits:** You can cast most of your Champion spells faster than normal. If the spell normally requires a standard action, you can cast it as a swift action. If it normally requires a full round to cast, you can cast it as a standard action. Spells with longer or shorter casting times are not affected by this feat.`,
+**Benefit:** When you channel energy or use fervor, you may expend two uses of the ability as a full-round action to increase the amount of healing or damage you do by +50%.`
 },
-    {
-        id: "deadly-dealer",
-        name: "Deadly Dealer",
-        categories: ["General Feats"],
-        prerequisites: "Arcane Strike, Sleight of Hand 5 ranks",
-        markdownContent: `# Deadly Dealer
+{
+    id: "deadly-dealer",
+    name: "Deadly Dealer",
+    categories: ["General Feats"],
+    prerequisites: "Arcane Strike, Sleight of Hand 5 ranks",
+    markdownContent: `# Deadly Dealer
 *Your skill with handling a deck and your arcane talents allow you to turn mundane cards into weapons.*
 
 **Prerequisites:** Arcane Strike, Sleight of Hand 5 ranks.
@@ -52,6 +52,62 @@ Characters with levels in the evangelist, exalted, or sentinel prestige classes 
 If you ever fail to perform a daily obedience, you lose all access to the benefits and boons granted by this feat until you next perform the obedience.`,
 },
 {
+    id: "extra-channel",
+    name: "Extra Channel",
+    categories: ["General Feats"],
+    prerequisites: "Channel Energy class feature",
+    changes: "Adjusted language for class changes.",
+    markdownContent: `# Extra Channel
+*You can use your channel energy ability more often.*
+
+**Prerequisites:** Channel Energy class feature.
+
+**Benefit:** You can use your Channel Energy ability two additional times per day.
+
+**Special:** If a character with the Fervor class feature and the ability to Channel Energy takes this feat, they gain four additional uses of Fervor per day, but these can only be used to channel energy.`
+},
+{
+    id: "extra-fervor",
+    name: "Extra Fervor",
+    categories: ["General Feats"],
+    prerequisites: "Fervor class feature",
+    changes: "Renamed from Extra Lay on Hands. Can now be taken by Warpriests.",
+    markdownContent: `# Extra Fervor
+*You can use your fervor ability more often.*
+
+**Prerequisites:** Fervor class feature.
+
+**Benefit:** You can use your fervor ability two additional times per day.
+
+**Special:** You can gain Extra Fervor multiple times. Its effects stack.`
+},
+{
+    id: "fervent-restoration",
+    name: "Fervent Restoration",
+    categories: ["General Feats"],
+    prerequisites: "Fervor class feature",
+    changes: "Renamed from Reward of Life due to themes. Now usable by Warpriests. Now applies when healing via negative energy.",
+    markdownContent: `# Fervent Restoration
+*When you use fervour to heal a creature, you are also healed.*
+
+**Prerequisites:** Fervor class feature.
+
+**Benefit:** Each time you use your Fervor ability to heal a creature other than yourself, you heal additional hit points equal to the ability score modifier used by your Fervor class feature. This applies whether the Fervor is used to heal living creatures or undead via positive or negative energy. This ability has no effect if you use Fervor to deal damage to any creature.`
+},
+{
+    id: "greater-mercy",
+    name: "Greater Mercy",
+    categories: ["General Feats"],
+    prerequisites: "Charisma 13, Fervor class feature, Mercy class feature",
+    changes: "Adjusted language for class changes.",
+    markdownContent: `# Greater Mercy
+*Your Fervor healing is enhanced when no conditions are present on the target.*
+
+**Prerequisites:** Charisma 13, Fervor class feature, Mercy class feature.
+
+**Benefit:** When you use your Fervor ability to heal damage on a target that can benefit from your Mercies, and the target has no conditions your Mercies can remove, it instead heals an additional +1d6 points of damage.`
+},
+{
     id: "natural-spell",
     name: "Natural Spell",
     categories: ["General Feats"],
@@ -84,6 +140,19 @@ In addition, you may assume control over any number of undead that failed their 
 This use of your channel energy does not deal damage or provide healing.
 
 **Special:** If an undead creature fails its saving throw but is already affected by another creature’s Turn Undead or Rebuke Undead ability, you must succeed at an opposed Charisma check against the original source to impose your effect. On a success, your effect replaces the existing one. On a failure, your effect does not take hold.`
+},
+{
+    id: "reactive-healing",
+    name: "Reactive Healing",
+    categories: ["General Feats"],
+    prerequisites: "Quick Channel or Quicken Spell; Channel Energy or Fervor class feature",
+    changes: "Adjusted language for class changes.",
+    markdownContent: `# Reactive Healing
+*You can channel healing energy in response to an attack that would knock you unconscious.*
+
+**Prerequisites:** Quick Channel or Quicken Spell; Channel Energy or Fervor class feature.
+
+**Benefit:** When damage from an attack or effect would reduce you to 0 or fewer hit points, you can expend one use of channel energy (of a form that would heal you) or fervor (of a form that would heal you) as an immediate action to heal yourself. This healing affects only you, even if the ability would normally affect other creatures.`
 },
 {
     id: "reckless-fury",
@@ -146,4 +215,56 @@ This use of channel energy has no other effect (it does not heal or harm creatur
 
 **Special:** If an undead creature fails its saving throw but is already affected by another creature’s Turn Undead or Rebuke Undead ability, you must succeed at an opposed Charisma check against the original source to impose your effect. On a success, your effect replaces the existing one. On a failure, your effect does not take hold.`
 },
+{
+    id: "ultimate-mercy",
+    name: "Ultimate Mercy",
+    categories: ["General Feats"],
+    prerequisites: "Charisma 19, Greater Mercy, Fervor class feature, Mercy class feature",
+    changes: "Adjusted language for class changes.",
+    markdownContent: `# Ultimate Mercy
+*You can channel your Fervor to restore life to the dead.*
+
+**Prerequisites:** Charisma 19, Greater Mercy, Fervor class feature, Mercy class feature.
+
+**Benefit:** You can expend 10 uses of your Fervor ability to bring a single dead creature you touch back to life, functioning as the raise dead spell. The caster level for this effect is equal to your Champion level. You must provide the material component for raise dead, or choose to accept 1 temporary negative level; this level automatically disappears after 24 hours and cannot be overcome or removed in any way except by waiting for the duration to expire.`
+},
+{
+    id: "word-of-healing",
+    name: "Word of Healing",
+    categories: ["General Feats"],
+    prerequisites: "Fervor class feature",
+    changes: "Now usable by Warpriests.",
+    markdownContent: `# Word of Healing
+*You can channel your Fervor to heal allies at a distance.*
+
+**Prerequisites:** Fervor class feature.
+
+**Benefit:** You can use your Fervor ability to heal another creature at a range of 30 feet as a standard action that does not provoke attacks of opportunity. You must be able to speak and have a free hand to use this ability. The target heals half the amount they would have received from a use of Fervor, provided the creature would normally be healed by your Fervor. Additionally, the creature also gains the benefits of any Mercies you may possess as normal.`
+},
+{
+    id: "zealous-charge",
+    name: "Zealous Charge",
+    categories: ["General Feats"],
+    prerequisites: "Fervor class feature",
+    changes: "Renamed from Radiant Charge. Now lets you choose how many fervor charges to expend rather than all. Now usable by Warpriests.",
+    markdownContent: `# Zealous Charge
+*You can infuse your charge attacks with divine energy from your Fervor.*
+
+**Prerequisites:** Fervor class feature.
+
+**Benefit:** When you hit with a charge attack, you can expend any number of remaining uses of your Fervor ability to deal extra damage equal to 1d6 per use of Fervor expended, plus the ability score modifier used by your Fervor class feature. This damage is divine in nature and is not reduced by damage reduction, energy immunities, or energy resistances. You may choose how many uses of Fervor to expend for this effect.`
+},
+{
+    id: "zealous-might",
+    name: "Zealous Might",
+    categories: ["General Feats"],
+    prerequisites: "Fervor class feature",
+    changes: "Renamed from Reward of Gracee. Now grants either a Sacred or Profane bonus depending on positive/negative channelling. Now usable by Warpriests.",
+    markdownContent: `# Zealous Might
+*You gain a bonus to attack rolls when using your Fervor ability.*
+
+**Prerequisites:** Fervor class feature.
+
+**Benefit:** Each time you use your Fervor ability, you gain a +1 sacred or profane bonus on all attack rolls for 1 round. The type of bonus matches the energy you channel with Fervor: sacred if your Fervor channels positive energy, or profane if your Fervor channels negative energy.`
+}
 ];

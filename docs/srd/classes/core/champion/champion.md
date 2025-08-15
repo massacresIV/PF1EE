@@ -38,7 +38,7 @@ Increased skill ranks per level by 2.
             <th rowspan="2"><b>Ref Save</b></th>
             <th rowspan="2"><b>Will Save</b></th>
             <th rowspan="2"><b>Special</b></th>
-            <th rowspan="2"><b>Champion's Touch Heal/Damage</b></th>
+            <th rowspan="2"><b>Fervor Heal/Damage</b></th>
             <th colspan="5"><b>Spells Per Day</b></th>
         </tr>
         <tr>
@@ -51,7 +51,7 @@ Increased skill ranks per level by 2.
     </thead>
     <tbody>
         <tr><td>1st</td><td>+1</td><td>+2</td><td>+0</td><td>+2</td><td>Aura, Champion's Oath, Detect, Smite 1/day</td><td class="dash-cell">—</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>2nd</td><td>+2</td><td>+3</td><td>+0</td><td>+3</td><td>Champion's Touch, Oath Ability</td><td>1d6</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>2nd</td><td>+2</td><td>+3</td><td>+0</td><td>+3</td><td>Fervor, Oath Ability</td><td>1d6</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>3rd</td><td>+3</td><td>+3</td><td>+1</td><td>+3</td><td>Oath Ability, Oath Mantle, Zeal</td><td>1d6</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>4th</td><td>+4</td><td>+4</td><td>+1</td><td>+4</td><td>Channel Energy, Smite 2/day</td><td>2d6</td><td>3</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>5th</td><td>+5</td><td>+4</td><td>+1</td><td>+4</td><td>Champion's Bond</td><td>2d6</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
@@ -76,9 +76,6 @@ Increased skill ranks per level by 2.
 ## Weapon and Armor Proficiency
 Champions are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-## Aura (Ex)
-At 1st level, a Champion gains a particularly powerful aura which corresponds to her Oath.
-
 ## Champion Spellcasting
 **Divine Spells:** A Champion casts divine spells, which are drawn from the Champion spell list.
 
@@ -86,7 +83,7 @@ At 1st level, a Champion gains a particularly powerful aura which corresponds to
 
 To prepare or cast a spell, the Champion must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a Champion’s spell is 10 + the spell level + the Champion’s Charisma modifier.
 
-A Champion can only cast a limited number of spells of each spell level per day, as shown on the class progression table. In addition, she receives bonus spells per day if her Wisdom is high enough (see “Ability Modifiers and Bonus Spells”). If the table indicates 0 spells per day of a given level, the Champion may still prepare and cast bonus spells of that level if his Wisdom score is high enough.
+A Champion can only cast a limited number of spells of each spell level per day, as shown on the class progression table. In addition, she receives bonus spells per day if her Wisdom is high enough (see “Ability Modifiers and Bonus Spells”). If the table indicates 0 spells per day of a given level, the Champion may still prepare and cast bonus spells of that level if her Wisdom score is high enough.
 
 A Champion can prepare and cast any spell on the Champion spell list, provided she is capable of casting spells of that level. She must choose which spells to prepare during her daily ritual. 
 
@@ -105,7 +102,7 @@ To prepare spells, a Champion must meet all the following conditions:
 
 - **Preparation Environment:** The Champion’s surroundings must be reasonably quiet and free of distractions to concentrate. Inclement weather, injury, or failing saving throws during a ritual can prevent preparation.
 
-- **Partial Preparation and Open Slots:** The Champion can prepare only some spells at a time, requiring at least 15 minutes. He may leave spell slots empty and later prepare spells in those slots by performing a short ritual for at least 15 minutes. However, he cannot replace or refill slots already used without resting again.
+- **Partial Preparation and Open Slots:** The Champion can prepare only some spells at a time, requiring at least 15 minutes. She may leave spell slots empty and later prepare spells in those slots by performing a short ritual for at least 15 minutes. However, she cannot replace or refill slots already used without resting again.
 
 - **Prepared Spells:** Prepared spells remain attuned to the Champion until cast or released. If the Champion dies, all prepared spells are lost.
 
@@ -114,6 +111,9 @@ To prepare spells, a Champion must meet all the following conditions:
 :::info[Changes]
 Moved to 1st level for Orisons. Rescaled spells per day. Removed caster level penalty. 
 :::
+
+## Aura (Ex)
+At 1st level, a Champion gains a particularly powerful aura which corresponds to her Oath.
 
 ## Champion's Oath 
 At 1st level, a Champion swears an oath that reflects the tenets of her faith, her personal code, and the ideals she upholds. This oath serves as the foundation of her divine power and governs how her abilities manifest. A Champion’s Oath grants her unique powers and modifies or enhances several of her core class features, including her Smite ability, auras, and other class features as noted in the individual oath descriptions. Once chosen, an oath cannot be changed.
@@ -129,67 +129,67 @@ At 1st level, a Champion gains the ability to focus her wrath against those who 
 
 The smite effect remains until the target is dead or the Champion rests and regains the use of this ability. At 4th level, and every three levels thereafter, the Champion can smite one additional time per day, to a maximum of seven times per day at 19th level.
 
-
-## Champion’s Touch (Su)
-At 2nd level, a Champion’s touch becomes infused with energy, allowing her to heal or harm depending on the energy type and creature targeted. Each day she can use this ability a number of times equal to 1/2 her Champion level plus her Charisma modifier. By expending one use of this ability, a good Champion (or one who worships a good deity) can touch a creature to heal it of 1d6 hit points of damage for every two Champion levels she possesses. Using this ability is a Standard Action (unless the Champion targets herself, in which case it’s a swift action).
-
-Alternatively, Champion can use this ability to harm an undead creature, dealing the same amount of damage he would otherwise heal with a melee touch attack. Using Champion’s Touch in this way is a standard action that provokes an attack of opportunity. Undead do not receive a saving throw against this damage. This counts as positive energy.
+## Fervor (Su)
+At 2nd level, a Champion can draw upon the power of her faith to heal wounds or harm foes. She can also use this ability to quickly cast spells that aid in her struggles. This ability can be used a number of times per day equal to 1/2 her Champion level + her Charisma modifier. By expending one use of this ability, a good Champion (or one who worships a good deity) can touch a creature to heal it of 1d6 points of damage for every two Champion levels she possesses. (to a maximum of 10d6 at 20th level). Using this ability is a standard action (unless the Champion targets himself, in which case it’s a Swift Action). Alternatively, the Champion can use this ability to harm an undead creature, dealing the same amount of damage she would otherwise heal with a melee touch attack. Using fervor in this way is a standard action that provokes an attack of opportunity. Undead do not receive a saving throw against this damage. This counts as positive energy.
 
 An evil Champion (or one who worships an evil deity) can use this ability to instead deal damage to living creatures with a melee touch attack and heal undead creatures with a touch. This counts as negative energy.
 
-A Champion who is neither good nor evil and whose deity is neither good nor evil must choose to either use this ability as a good Champion or an evil Champion. Once the Champion makes this choice, it cannot be reversed. This choice also determines whether the Champion channels positive or negative energy (see channel energy).
+A neutral Champion who worships a neutral deity (or one who is not devoted to a particular deity) uses this ability as a good Champion if he chose to spontaneously cast cure spells or as an evil Champion if he chose to spontaneously cast inflict spells.
+
+As a swift action, a Champion can expend one use of this ability to cast any one Champion spell she has prepared with a casting time of 1 round or shorter. When cast in this way, the spell can target only the Champion, even if it could normally affect other or multiple targets. Spells cast in this way ignore somatic components and do not provoke attacks of opportunity. The Champion does not need to have a free hand to cast a spell in this way.
 
 :::info[Changes]
-This ability is otherwise treated as Lay on Hands or Touch of Corruption for the purpose of feats, prerequisites and archetypes.
+Added Swift Action spellcasting.
 :::
 
-## Infused Touch
-At 3rd level, and every three levels thereafter, a Champion’s Touch becomes infused with extra divine properties known as Mercies and Cruelties.
+## Zeal
+At 3rd level, and every three levels thereafter, her zeal causes her Fervor ability to become infused with extra divine properties known as Mercies and Cruelties.
 
 ### Mercy (Su)
-Whenever the Champion uses her Champion’s Touch to heal damage to one target, the target also receives the additional effects from all of the mercies possessed by the Champion. A Mercy can remove a condition caused by a curse, disease, or poison without curing the affliction. Such conditions return after 1 hour unless the mercy actually removes the affliction that causes the condition.
+Whenever the Champion uses Fervor to heal damage to one target, the target also receives the additional effects from all of the mercies possessed by the Champion. A Mercy can remove a condition caused by a curse, disease, or poison without curing the affliction. Such conditions return after 1 hour unless the mercy actually removes the affliction that causes the condition.
 
 At 3rd level, the Champion can select from the following initial mercies;
 
 - **Deceived:** The target can immediately attempt a new saving throw to disbelieve any ongoing illusions that it failed to disbelieve within the last minute.
 - **Fatigued:** The target is no longer fatigued.
-- **Riled:** Champion’s Touch also acts as calm emotions, but only for the purpose of suppressing morale bonuses (such as from the rage spell) and emotion effects that aren’t fear effects. Use the Champion’s level as the caster level.
+- **Riled:** Fervor also acts as calm emotions, but only for the purpose of suppressing morale bonuses (such as from the rage spell) and emotion effects that aren’t fear effects. Use the Champion’s level as the caster level.
 - **Shaken:** The target is no longer shaken.
 - **Sickened:** The target is no longer sickened.
 
 At 6th level, a Champion adds the following mercies to the list of those that can be selected;
 
 - **Dazed:** The target is no longer dazed.
-- **Diseased:** Champion’s Touch also acts as Remove Disease, using the Champion’s level as the caster level.
+- **Diseased:** Fervor also acts as Remove Disease, using the Champion’s level as the caster level.
 - **Enfeebled:** The Champion dispels any magical effects that are reducing one of the target’s ability scores (paladin’s choice).
-- **Haunted:** Champion’s Touch also acts as Protection from Evil, but only for the purpose of allowing a new saving throw against enchantment (charm) and enchantment (compulsion) effects, making the target immune to any attempts to possess or exercise mental control over the target, or preventing a life force from controlling the target (all as described in the second effect of protection from evil). Use the Champion’s level as the caster level.
+- **Haunted:** Fervor also acts as Protection from Evil, but only for the purpose of allowing a new saving throw against enchantment (charm) and enchantment (compulsion) effects, making the target immune to any attempts to possess or exercise mental control over the target, or preventing a life force from controlling the target (all as described in the second effect of protection from evil). Use the Champion’s level as the caster level.
 - **Staggered:** The target is no longer staggered, unless the target is at exactly 0 hit points.
-- **Targeted:** Champion’s Touch also acts as sanctuary, using the Champion’s level as the caster level. The saving throw DC to negate this effect is equal to 10 + 1/2 the Champion’s level + the Champion’s Charisma modifier.
+- **Targeted:** Fervor also acts as sanctuary, using the Champion’s level as the caster level. The saving throw DC to negate this effect is equal to 10 + 1/2 the Champion’s level + the Champion’s Charisma modifier.
 
 At 9th level, a Champion adds the following mercies to the list of those that can be selected.
 
 - **Confused:** The target is no longer confused.
-- **Cursed:** Champion’s Touch also acts as Remove Curse, using the Champion’s level as the caster level.
+- **Cursed:** Fervor also acts as Remove Curse, using the Champion’s level as the caster level.
 - **Exhausted:** The target is no longer exhausted. The Champion must have the fatigue mercy before selecting this mercy.
 - **Frightened:** The target is no longer frightened. The Champion must have the shaken mercy before selecting this mercy.
 - **Injured:** The target gains fast healing 3 for a number of rounds equal to 1/2 the Champion’s level.
 - **Nauseated:** The target is no longer nauseated. The Champion must have the sickened mercy before selecting this mercy.
-- **Poisoned:** Champion’s Touch also acts as Neutralize Poison, using the Champion’s level as the caster level.
+- **Poisoned:** Fervor also acts as Neutralize Poison, using the Champion’s level as the caster level.
 - **Restorative:** The target heals 1d4 points of ability damage from a single ability score of the Champion’s choosing. The Champion must have the enfeebled mercy before selecting this mercy.
 
 At 12th level, a Champion adds the following mercies to the list of those that can be selected;
 
-- **Amputated:** Champion’s Touch also acts as Regenerate, but only for the purposes of regrowing severed body members, broken bones, and ruined organs. The Champion must have the injured mercy before she can select this mercy.
+- **Amputated:** Fervor also acts as Regenerate, but only for the purposes of regrowing severed body members, broken bones, and ruined organs. The Champion must have the injured mercy before she can select this mercy.
 - **Blinded:** The target is no longer blinded.
 - **Deafened:** The target is no longer deafened.
-- **Ensorcelled:** Champion’s Touch also acts as dispel magic, using the Champion’s level as her caster level (maximum 20).
+- **Ensorcelled:** Fervor also acts as dispel magic, using the Champion’s level as her caster level (maximum 20).
 - **Paralyzed:** The target is no longer paralyzed.
-- **Petrified:** Champion’s Touch also acts as stone to flesh, but only for the purpose of removing the petrified condition from a creature.
+- **Petrified:** Fervor also acts as stone to flesh, but only for the purpose of removing the petrified condition from a creature.
 - **Stunned:** The target is no longer stunned.
 
-These abilities are cumulative. For example, a 12th-level Champion’s Touch ability heals 6d6 points of damage and might also cure Fatigued and Exhausted conditions as well as removing diseases and neutralizing poisons. Once a Mercy is chosen, it can’t be changed.
+These abilities are cumulative. For example, a 12th-level Champion’s Fervor ability heals 6d6 points of damage and might also cure Fatigued and Exhausted conditions as well as removing diseases and neutralizing poisons. Once a Mercy is chosen, it can’t be changed.
+
 ### Cruelty (Su)
-Whenever the Champion uses her Champion’s Touch to deal damage to one target, the target also receives the additional effect from one of the cruelties possessed by the Champion. This choice is made when the touch is used. The target receives a Fortitude save to avoid this cruelty. If the save is successful, the target takes the damage as normal, but not the effects of the cruelty. The DC of this save is equal to 10 + 1/2 the Champion’s level + the Champion’s Charisma modifier.
+Whenever the Champion uses Fervor to deal damage to one target, the target also receives the additional effect from one of the cruelties possessed by the Champion. This choice is made when the touch is used. The target receives a Fortitude save to avoid this cruelty. If the save is successful, the target takes the damage as normal, but not the effects of the cruelty. The DC of this save is equal to 10 + 1/2 the Champion’s level + the Champion’s Charisma modifier.
 
 At 3rd level, the Champion can select from the following initial cruelties;
 
@@ -205,7 +205,7 @@ At 6th level, a Champion adds the following cruelties to the list of those that 
 
 At 9th level, a Champion adds the following cruelties to the list of those that can be selected.
 
-- **Cursed:** The target is cursed, as if the Champion had cast bestow curse, using his Champion level as his caster level.
+- **Cursed:** The target is cursed, as if the Champion had cast bestow curse, using her Champion level as her caster level.
 - **Exhausted:** The target is exhausted. The Champion must have the fatigue cruelty before selecting this cruelty.
 - **Frightened:** The target is frightened for 1 round per two levels of the Champion. The Champion must have the shaken cruelty before selecting this cruelty.
 - **Nauseated:** The target is nauseated for 1 round per three levels of the Champion. The Champion must have the sickened cruelty before selecting this cruelty.
@@ -218,12 +218,12 @@ At 12th level, an antipaladin adds the following cruelties to the list of those 
 - **Paralyzed:** The target is paralyzed for 1 round.
 - **Stunned:** The target is stunned for 1 round per four levels of the Champion.
 
-These abilities are not cumulative. For example, a 12th-level Champion’s Touch ability deals 6d6 points of damage and might also cause the target to become fatigued, dazed, poisoned, or diseased. Once a Cruelty is chosen, it can’t be changed.
+These abilities are not cumulative. For example, a 12th-level Champion’s Fervor ability deals 6d6 points of damage and might also cause the target to become fatigued, dazed, poisoned, or diseased. Once a Cruelty is chosen, it can’t be changed.
 
 ## Channel Energy (Su)
-At 4th level, a Champion gains the ability to Channel Energy. She uses her Champion level as her effective Channel level to determine the number of dice healed or damaged and the DC of the Will save (DC = 10 + 1/2 effective Channel level + Charisma modifier). This ability functions as Channel Energy, but activating it requires expending two uses of her Champion’s Touch ability rather than drawing from the unified Channel Energy pool.
+At 4th level, a Champion gains the ability to Channel Energy. She uses her Champion level as her effective Channel level to determine the number of dice healed or damaged and the DC of the Will save (DC = 10 + 1/2 effective Channel level + Charisma modifier). This ability functions as Channel Energy, but activating it requires expending two uses of her Fervor ability rather than drawing from the unified Channel Energy pool.
 
-<span class="tag" title="This feature uses a unified Channel Energy pool. Your effective Channel level includes your Cleric level plus levels of other classes granting Channel Energy or an equivalent feature. Each such class adds 2 additional uses per day to the unified pool. Classes that fuel channeling with a different resource pools (such as Fervor or Champion’s Touch) also adds 2 additional uses per day to the unified pool. Classes without this feature contribute half their levels (rounded down) to dice and DC scaling.">Channel Scaling</span>
+<span class="tag" title="This feature uses a unified Channel Energy pool. Your effective Channel level includes your Cleric level plus levels of other classes granting Channel Energy or an equivalent feature. Each such class adds 2 additional uses per day to the unified pool. Classes that fuel channeling with a different resource pools (such as Fervor) also adds 2 additional uses per day to the unified pool. Classes without this feature contribute half their levels (rounded down) to dice and DC scaling.">Channel Scaling</span>
 
 ## Champion’s Bond (Sp)
 At 5th level, a Champion gains a unique bond, influenced by her Code and deity. The Champion’s Bond can take many forms, with additional bond types available to various Codes. Once this choice is made, it cannot be changed.
@@ -232,7 +232,7 @@ At 5th level, a Champion gains a unique bond, influenced by her Code and deity. 
 At 11th level, a Champion can expend two uses of her Smite ability to grant the ability to Smite to all allies within 10 feet, using her bonuses. Allies must use this Smite ability by the start of the Champion’s next turn and the bonuses last for 1 minute. Using this ability is a Free Action.
 
 ## Divine Champion (Su)
-At 20th level, a Champion becomes a conduit for the power of her god. Her Damage Reduction granted by her Code increases by 5. Whenever she uses Smite and successfully strikes an Outsider opposed to her chosen Smite, the outsider is also subject to a banishment, using her Champion level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). After the banishment effect and the damage from the attack is resolved, the Smite immediately ends. In addition, whenever she Channels Energy or uses Champion’s Touch, she heals or harms the maximum possible amount.
+At 20th level, a Champion becomes a conduit for the power of her god. Her Damage Reduction granted by her Code increases by 5. Whenever she uses Smite and successfully strikes an Outsider opposed to her chosen Smite, the outsider is also subject to a banishment, using her Champion level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). After the banishment effect and the damage from the attack is resolved, the Smite immediately ends. In addition, whenever she Channels Energy or uses Fervor, she heals or harms the maximum possible amount.
 
 ---
 
@@ -241,7 +241,7 @@ Instead of receiving an additional skill rank or hit point whenever they gain a 
 
 The following options are available to characters who have **Champion** as their favored class:
 - Add +1 foot to the size of all the Champion’s Oath Mantles. This bonus only applies in 5-foot increments (each time this bonus is selected five times).
-- Add +½ to the Champion’s Champion's Touch ability (whether using it to heal or harm).
+- Add +½ to the Champion’s Fervor ability (whether using it to heal or harm).
 - Add +¼ to the Champion’s critical hit confirmation rolls made while using Smite (maximum bonus of +5).
 - Add +¼ to the Champion’s deflection bonus granted by their Smite ability.
 - Add +1 to the Champion’s energy resistance to one kind of energy (maximum +20).

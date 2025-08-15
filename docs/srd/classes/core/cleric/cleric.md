@@ -83,8 +83,6 @@ Clerics are proficient with all simple weapons, with all types of armor (heavy, 
 :::info[Changes]
 Now gains Heavy Armor Proficiency as they did back in 3.5
 :::
-## Aura (Ex)
-A Cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity's alignment (see the detect evil spell for details).
 
 ## Cleric Spellcasting
 **Divine Spells:** A Cleric casts divine spells, which are drawn from the Cleric spell list.
@@ -127,6 +125,12 @@ To prepare spells, a Cleric must meet all the following conditions:
 - **Prepared Spells:** Prepared spells remain attuned to the Cleric until cast or released. If the Cleric dies, all prepared spells are lost.
 
 </details>
+
+## Aura (Ex)
+A Cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity's alignment (see the detect evil spell for details).
+
+## Bonus Languages
+A cleric's bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of her race.
 
 ## Channel Energy (Su)
 Regardless of alignment, a Cleric can release a wave of energy by channelling the power of her faith through her holy (or unholy) symbol. This energy can heal or harm depending on the type of energy channelled and the creatures targeted.

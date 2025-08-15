@@ -290,6 +290,22 @@ You can only make one additional attack per round with this feat. When you use t
 **Normal:** You can only apply the effects of one critical feat to a given critical hit in addition to the damage dealt.`
 },
 {
+    id: "crusaders-fist",
+    name: "Crusader's Fist",
+    categories: ["Combat Feats"],
+    prerequisites: "Fervor class feature, Unarmed Combatant, base attack bonus +6",
+    changes: "Adjusted for EitR and Champion class.",
+    markdownContent: `# Crusader's Fist
+*You pour divine energy into the enemy you strike.*
+
+**Prerequisites:** Fervor class feature, Unarmed Combatant, base attack bonus +6.
+
+**Benefit:** When you attack with an unarmed strike and hit a creature that you can harm with your fervor ability, you can use a Swift Action to expend a daily use of fervor to deal its normal damage as if you had hit with fervor's normal touch attack. This extra damage is not multiplied on a critical hit.
+
+## Combat Trick
+When you use Crusader’s Fist and confirm a critical hit, you can spend 5 stamina points to multiply the extra damage for that critical hit.`
+},
+{
     id: "dazzling-display",
     name: "Dazzling Display",
     categories: ["Combat Feats"],
