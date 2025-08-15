@@ -10,7 +10,7 @@ hide_table_of_contents: true
 </figure>
 The will of a deity made manifest, the Champion smites foes and is afforded divine protection.
 
-Through a select, worthy few flows the power and will of the divine. Called champions, these devoted souls dedicate their swords and lives to the battle against opposed forces. Despots, liberators, paladins, and antipaladins, champions seek not just to spread divine will but to embody the teachings of the deities they serve. In pursuit of their lofty goals, they adhere closely to the edicts of their deity. As reward for their devotion, these divine champions are blessed with boons to aid them in their quests: powers to banish or sow evil, heal or harm the innocent, and inspire or cower the faithful. Although their convictions will surely lead them into conflict, champions weather endless challenges of faith and spirit, risking their lives to enact the wills of their god and fighting to bring the world into their image.
+Through a select, worthy few flows the power and will of the divine. Called Champions, these devoted souls dedicate their swords and lives to the battle against opposed forces. Despots, liberators, paladins, and antipaladins, Champions seek not just to spread divine will but to embody the teachings of the deities they serve. In pursuit of their lofty goals, they adhere closely to the edicts of their deity. As reward for their devotion, these divine Champions are blessed with boons to aid them in their quests: powers to banish or sow evil, heal or harm the innocent, and inspire or cower the faithful. Although their convictions will surely lead them into conflict, Champions weather endless challenges of faith and spirit, risking their lives to enact the wills of their god and fighting to bring the world into their image.
 
 **Role:** Champions serve as beacons for their allies within the chaos of battle. Whilst deadly opponents to opposed powers, they can also influence or coerce others to aid in their crusades. Their magic and martial skills also make them well suited to defending both themselve and others, whilst either blessing or cursing the fallen around them.
 
@@ -87,7 +87,15 @@ A Champion can only cast a limited number of spells of each spell level per day,
 
 A Champion can prepare and cast any spell on the Champion spell list, provided she is capable of casting spells of that level. She must choose which spells to prepare during her daily ritual. 
 
+**Alignment Limits:** Her alignment may restrict her from preparing and casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells.
+
 **Orisons:** Champions can prepare a number of orisons, or 0-level spells, each day, as shown on the class progression table. These spells are cast like any other spell, but they are not expended when cast and may be used again.
+
+**Spontaneous Cure/Inflict Wounds:** A good Champion (or a neutral Champion who worships a good deity) can channel stored spell energy into healing spells she did not prepare. She can lose any prepared spell (except orisons and domain spells) to cast a *cure* spell of the same level or lower.
+
+An evil Champion (or a neutral Champion who worships an evil deity) can instead lose a prepared spell to cast an *inflict* spell of the same level or lower.
+
+A Champion who is neither good nor evil and worships a deity who is neither good nor evil must choose at 1st level whether to convert spells into *cure* or *inflict* spells. Once made, this choice cannot be changed. This decision also determines whether she channels positive or negative energy (see channel energy).
 
 <details>
 <summary><strong>Daily Communion and Spell Preparation</strong></summary>
@@ -101,6 +109,8 @@ To prepare spells, a Champion must meet all the following conditions:
 - **Ritual:** During this communion, the Champion enters a state of focused devotion, reconnecting with her deity’s will. She spends 1 hour in prayer, reciting her oath, meditation, or sacred rite—often conducted in a temple, at an altar, or in a setting tied to her deity’s domains. Through this act of reverence, she prepares her spells and reaffirms her divine purpose.
 
 - **Preparation Environment:** The Champion’s surroundings must be reasonably quiet and free of distractions to concentrate. Inclement weather, injury, or failing saving throws during a ritual can prevent preparation.
+
+- **Chaotic, Evil, Good, and Lawful Spells:** A Champion can't cast spells of an alignment opposed to her own or her deity's (if she has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.
 
 - **Partial Preparation and Open Slots:** The Champion can prepare only some spells at a time, requiring at least 15 minutes. She may leave spell slots empty and later prepare spells in those slots by performing a short ritual for at least 15 minutes. However, she cannot replace or refill slots already used without resting again.
 
@@ -119,7 +129,7 @@ At 1st level, a Champion gains a particularly powerful aura which corresponds to
 At 1st level, a Champion swears an oath that reflects the tenets of her faith, her personal code, and the ideals she upholds. This oath serves as the foundation of her divine power and governs how her abilities manifest. A Champion’s Oath grants her unique powers and modifies or enhances several of her core class features, including her Smite ability, auras, and other class features as noted in the individual oath descriptions. Once chosen, an oath cannot be changed.
 
 See the list of available oaths for details.
-[Champion Oaths](champion-oaths/index.mdx)
+[Champion Oaths](Champion-oaths/index.mdx)
 
 ## Detect (Sp)
 At 1st level, the Champion gains the ability to use a specific detect spell at will, determined by her Oath. 
