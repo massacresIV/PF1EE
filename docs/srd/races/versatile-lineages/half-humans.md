@@ -25,7 +25,7 @@ To play a character with a Half-Human lineage, first select your race, just like
 
 Since a Half-Human lineage is a lineage, you can only apply one, and you cannot take another lineage in addition to your Half-Human lineage.
 
-When selecting racial traits, you can choose from those available to your race as well as those available to your Half-Human lineage.
+When selecting racial traits, you can choose from those available to your race as well as those available to Humans.
 
 ---
 

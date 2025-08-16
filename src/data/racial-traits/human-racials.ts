@@ -125,5 +125,26 @@ export const humanRacialTraits = [
 
 **Benefits:** You gain a +2 racial bonus on saving throws against hexes, necromancy spells, and spells and spell-like abilities with the curse descriptor.`,
   },
+  {
+  id: "silver-tongued",
+  name: "Silver Tongued",
+  markdownContent: `*You are adept at subtle manipulation and putting even sworn foes at ease.*
+
+**Benefits:** You gain a +2 racial bonus on Diplomacy and Bluff checks. In addition, when you use Diplomacy to shift a creature’s attitude, you can shift it up to three steps rather than just two.`,
+  },
+  {
+  id: "social-ties",
+  name: "Social Ties",
+  markdownContent: `*You are part of a culture that runs on complex webs of favors and loyalties, which you can intuitively exploit.*
+
+**Benefits:** You gain a +2 racial bonus on Diplomacy checks and on any skill checks to recruit members and teams for an organization.`,
+  },
+  {
+  id: "wayfarer",
+  name: "Wayfarer",
+  markdownContent: `*You have inherited your people’s traditions of long-distance travel and trade.*
+
+**Benefits:** You gain a +2 racial bonus on Survival checks to avoid becoming lost, and +1 racial bonus on Knowledge (geography) and Knowledge (local) checks. Additionally, whenever you gain a rank in Linguistics, you learn two languages rather than one.`,
+  }
 ];
 
