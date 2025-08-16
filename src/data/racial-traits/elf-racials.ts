@@ -118,13 +118,6 @@ export const elfRacialTraits = [
 **Benefit:** Add +1 to the saving throw DCs of divination spells and sleep effects you cast. If you have a Charisma score of 15 or higher, you can use *dream* once per day as a spell-like ability, using your total character level as caster level.`,
   },
   {
-    id: "eastern-weapon-mastery",
-    name: "Eastern Weapon Mastery",
-    markdownContent: `*Elves trained in far-off lands favor graceful and exotic weaponry.*
-
-**Benefit:**`,
-  },
-  {
     id: "elemental-resistance",
     name: "Elemental Resistance",
     markdownContent: `*Survivors of extreme climates, some elves evolve defenses against elemental forces.*  
