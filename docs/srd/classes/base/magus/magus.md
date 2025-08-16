@@ -89,7 +89,7 @@ The Magus's class skills are Climb (Str), Craft (Int), Fly (Dex), Intimidate (Ch
 A Magus is proficient with all simple and martial weapons, and with all types of armor (heavy, medium, and light). He can cast magus spells while wearing armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wielding a shield incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass magus still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
 :::info[Changes]
-Changed proficiencies to allowing casting in medium and heavy armour at 1st level.
+Changed proficiencies to allow casting in medium and heavy armour at 1st level.
 :::
 
 ## Magus Spellcasting

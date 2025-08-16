@@ -71,13 +71,28 @@ At 1st level, and at every even level thereafter, a fighter gains a bonus feat i
 Upon reaching 4th level, and every four levels thereafter (8th, 12th, and so on), a fighter can choose to learn a new bonus feat in place of a bonus feat he has already learned. In effect, the fighter loses the bonus feat in exchange for the new one. The old feat cannot be one that was used as a prerequisite for another feat, prestige class, or other ability. A fighter can only change one feat at any given level and must choose whether or not to swap the feat at the time he gains a new bonus feat for the level.
 
 ## Bravery (Ex)
-Starting at 2nd level, a fighter gains a +1 bonus on Will saves against fear. This bonus increases by +1 for every four levels beyond 2nd.
+At 2nd level, a fighter gains a +1 bonus on Will saves against fear. This bonus increases by +1 for every four levels beyond 2nd.
 
 ## Armor Training (Ex)
-Starting at 3rd level, a fighter learns to be more maneuverable and resilient while wearing armor. Whenever he is wearing armor, he reduces the armor check penalty by 1 (to a minimum of 0) and increases the armor bonus granted by his armor by 1. Every four levels thereafter (7th, 11th, and 15th), these bonuses increase by +1 each time, to a maximum –4 reduction of the armor check penalty and a +4 increase to the armor bonus granted by his armor.
+At 3rd level, a fighter learns to be more maneuverable and resilient while wearing armor. Whenever he is wearing armor, he reduces the armor check penalty by 1 (to a minimum of 0) and increases the armor bonus granted by his armor by 1. Every four levels thereafter (7th, 11th, and 15th), these bonuses increase by +1 each time, to a maximum –4 reduction of the armor check penalty and a +4 increase to the armor bonus granted by his armor.
 
 **Advanced Armor Training:** Beginning at 7th level, instead of increasing the benefits provided by armor training (reducing his armor’s check penalty by 1 and increasing its armor bonus by 1), a fighter can choose an advanced armor training option (see Advanced Armor Training below).
 
 :::info[Changes]
 Now increases the armor bonus of worn armor instead of its max Dexterity bonus and no longer affects movement speed.
 :::
+
+## Weapon Training (Ex)
+At 5th level, a fighter can select one group of weapons, as noted below. Whenever he attacks with a weapon from this group, he gains a +1 bonus on attack and damage rolls.
+
+Every four levels thereafter (9th, 13th, and 17th), a fighter becomes further trained in another group of weapons. He gains a +1 bonus on attack and damage rolls when using a weapon from this group. In addition, the bonuses granted by previous weapon groups increase by +1 each. For example, when a fighter reaches 9th level, he receives a +1 bonus on attack and damage rolls with one weapon group and a +2 bonus on attack and damage rolls with the weapon group selected at 5th level. Bonuses granted from overlapping groups do not stack. Take the highest bonus granted for a weapon if it resides in two or more groups.
+
+A fighter also adds this bonus to any combat maneuver checks made with weapons from this group. This bonus also applies to the fighter's Combat Maneuver Defense when defending against disarm and sunder attempts made against weapons from this group.
+
+**Advanced Weapon Training:** Beginning at 9th level, instead of selecting an additional fighter weapon group, a fighter can choose an advanced weapon training option (see Advanced Weapon Training below) for one fighter weapon group that he previously selected with the weapon training class feature.
+
+## Armor Mastery (Ex)
+At 19th level, a fighter gains DR 5/— whenever he is wearing armor or using a shield.
+
+## Weapon Mastery (Ex)
+At 20th level, a fighter chooses one weapon, such as the longsword, greataxe, or longbow. Any attacks made with that weapon automatically confirm all critical threats and have their damage multiplier increased by 1 (×2 becomes ×3, for example). In addition, he cannot be disarmed while wielding a weapon of this type.
