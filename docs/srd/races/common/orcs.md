@@ -27,8 +27,7 @@ You select a lineage at 1st level to reflect abilities passed down to you from y
 
 ### Common Orc
 - **Diehard (2 RP):** Common Orcs gain Diehard as a bonus feat at 1st level.
-
-### Deep Orc
+- **Weapon Familiarity (2 RP):** Common Orcs are proficient with Greataxes and Falchions, and treat any weapon with the word “orc” in its name as a martial weapon.
 
 ---
 
