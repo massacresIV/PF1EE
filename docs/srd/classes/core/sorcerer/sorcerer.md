@@ -115,12 +115,12 @@ Sorcerers are proficient with all simple weapons. They are not proficient with a
                 <tr><td>12th</td><td>9</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
                 <tr><td>13th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td></tr>
                 <tr><td>14th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
-                <tr><td>15th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td></tr>
-                <tr><td>16th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
-                <tr><td>17th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td></tr>
-                <tr><td>18th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>3</td></tr>
-                <tr><td>19th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr>
-                <tr><td>20th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>5</td></tr>
+                <tr><td>15th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td></tr>
+                <tr><td>16th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
+                <tr><td>17th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td></tr>
+                <tr><td>18th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td></tr>
+                <tr><td>19th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td></tr>
+                <tr><td>20th</td><td>9</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td></tr>
             </tbody>
         </table>
     </div>

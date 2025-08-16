@@ -65,23 +65,23 @@ The Magus's class skills are Climb (Str), Craft (Int), Fly (Dex), Intimidate (Ch
         <tr><td>1st</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td>Arcane Pool, Fighter Training, Spell Combat</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td>Spellstrike</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>3rd</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td>Magus Arcana</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Spell Recall</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Magus Feat</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>Magus Arcana</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>Knowledge Pool</td><td>4</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td>Improved Spell Combat</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>Magus Arcana</td><td>4</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td>Improved Spell Recall</td><td>4</td><td>4</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr>
-        <tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td>Magus Feat</td><td>4</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
-        <tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Magus Arcana</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
-        <tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Spell Access</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>1</td><td>-</td></tr>
-        <tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td>Greater Spell Combat</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td></tr>
-        <tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>Magus Arcana</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>-</td></tr>
-        <tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Counterstrike</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>1</td></tr>
-        <tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Magus Feat</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>2</td></tr>
-        <tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>Magus Arcana</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
-        <tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>Greater Spell Access</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
-        <tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>True Magus</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
+        <tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Spell Recall</td><td>5</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Magus Feat</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>Magus Arcana</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>Knowledge Pool</td><td>6</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td>Improved Spell Combat</td><td>6</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>Magus Arcana</td><td>6</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td>Improved Spell Recall</td><td>6</td><td>4</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr>
+        <tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td>Magus Feat</td><td>6</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
+        <tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Magus Arcana</td><td>6</td><td>4</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+        <tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Spell Access</td><td>6</td><td>4</td><td>4</td><td>4</td><td>3</td><td>1</td><td>-</td></tr>
+        <tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td>Greater Spell Combat</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td></tr>
+        <tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>Magus Arcana</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>-</td></tr>
+        <tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Counterstrike</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>1</td></tr>
+        <tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Magus Feat</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>2</td></tr>
+        <tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>Magus Arcana</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
+        <tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>Greater Spell Access</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
+        <tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>True Magus</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
     </tbody>
 </table>
 

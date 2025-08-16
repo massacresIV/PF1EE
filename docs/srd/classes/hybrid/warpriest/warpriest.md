@@ -66,23 +66,23 @@ The Warpriest's class skills are Climb (Str), Craft (Int), Diplomacy (Cha), Hand
         <tr><td>1st</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td>Aura, Blessings (Minor), Focus Weapon, Sacred Weapon</td><td>1d6</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td>Fervor, Warpriest Feat</td><td>1d6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>3rd</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td>Sacred Weapon +1</td><td>1d6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Channel Energy, Sacred Armor +1</td><td>1d6</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>—</td><td>1d8</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>Warpriest Feat</td><td>1d8</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>Sacred Weapon +2</td><td>1d8</td><td>4</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td>Sacred Armor +2</td><td>1d8</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>—</td><td>1d8</td><td>4</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td>Warpriest Feat</td><td>1d10</td><td>4</td><td>4</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr>
-        <tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td>Sacred Weapon +3</td><td>1d10</td><td>4</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
-        <tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Sacred Armor +3</td><td>1d10</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
-        <tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>—</td><td>1d10</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>1</td><td>-</td></tr>
-        <tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td>Warpriest Feat</td><td>1d10</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td></tr>
-        <tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>Sacred Weapon +4</td><td>2d6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>-</td></tr>
-        <tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Sacred Armor +4</td><td>2d6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>1</td></tr>
-        <tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>—</td><td>2d6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>2</td></tr>
-        <tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>Warpriest Feat</td><td>2d6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
-        <tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>Sacred Weapon +5</td><td>2d6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
-        <tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>Sacred Armor +5</td><td>2d8</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
+        <tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Channel Energy, Sacred Armor +1</td><td>1d6</td><td>5</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>—</td><td>1d8</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>Warpriest Feat</td><td>1d8</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>Sacred Weapon +2</td><td>1d8</td><td>6</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td>Sacred Armor +2</td><td>1d8</td><td>6</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>—</td><td>1d8</td><td>6</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td>Warpriest Feat</td><td>1d10</td><td>6</td><td>4</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr>
+        <tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td>Sacred Weapon +3</td><td>1d10</td><td>6</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
+        <tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Sacred Armor +3</td><td>1d10</td><td>6</td><td>4</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+        <tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>—</td><td>1d10</td><td>6</td><td>4</td><td>4</td><td>4</td><td>3</td><td>1</td><td>-</td></tr>
+        <tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td>Warpriest Feat</td><td>1d10</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td></tr>
+        <tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>Sacred Weapon +4</td><td>2d6</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>-</td></tr>
+        <tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Sacred Armor +4</td><td>2d6</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>1</td></tr>
+        <tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>—</td><td>2d6</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>2</td></tr>
+        <tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>Warpriest Feat</td><td>2d6</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
+        <tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>Sacred Weapon +5</td><td>2d6</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
+        <tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>Sacred Armor +5</td><td>2d8</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
     </tbody>
 </table>
 
@@ -134,7 +134,7 @@ To prepare spells, a Warpriest must meet all the following conditions:
 </details>
 
 :::info[Changes]
-Reduced maximum spells per day by 1 at each level.
+Reduced maximum spells per day by 1 at each level. Cantrips per day increased.
 :::
 
 ## Aura (Ex)

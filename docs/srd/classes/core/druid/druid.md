@@ -54,23 +54,23 @@ The druid’s class skills are Climb (Str), Craft (Int), Fly (Dex), Handle Anima
         <tr><td>1st</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td>Nature Bond, Nature Sense, Wild Empathy</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td>—</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>3rd</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td>—</td><td>4</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Wild Shape (1/day)</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>—</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>Wild Shape (2/day)</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>—</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td>Wild Shape (3/day)</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>—</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td>Wild Shape (4/day)</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td>—</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Wild Shape (1/day)</td><td>5</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>—</td><td>5</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>Wild Shape (2/day)</td><td>5</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>—</td><td>6</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td>Wild Shape (3/day)</td><td>6</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>—</td><td>6</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td>Wild Shape (4/day)</td><td>6</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td>—</td><td>6</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Wild Shape (5/day)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>—</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td></tr>
-        <tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td>Wild Shape (6/day)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td></tr>
-        <tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>—</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td></tr>
-        <tr><td>16th</td><td>+11/+6/+1</td><td>+10</td><td>+5</td><td>+10</td><td>Wild Shape (7/day)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td></tr>
-        <tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>—</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td></tr>
-        <tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>Wild Shape (8/day)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td></tr>
-        <tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>—</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td></tr>
-        <tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>Wild Shape (at will)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
+        <tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>—</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td></tr>
+        <tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td>Wild Shape (6/day)</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td></tr>
+        <tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>—</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td></tr>
+        <tr><td>16th</td><td>+11/+6/+1</td><td>+10</td><td>+5</td><td>+10</td><td>Wild Shape (7/day)</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td></tr>
+        <tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>—</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td></tr>
+        <tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>Wild Shape (8/day)</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td></tr>
+        <tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>—</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td></tr>
+        <tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>Wild Shape (at will)</td><td>6</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
     </tbody>
 </table>
 
@@ -118,6 +118,10 @@ To prepare spells, a Druid must meet all the following conditions:
 - **Prepared Spells:** Prepared spells remain attuned to the Druid until cast or released. If the Druid dies, all prepared spells are lost.
 
 </details>
+
+:::info[Changes]
+Cantrips per day increased.
+:::
 
 ## Bonus Languages
 A druid’s bonus language options include Sylvan, the language of woodland creatures. This choice is in addition to the bonus languages available to the character because of her race.

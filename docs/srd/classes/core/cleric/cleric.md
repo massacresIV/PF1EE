@@ -57,29 +57,30 @@ The Cleric's class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Heal
         <tr><td>1st</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td>Aura, Channel Energy 1d6, Domains</td><td>3</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td>—</td><td>4</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>3rd</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td>Channel Energy 2d6</td><td>4</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>—</td><td>4</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Channel Energy 3d6</td><td>4</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>—</td><td>4</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>Channel Energy 4d6</td><td>4</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td>—</td><td>4</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>Channel Energy 5d6</td><td>4</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td>—</td><td>4</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td>Channel Energy 6d6</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>—</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Channel Energy 7d6</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td></tr>
-        <tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td>—</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td></tr>
-        <tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>Channel Energy 8d6</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td></tr>
-        <tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>—</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td></tr>
-        <tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Channel Energy 9d6</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td></tr>
-        <tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>—</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td></tr>
-        <tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>Channel Energy 10d6</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td></tr>
-        <tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>—</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td></tr>
+        <tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>—</td><td>5</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>Channel Energy 3d6</td><td>5</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>—</td><td>5</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>Channel Energy 4d6</td><td>6</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td>—</td><td>6</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td>Channel Energy 5d6</td><td>6</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td>—</td><td>6</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td>Channel Energy 6d6</td><td>6</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>—</td><td>6</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td>Channel Energy 7d6</td><td>6</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td></tr>
+        <tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td>—</td><td>6</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td></tr>
+        <tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td>Channel Energy 8d6</td><td>6</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td></tr>
+        <tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>—</td><td>6</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td></tr>
+        <tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Channel Energy 9d6</td><td>6</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td></tr>
+        <tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>—</td><td>6</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td></tr>
+        <tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>Channel Energy 10d6</td><td>6</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td></tr>
+        <tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>—</td><td>6</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td></tr>
         <tr class="footnote-row"><td colspan="16">Note: “+1” represents the Domain spell slot.</td></tr>
     </tbody>
 </table>
 
 ## Weapon and Armor Proficiency
 Clerics are proficient with all simple weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields). Clerics are also proficient with the favored weapon of their deity.
+
 :::info[Changes]
 Now gains Heavy Armor Proficiency as they did back in 3.5
 :::
@@ -125,6 +126,10 @@ To prepare spells, a Cleric must meet all the following conditions:
 - **Prepared Spells:** Prepared spells remain attuned to the Cleric until cast or released. If the Cleric dies, all prepared spells are lost.
 
 </details>
+
+:::info[Changes]
+Cantrips per day increased.
+:::
 
 ## Aura (Ex)
 A Cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity's alignment (see the detect evil spell for details).

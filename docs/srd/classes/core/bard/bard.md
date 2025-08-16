@@ -110,8 +110,8 @@ A Bard is proficient with all simple weapons, plus the longsword, rapier, sap, s
                 <tr><td>16th</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>2</td></tr>
                 <tr><td>17th</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr>
                 <tr><td>18th</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr>
-                <tr><td>19th</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td></tr>
-                <tr><td>20th</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr>
+                <tr><td>19th</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr>
+                <tr><td>20th</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>5</td></tr>
             </tbody>
         </table>
     </div>
