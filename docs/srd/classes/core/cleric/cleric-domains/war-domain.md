@@ -1,4 +1,4 @@
-# Void Domain
+# War Domain
 
 # Domain Bonus
 *You are a crusader for your god, always ready and willing to fight to defend your faith. In addition, you gain Weapon Focus with a weapon group that includes your deity's favored weapon as a bonus feat.*
