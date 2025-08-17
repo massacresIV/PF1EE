@@ -392,18 +392,18 @@ These bonuses do not stack with those granted by Persuasive, but this feat count
 **Benefit:** You gain a +4 bonus on Profession checks for skills in which you have at least 2 ranks, and on Spellcraft checks when crafting items by foraging alchemical supplies and material components, salvaging raw crafting materials, and salvaging raw magical item materials.`,
     },
     {
-        id: "falconry",
-        name: "Falconry",
-        categories: ["Skill Feats"],
-        prerequisites: "Cha 11, Animal Affinity, animal companion class feature.",
-        changes: `Lowered Charisma prerequisite from 13.`,
-        markdownContent: `# Falconry
-    *You know the secret arts of falconry developed by a prestigious family.*
+    id: "falconry",
+    name: "Falconry",
+    categories: ["Skill Feats"],
+    prerequisites: "Cha 11, Animal Affinity, animal companion class feature.",
+    changes: `Lowered Charisma prerequisite from 13.`,
+    markdownContent: `# Falconry
+*You know the secret arts of falconry developed by a prestigious family.*
 
-    **Prerequisites:** Cha 11, Animal Affinity, animal companion class feature.
+**Prerequisites:** Cha 11, Animal Affinity, animal companion class feature.
 
-    **Benefit:** You improve your affinity with birds of prey, such as eagles, falcons, hawks, and owls. You gain a +2 bonus on Animal Handling checks made to train or control birds of prey. In addition, if you have a bird of prey as an animal companion, your animal companion gains one of the following bonuses chosen when gained: a +1 dodge bonus to AC, a +1 morale bonus on all attack rolls, or a +2 morale bonus on all Will saves.`,
-    },
+**Benefit:** You improve your affinity with birds of prey, such as eagles, falcons, hawks, and owls. You gain a +2 bonus on Animal Handling checks made to train or control birds of prey. In addition, if you have a bird of prey as an animal companion, your animal companion gains one of the following bonuses chosen when gained: a +1 dodge bonus to AC, a +1 morale bonus on all attack rolls, or a +2 morale bonus on all Will saves.`,
+},
     {
     id: "hellcat-stealth",
     name: "Hellcat Stealth",

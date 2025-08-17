@@ -9,12 +9,6 @@ At 1st level, a titan fighter learns to wield two-handed melee weapons intended 
 <u>This ability replaces Weapon Training 1 and 3.</u>
 
 ---
-## Massive Attacks (Ex)
-At 2nd level, and every four levels thereafter, a Titan Fighter gains combat feats from the Ranger's Two-Weapon Fighting combat style. He can choose feats from the Two-Weapon Fighting combat style even if he does not have the normal prerequisites. Unlike a Ranger, he does not lose the benefits of his combat style feats when wearing heavy armor.
-
-<u>This ability replaces the bonus feats gained at 2nd, 6th, 10th, 14th, and 18th levels.</u>
-
----
 ## Incredible Heft (Ex)
 At 3rd level, and every four levels thereafter, a Titan Fighter becomes more skilled at wielding a two-handed weapon in one hand and gains a +1 bonus on attack and damage rolls when fighting this way.
 

@@ -11,7 +11,7 @@ Savage Barbarians lack the ability to read and write. A Savage Barbarian may spe
 ## Naked Courage (Ex)
 At 3rd level, the savage barbarian gains a +1 dodge bonus to AC and a +1 morale bonus on saving throws against fear when wearing no armor (shields are allowed). This bonus increases by +1 for every six levels after 3rd.
 
-<u>This ability replaces trap sense.</u>
+<u>This ability replaces Danger Sense.</u>
 
 ---
 
