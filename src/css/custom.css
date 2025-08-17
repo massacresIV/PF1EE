@@ -125,6 +125,23 @@ html {
   color: var(--ifm-color-primary);
 }
 
+.generalTable {
+  font-size: 13px;
+  text-align: center;
+  width: 100%;
+  table-layout: fixed; /* Enables colgroup widths */
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+.generalTable th,
+.generalTable td {
+  padding: 0.15rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal !important; /* ensure wrapping in the actual cells */
+  text-align: center;
+}
 
 .footnote-row td {
   text-align: left;
