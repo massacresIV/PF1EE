@@ -70,6 +70,32 @@ For every five caster levels you possess, this bonus increases by +1, to a maxim
 You can spend any number of stamina points to increase the duration of this feat’s effects by 1 round for each stamina point spent.`
 },
 {
+    id: "arcane-armor-training",
+    name: "Arcane Armor Training",
+    categories: ["Combat Feats"],
+    prerequisites: "Light Armor Proficiency, ability to cast arcane spells",
+    changes: "No longer requires an action to use. Reduction increased from 10% to 15%.",
+    markdownContent: `# Arcane Armor Training
+*You have learned how to cast spells while wearing armor.*
+
+**Prerequisites:** Light Armor Proficiency, ability to cast arcane spells.
+
+**Benefit:** You reduce the arcane spell failure chance due to the armor you are wearing by 15% for any spells you cast.`
+},
+{
+    id: "arcane-armor-mastery",
+    name: "Arcane Armor Mastery",
+    categories: ["Combat Feats"],
+    prerequisites: "Arcane Armor Training, Medium Armor Proficiency, ability to cast arcane spells",
+    changes: "No longer requires an action to use. Reduction increased from 20% to 25%.",
+    markdownContent: `# Arcane Armor Training
+*You have mastered the ability to cast spells while wearing armor.*
+
+**Prerequisites:** Arcane Armor Training, Medium Armor Proficiency, ability to cast arcane spells.
+
+**Benefit:** You reduce the arcane spell failure chance due to the armor you are wearing by 25% for any spells you cast. This bonus replaces, and does not stack with, the bonus granted by Arcane Armor Training.`
+},
+{
     id: "armor-focus",
     name: "Armor Focus",
     categories: ["Combat Feats"],
@@ -101,58 +127,6 @@ You can spend any number of stamina points to increase the duration of this feat
 
 ## Combat Trick
 You can spend 5 stamina points to use this feat as a Swift Action instead of a Move Action. If you have the Martial Flexibility class feature, you can spend 5 stamina points to use that class feature as a Swift Action instead of a Move Action, or as a Free Action instead of a Swift Action.`
-},
-{
-    id: "light-battlecaster-training",
-    name: "Light Battlecaster Training",
-    categories: ["Combat Feats"],
-    prerequisites: "Light Armor Proficiency, ability to cast arcane spells.",
-    changes: "Now passively allows arcane casting in light armor. Prequisites adjusted.",
-    markdownContent: `# Light Battlecaster Training
-*You have learned how to cast arcane spells while wearing light armor.*
-
-**Prerequisites:** Light Armor Proficiency, ability to cast arcane spells.
-
-**Benefit:** You can cast arcane spells while wearing light armor without incurring the normal failure chance.`
-},
-{
-    id: "medium-battlecaster-training",
-    name: "Medium Battlecaster Training",
-    categories: ["Combat Feats"],
-    prerequisites: "Medium Armor Proficiency, ability to cast arcane spells in light armor without incurring the normal failure chance for wearing armor.",
-    changes: "Now passively allows arcane casting in medium armor. Prequisites adjusted.",
-    markdownContent: `# Medium Battlecaster Training
-*You have learned how to cast arcane spells while wearing medium armor.*
-
-**Prerequisites:** Medium Armor Proficiency, ability to cast arcane spells in light armor without incurring the normal failure chance for wearing armor.
-
-**Benefit:** You can cast arcane spells while wearing medium armor without incurring the normal failure chance.`
-},
-{
-    id: "heavy-battlecaster-training",
-    name: "Heavy Battlecaster Training",
-    categories: ["Combat Feats"],
-    prerequisites: "Heavy Armor Proficiency, ability to cast arcane spells in medium armor without incurring the normal failure chance for wearing armor.",
-    changes: "Now passively allows arcane casting in heavy armor. Prequisites adjusted.",
-    markdownContent: `# Heavy Battlecaster Training
-*You have learned how to cast arcane spells while wearing heavy armor.*
-
-**Prerequisites:** Heavy Armor Proficiency, ability to cast arcane spells in medium armor without incurring the normal failure chance for wearing armor.
-
-**Benefit:** You can cast arcane spells while wearing heavy armor without incurring the normal failure chance.`
-},
-{
-    id: "shielded-battlecaster-training",
-    name: "Shielded Battlecaster Training",
-    categories: ["Combat Feats"],
-    prerequisites: "Shield Proficiency, ability to cast arcane spells.",
-    changes: "Now passively allows arcane casting in light armor. Prequisites adjusted.",
-    markdownContent: `# Shield Battlecaster Training
-*You have learned how to cast arcane spells whilst using a shield.*
-
-**Prerequisites:** Shield Proficiency, ability to cast arcane spells.
-
-**Benefit:** You can cast arcane spells while using a shield without incurring the normal failure chance.`
 },
 {
     id: "bleeding-critical",
