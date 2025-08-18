@@ -198,7 +198,7 @@ export const elfRacialTraits = [
     name: "Long-Limbed",
     markdownContent: `*Your graceful elven form allows you to move quickly and with great ease.*
 
-**Benefits:** You have a base move speed of 35 feet.`,
+**Benefits:** Your base move speed increases to 35 feet.`,
   },
   {
     id: "loremasters",
