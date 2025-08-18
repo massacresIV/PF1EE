@@ -9,10 +9,10 @@ Added a Domain Bonus.
 
 # Domain Powers
 
-**Strength Surge (Sp):** As a swift action, you can touch a creature to grant it great strength. For a number of rounds equal to your Wisdom modifier, the target gains an bonus equal to 1/2 your cleric level (minimum +1) on melee attack rolls, combat maneuver checks that rely on Strength, Strength-based skill checks, and Strength checks. You can use this ability three times per day.
+**Strength Surge (Sp):** As a swift action, you can touch a creature to grant it great strength. For 1 round, the target gains an bonus equal to 1/2 your cleric level (minimum +1) on melee attack rolls, combat maneuver checks that rely on Strength, Strength-based skill checks, and Strength checks. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 :::info[Changes]
-Changed from standard action to swift action. Duration increased from 1 round to rounds equal to Wisdom modifier. Bonus type changed from enhancement to untyped. Reduced uses per day.
+Changed from standard action to swift action. Bonus type changed from enhancement to untyped.
 :::
 
 **Might of the Gods (Su):** At 8th level, as a Swift Action, you gain a bonus to your Strength score equal to your Wisdom modifier (minimum +1) for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.
