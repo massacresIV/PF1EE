@@ -350,7 +350,7 @@ You must have at least one hand free and holding nothing (Unarmed Combatant) or 
 
 **Prerequisites:** Dex 13.
 
-**Benefit:** You do not provoke an attack of opportunity when performing a dirty trick, disarm, feint, reposition, steal, or trip combat maneuver. In addition, you receive a +2 bonus on checks with these combat maneuvers. You can make a Bluff check to feint in combat as a move action. You also receive a +2 bonus to your Combat Maneuver Defense against these combat maneuvers.
+**Benefit:** You do not provoke an attack of opportunity when performing a dirty trick, disarm, reposition, steal, or trip combat maneuver. In addition, you receive a +2 bonus on checks with these combat maneuvers. You can make a Bluff check to feint in combat as a move action. You also receive a +2 bonus to your Combat Maneuver Defense against these combat maneuvers.
 
 **Normal:** You provoke an attack of opportunity when performing these combat maneuvers. Feinting in combat is a standard action.`
 },
