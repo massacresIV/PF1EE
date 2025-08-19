@@ -237,6 +237,39 @@ At 4th level, a Champion gains the ability to Channel Energy. She uses her Champ
 ## Champion’s Bond (Sp)
 At 5th level, a Champion gains a unique bond, influenced by her Code and deity. The Champion’s Bond can take many forms, with additional bond types available to various Codes. Once this choice is made, it cannot be changed.
 
+### Domain Bond
+A Champion can bond further with the values of her deity. A Champion chooses a single domain from among those belonging to her deity as if she were a Cleric, treating her Champion level as her effective Cleric level when determining the effects of her domain powers. A Champion can select an alignment domain (Chaos, Evil, Good, or Law) only if her alignment matches that domain. Any Wisdom-based aspects of that granted power instead use the Champion’s Charisma. Additionally, like a Cleric, a Champion gains one domain spell slot for each level of Champion spell she can cast, from 1st on up.
+
+### Steed Bond
+A Champion gains the service of an unusually intelligent, strong, and loyal steed to serve her in her crusade against evil. This mount is usually a heavy horse (for a Medium-sized Champion) or a pony (for a Small-sized Champion), although more exotic mounts, such as a boar, camel, or dog are also suitable. This mount functions as a Druid’s animal companion, using the Champion’s level as her effective Druid level. Bonded mounts have an Intelligence of at least 6.
+
+In addition to horses, a paladin may select (at the GM’s discretion) some less ordinary creatures, often determined by her deity.
+
+Once per day, as a full-round action, a Champion may magically call her mount to her side. This ability is the equivalent of a spell of a level equal to one-third the paladin’s level. The mount immediately appears adjacent to the Champion. A Champion can use this ability once per day at 5th level, and one additional time per day for every 4 levels thereafter, for a total of four times per day at 17th level.
+
+At 11th level, the mount either gains the Celestial or Fiendish Creature simple template, determined by her Champion’s Touch ability to heal or harm. In addition, her mount becomes a Magical Beast for the purposes of determining which spells affect it.
+
+At 15th level, a Champion’s mount gains spell resistance equal to the paladin’s level + 11.
+
+Should the Champion’s mount die, the Champion may not summon another mount for 1 week. During this 1-week period, the Champion takes a –1 penalty on attack and weapon damage rolls.
+
+### Weapon Bond
+All Champion’s can choose to form a bond with their weapon. The Champion can enhance their weapon as a Swift Action for 1 minute per Champion level. When a weapon becomes bonded, it sheds light like a torch. The Champion grants the weapon a +1 Enhancement bonus, increasing by +1 every three levels thereafter, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon properties: Flaming, Flaming Burst, Keen, and Speed. Adding these properties consumes an amount of bonus equal to the property’s cost (see Table: Melee Weapon Special Abilities). These bonuses are added to any properties the weapon already has, but duplicate abilities do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be added before any other properties can be added.
+
+Champions belonging to any of the following alignments may also choose weapon properties from that alignment’s list;
+
+- **Chaotic:** Anarchic, Menacing, Smashing, Vicious
+
+- **Evil:** Cruel, Unholy, Vicious, Vorpal
+
+- **Good:** Brilliant Energy, Disruption, Holy, Merciful
+
+- **Lawful:** Axiomatic, Menacing, Merciful, Sapping
+
+The bonus and properties granted by the Champion’s Bond are determined when the bond is made and cannot be changed until the bond is made again. The bond imparts no bonuses if the weapon is held by anyone other than the Champion but resumes giving bonuses if returned to the Champion. These bonuses apply to only one end of a double weapon. A Champion can use this ability once per day at 5th level, and one additional time per day for every four levels beyond 5th, to a total of four times per day at 17th level.
+
+If a weapon bonded with the Champion is destroyed, the Champion loses the use of this ability for 1 week. During this 1-week period, the Champion takes a –1 penalty on attack and weapon damage rolls.
+
 ## Shared Smite (Su)
 At 11th level, a Champion can expend two uses of her Smite ability to grant the ability to Smite to all allies within 10 feet, using her bonuses. Allies must use this Smite ability by the start of the Champion’s next turn and the bonuses last for 1 minute. Using this ability is a Free Action.
 
