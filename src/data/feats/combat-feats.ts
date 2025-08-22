@@ -115,7 +115,6 @@ You can spend any number of stamina points to increase the duration of this feat
     name: "Barroom Brawler",
     categories: ["Combat Feats"],
     prerequisites: "Base attack bonus +4.",
-    changes: "",
     markdownContent: `# Barroom Brawler
 *You have learned how to mimic the combat tricks and forms of others.*
 
@@ -262,6 +261,21 @@ You can only make one additional attack per round with this feat. When you use t
 **Benefit:** When you score a critical hit, you can apply the effects of two critical feats in addition to the damage dealt.
 
 **Normal:** You can only apply the effects of one critical feat to a given critical hit in addition to the damage dealt.`
+},
+{
+    id: "crossbow-mastery",
+    name: "Crossbow Mastery",
+    categories: ["Combat Feats"],
+    prerequisites: "Dex 15, Precise Shot, Rapid Reload",
+    changes: "Adjusted prerequisites for Elephant in the Room, and removed Rapid Shot requirement.",
+    markdownContent: `# Crossbow Mastery
+*You can load crossbows with blinding speed and even fire them in melee with little fear of reprisal.*
+
+**Prerequisites:** Dex 15, Precise Shot, Rapid Reload.
+
+**Benefit:** The time required for you to reload any type of crossbow is reduced to a free action, regardless of the type of crossbow used. You can fire a crossbow as many times in a full attack action as you could attack if you were using a bow. Reloading a crossbow for the type of crossbow you chose when you took Rapid Reload no longer provokes attacks of opportunity.
+
+**Special:** Starting at 6th level, a ranger with the archery combat style may select Crossbow Mastery as a combat style feat.`
 },
 {
     id: "crusaders-fist",
