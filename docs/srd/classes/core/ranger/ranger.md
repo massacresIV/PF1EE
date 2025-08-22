@@ -139,6 +139,13 @@ In addition, when using the Wild Empathy feat, the Ranger adds a bonus equal to 
 Wild Empathy changed into a skill feat. Halved skill bonus and it tethered to class. Now uses Handle Animal instead of a Charisma-ability check. Feat redundancy added.
 :::
 
+## Combat Style Feat (Ex)
+At 2nd level, a ranger must select one combat style to pursue.
+
+The ranger’s expertise manifests in the form of bonus feats at 2nd, 6th, 10th, 14th, and 18th level. He can choose feats from his selected combat style, even if he does not have the normal prerequisites.
+
+The benefits of the ranger’s chosen style feats apply only when he wears light, medium, or no armor. He loses all benefits of his combat style feats when wearing heavy armor. Once a ranger selects a combat style, it cannot be changed.
+
 ## Endurance
 At 3rd level, a ranger gains Endurance as a bonus feat. If the ranger already has Endurance, he instead gains Diehard as a bonus feat.
 
