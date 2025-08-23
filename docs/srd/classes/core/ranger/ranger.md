@@ -46,7 +46,7 @@ The ranger’s class skills are Climb (Str), Craft (Int), Handle Animal (Cha), H
         </tr>
     </thead>
     <tbody>
-        <tr><td>1st</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td>1st Favored Enemy, Orisons, Track, Wild Empathy</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>1st</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td>1st Favored Enemy, Track, Wild Empathy</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>2nd</td><td>+2</td><td>+3</td><td>+3</td><td>+0</td><td>Ranger Style Feat</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>3rd</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td>1st Favored Terrain, Endurance</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>4th</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td>Hunter's Bond</td><td>3</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
@@ -139,7 +139,7 @@ In addition, when using the Wild Empathy feat, the Ranger adds a bonus equal to 
 Wild Empathy changed into a skill feat. Halved skill bonus and it tethered to class. Now uses Handle Animal instead of a Charisma-ability check. Feat redundancy added.
 :::
 
-## Combat Style Feat (Ex)
+## Ranger Style Feat (Ex)
 At 2nd level, a ranger must select one combat style to pursue.
 
 The ranger’s expertise manifests in the form of bonus feats at 2nd, 6th, 10th, 14th, and 18th level. He can choose feats from his selected combat style, even if he does not have the normal prerequisites.
