@@ -11,11 +11,11 @@ Whenever you cast a spell of the polymorph subschool, increase the duration of t
 Combat Casting, Greater Disarm, Greater Grapple, Improved Initiative, Iron Will, Silent Spell, Skill Focus (Knowledge [dungeoneering]), Unarmed Combatant.
 
 ## Bloodline Spells
-1st—enlarge person, 3rd—see invisibility, 5th—tongues, 7th—black tentacles, 9th—elemental body II, 11th—elemental body III, 13th—elemental body IV,15th—summon monster VIII (elementals only), 17th—elemental swarm.
+1st—enlarge person, 3rd—see invisibility, 5th—tongues, 7th—black tentacles, 9th—elemental body II, 11th—elemental body III, 13th—elemental body IV, 15th—summon monster VIII (elementals only), 17th—elemental swarm.
 
 ## Bloodline Powers
 
-**Acidic Ray (Sp):** Starting at 1st level, you can fire an acidic ray as a standard action, targeting any foe within 30 feet as a ranged touch attack. The acidic ray deals 1d6 points of acid damage, increasing by 1d6 at 3rd level and every 2 sorcerer levels thereafter (to a maximum of 10d6 at 19th level). You also add your Wisdom modifier to the damage. You can use this ability three times per day.
+**Acidic Ray (Sp):** Starting at 1st level, you can fire an acidic ray as a standard action, targeting any foe within 30 feet as a ranged touch attack. The acidic ray deals 1d6 points of acid damage, increasing by 1d6 at 3rd level and every 2 sorcerer levels thereafter (to a maximum of 10d6 at 19th level). You also add your Charisma modifier to the damage. You can use this ability three times per day.
 
 :::info[Changes]
 Improved scaling damage, added ability modifier to damage, reduced uses per day.
