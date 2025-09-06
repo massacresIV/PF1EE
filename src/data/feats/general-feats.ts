@@ -52,6 +52,19 @@ Characters with levels in the evangelist, exalted, or sentinel prestige classes 
 If you ever fail to perform a daily obedience, you lose all access to the benefits and boons granted by this feat until you next perform the obedience.`,
 },
 {
+    id: "disciple-of-the-sword",
+    name: "Disciple of the Sword",
+    categories: ["General Feats"],
+    prerequisites: "Weapon Focus (heavy blades); champion 4th level, cleric 4th level, or inquisitor 4th level; worshiper of Iomedae.",
+    changes: `Added Champion and Warpriest. Lowered level requirement from 4th to 3rd. Adjusted the feat to only work for longswords despite EitR changes to Weapon Focus & Weapon Specialization.`,
+    markdownContent: `# Disciple of the Sword
+*Your dedication to mastering Iomedae’s favored weapon puts other to shame.*
+
+**Prerequisites:** Weapon Focus (heavy blades); champion 4th level, cleric 4th level, or inquisitor 4th level; worshiper of Iomedae.
+
+**Benefit:** **Benefit:** You gain the benefits of Weapon Specialization (heavy blades), but only when wielding a longsword. In addition, you may treat your champion, cleric, inquisitor, or warpriest levels as fighter levels for the purpose of qualifying for Greater Weapon Focus (heavy blades) and Greater Weapon Specialization (heavy blades); however, these feats apply only when you wield a longsword. You may also use this feat in place of Weapon Specialization (heavy blades) to qualify for Greater Weapon Specialization (heavy blades).`,
+},
+{
     id: "extra-channel",
     name: "Extra Channel",
     categories: ["General Feats"],

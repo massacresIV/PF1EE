@@ -123,13 +123,17 @@ The Investigator stores known formulae in a formula book, which he consults to p
 
 - **Starting Formula Book:** At 1st level, the Investigator’s formula book contains two 1st-level formulae of his choice plus additional formulae equal to his Intelligence modifier.
 
-- **Gaining New Formulae:** Each time the Investigator gains a new level, he adds one new formula of any level he can prepare to his formula book.
+- **Gaining New Formulae:** Each time the Investigator gains a new level, he adds two new formula of any level he can prepare to his formula book.
 
 - **Adding Formulae:** The Investigator can add formulae to his book by copying them from other formula books or spellbooks, using the same rules, costs, and times as a wizard copying spells. He can also learn formulae from scrolls and magical writings without needing to decipher arcane scripts.
 
 - **Exclusive Learning:** Wizards cannot learn spells from an Investigator’s formula book.
 
 </details>
+
+:::info[Changes]
+Reduced maximum extracts per day by 1 at each level. Extracts learned per level increased from 1 to 2.
+:::
 
 ## Trapfinding (Ex)
 At 1st level, an Investigator gains [Trapfinding](/docs/srd/feats/skill-feats/trapfinding) as a bonus feat, even if she does not meet the prerequisites. If the Investigator e already has Trapfinding, he instead gains a skill feat for which he meets the prerequisites.

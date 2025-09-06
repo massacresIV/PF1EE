@@ -111,7 +111,7 @@ The alchemist stores known formulae in a formula book, which he consults to prep
 
 - **Starting Formula Book:** At 1st level, the alchemist’s formula book contains two 1st-level formulae of his choice plus additional formulae equal to his Intelligence modifier.
 
-- **Gaining New Formulae:** Each time the alchemist gains a new level, he adds one new formula of any level he can prepare to his formula book.
+- **Gaining New Formulae:** Each time the alchemist gains a new level, he adds two new formula of any level he can prepare to his formula book.
 
 - **Adding Formulae:** The alchemist can add formulae to his book by copying them from other formula books or spellbooks, using the same rules, costs, and times as a wizard copying spells. He can also learn formulae from scrolls and magical writings without needing to decipher arcane scripts.
 
@@ -119,6 +119,9 @@ The alchemist stores known formulae in a formula book, which he consults to prep
 
 </details>
 
+:::info[Changes]
+Reduced maximum extracts per day by 1 at each level. Extracts learned per level increased from 1 to 2.
+:::
 
 ## Greater Mutagen (Ex)
 At 12th level, when the alchemist creates a mutagen, he enhances its potency. His mutagen now grants a +6 alchemical bonus to one physical ability score (Strength, Dexterity, or Constitution), a +4 alchemical bonus to a second physical ability score, and a +4 natural armor bonus.

@@ -129,7 +129,7 @@ A Magus must study his spellbook each day to prepare spells. He cannot prepare a
 
 - **Starting Spellbook:** At 1st level, the Magus’s spellbook contains all 0-level Magus spells (except any prohibited schools) plus three 1st-level Magus spells of choice, plus additional 1st-level spells equal to his Intelligence modifier.
 
-- **Gaining New Spells:** Each time the Magus gains a new level, he adds two new Magus spells of any level he can cast to his spellbook.
+- **Gaining New Spells:** Each time the Magus gains a new level, he adds three new Magus spells of any level he can cast to his spellbook.
 
 - **Copying Spells:** The Magus can copy spells from any prayerbook, spellbook, or spell scroll, as long as the spell is on the Magus spell list:
   - **Deciphering:** First, deciper the magical writing (Spellcraft DC 20 + spell level, or use *read magic*).
@@ -175,7 +175,7 @@ A spellbook may be sold for half the total cost of inscribing the spells it cont
 </details>
 
 :::info[Changes]
-Reduced maximum spells per day by 1 at each level.
+Reduced maximum spells per day by 1 at each level. Cantrips per day increased. Spells learned per level increased from 2 to 3.
 :::
 
 ## Arcane Pool (Su)
