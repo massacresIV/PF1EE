@@ -49,23 +49,23 @@ Increased skill ranks per level by 2.
         </tr>
     </thead>
     <tbody>
-        <tr><td>1st</td><td>+1</td><td>+2</td><td>+0</td><td>+2</td><td>Aura, Champion's Oath, Detect, Smite 1/day</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>2nd</td><td>+2</td><td>+3</td><td>+0</td><td>+3</td><td>Fervor, Oath Ability</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-        <tr><td>3rd</td><td>+3</td><td>+3</td><td>+1</td><td>+3</td><td>Oath Ability, Oath Mantle, Zeal</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>1st</td><td>+1</td><td>+2</td><td>+0</td><td>+2</td><td>Aura, Champion's Code, Detect, Smite 1/day</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>2nd</td><td>+2</td><td>+3</td><td>+0</td><td>+3</td><td>Fervor, Code Ability</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><td>3rd</td><td>+3</td><td>+3</td><td>+1</td><td>+3</td><td>Code Ability, Code Mantle, Zeal</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>4th</td><td>+4</td><td>+4</td><td>+1</td><td>+4</td><td>Channel Energy, Smite 2/day</td><td>3</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>5th</td><td>+5</td><td>+4</td><td>+1</td><td>+4</td><td>Champion's Bond</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>6th</td><td>+6/+1</td><td>+5</td><td>+2</td><td>+5</td><td>Zeal</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
         <tr><td>7th</td><td>+7/+2</td><td>+5</td><td>+2</td><td>+5</td><td>Smite 3/day</td><td>4</td><td>1</td><td>0</td><td>-</td><td>-</td></tr>
-        <tr><td>8th</td><td>+8/+3</td><td>+6</td><td>+2</td><td>+6</td><td>Oath Mantle</td><td>4</td><td>2</td><td>1</td><td>-</td><td>-</td></tr>
+        <tr><td>8th</td><td>+8/+3</td><td>+6</td><td>+2</td><td>+6</td><td>Code Mantle</td><td>4</td><td>2</td><td>1</td><td>-</td><td>-</td></tr>
         <tr><td>9th</td><td>+9/+4</td><td>+6</td><td>+3</td><td>+6</td><td>Zeal</td><td>4</td><td>2</td><td>1</td><td>-</td><td>-</td></tr>
         <tr><td>10th</td><td>+10/+5</td><td>+7</td><td>+3</td><td>+7</td><td>Smite 4/day</td><td>4</td><td>2</td><td>1</td><td>0</td><td>-</td></tr>
         <tr><td>11th</td><td>+11/+6/+1</td><td>+7</td><td>+3</td><td>+7</td><td>Shared Smite</td><td>4</td><td>2</td><td>2</td><td>1</td><td>-</td></tr>
         <tr><td>12th</td><td>+12/+7/+2</td><td>+8</td><td>+4</td><td>+8</td><td>Zeal</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td></tr>
         <tr><td>13th</td><td>+13/+8/+3</td><td>+8</td><td>+4</td><td>+8</td><td>Smite 5/day</td><td>4</td><td>3</td><td>2</td><td>1</td><td>0</td></tr>
-        <tr><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+4</td><td>+9</td><td>Oath Mantle</td><td>4</td><td>3</td><td>2</td><td>2</td><td>1</td></tr>
+        <tr><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+4</td><td>+9</td><td>Code Mantle</td><td>4</td><td>3</td><td>2</td><td>2</td><td>1</td></tr>
         <tr><td>15th</td><td>+15/+10/+5</td><td>+9</td><td>+5</td><td>+9</td><td>Zeal</td><td>4</td><td>3</td><td>2</td><td>2</td><td>1</td></tr>
         <tr><td>16th</td><td>+16/+11/+6/+1</td><td>+10</td><td>+5</td><td>+10</td><td>Smite 6/day</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td></tr>
-        <tr><td>17th</td><td>+17/+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Oath Mantle</td><td>4</td><td>4</td><td>3</td><td>2</td><td>2</td></tr>
+        <tr><td>17th</td><td>+17/+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td>Code Mantle</td><td>4</td><td>4</td><td>3</td><td>2</td><td>2</td></tr>
         <tr><td>18th</td><td>+18/+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td>Zeal</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td></tr>
         <tr><td>19th</td><td>+19/+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td>Smite 7/day</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td></tr>
         <tr><td>20th</td><td>+20/+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td>Divine Champion</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td></tr>
@@ -101,11 +101,11 @@ A Champion who is neither good nor evil and worships a deity who is neither good
 
 To prepare spells, a Champion must meet all the following conditions:
 
-- **Communion:** The Champion must perform a daily communion at a fixed time each day. This time is chosen at 1st level, and is typically tied to her devotion to her deity or the tenets of her sacred oath—such as sunrise to honor a god of light, noon for a deity of justice, or twilight for a god of transitions—but may be set at the GM’s discretion. Once selected, this time cannot be changed. If she misses this appointed time, she must perform communion at the next available opportunity or forfeit spell recovery for the day.
+- **Communion:** The Champion must perform a daily communion at a fixed time each day. This time is chosen at 1st level, and is typically tied to her devotion to her deity or the tenets of her sacred code—such as sunrise to honor a god of light, noon for a deity of justice, or twilight for a god of transitions—but may be set at the GM’s discretion. Once selected, this time cannot be changed. If she misses this appointed time, she must perform communion at the next available opportunity or forfeit spell recovery for the day.
 
 - **No Recent Casting:** Any spells cast in the last 8 hours count against the number of spells the Champion can prepare. For example, casting a 1st-level spell before the ritual reduces that day’s available 1st-level spells by one.
 
-- **Ritual:** During this communion, the Champion enters a state of focused devotion, reconnecting with her deity’s will. She spends 1 hour in prayer, reciting her oath, meditation, or sacred rite—often conducted in a temple, at an altar, or in a setting tied to her deity’s domains. Through this act of reverence, she prepares her spells and reaffirms her divine purpose.
+- **Ritual:** During this communion, the Champion enters a state of focused devotion, reconnecting with her deity’s will. She spends 1 hour in prayer, reciting her code, meditation, or sacred rite—often conducted in a temple, at an altar, or in a setting tied to her deity’s domains. Through this act of reverence, she prepares her spells and reaffirms her divine purpose.
 
 - **Preparation Environment:** The Champion’s surroundings must be reasonably quiet and free of distractions to concentrate. Inclement weather, injury, or failing saving throws during a ritual can prevent preparation.
 
@@ -122,19 +122,19 @@ Moved to 1st level for Orisons. Rescaled spells per day. Removed caster level pe
 :::
 
 ## Aura (Ex)
-At 1st level, a Champion gains a particularly powerful aura which corresponds to her Oath.
+At 1st level, a Champion gains a particularly powerful aura which corresponds to her Code.
 
-## Champion's Oath 
-At 1st level, a Champion swears an oath that reflects the tenets of her faith, her personal code, and the ideals she upholds. This oath serves as the foundation of her divine power and governs how her abilities manifest. A Champion’s Oath grants her unique powers and modifies or enhances several of her core class features, including her Smite ability, auras, and other class features as noted in the individual oath descriptions. Once chosen, an oath cannot be changed.
+## Champion's Code 
+At 1st level, a Champion adheres to a code that reflects the tenets of her faith, her personal code, and the ideals she upholds. This code serves as the foundation of her divine power and governs how her abilities manifest. A Champion’s Code grants her unique powers and modifies or enhances several of her core class features, including her Smite ability, auras, and other class features as noted in the individual code descriptions. Once chosen, an code cannot be changed.
 
-See the list of available oaths for details.
-[Champion Oaths](champion-oaths/index.mdx)
+See the list of available codes for details.
+[Champion Codes](champion-codes/index.mdx)
 
 ## Detect (Sp)
-At 1st level, the Champion gains the ability to use a specific detect spell at will, determined by her Oath. 
+At 1st level, the Champion gains the ability to use a specific detect spell at will, determined by her Code. 
 
 ## Smite (Su) 
-At 1st level, a Champion gains the ability to focus her wrath against those who oppose her oath, deity, or sacred tenets. As a swift action, the Champion chooses one target within sight to smite. While smiting, the Champion gains bonuses against the target and may deal additional damage on attacks made against that foe. The effects of Smite and the types of creatures it may affect are determined by the Champion’s Oath (see Champion’s Oaths for details).
+At 1st level, a Champion gains the ability to focus her wrath against those who oppose her oath, deity, or sacred tenets. As a swift action, the Champion chooses one target within sight to smite. While smiting, the Champion gains bonuses against the target and may deal additional damage on attacks made against that foe. The effects of Smite and the types of creatures it may affect are determined by the Champion’s Code (see Champion’s Codes for details).
 
 The smite effect remains until the target is dead or the Champion rests and regains the use of this ability. At 4th level, and every three levels thereafter, the Champion can smite one additional time per day, to a maximum of seven times per day at 19th level.
 
@@ -282,7 +282,7 @@ At 20th level, a Champion becomes a conduit for the power of her god. Her Damage
 Instead of receiving an additional skill rank or hit point whenever they gain a level in their favored class, a character may instead select from a number of alternate bonuses specific to that class. These bonuses are available to any character whose favored class matches the listed class, regardless of their race. Unless otherwise noted, the bonus applies each time the character selects the favored class reward.
 
 The following options are available to characters who have **Champion** as their favored class:
-- Add +1 foot to the size of all the Champion’s Oath Mantles. This bonus only applies in 5-foot increments (each time this bonus is selected five times).
+- Add +1 foot to the size of all the Champion’s Code Mantles. This bonus only applies in 5-foot increments (each time this bonus is selected five times).
 - Add +½ to the Champion’s Fervor ability (whether using it to heal or harm).
 - Add +¼ to the Champion’s critical hit confirmation rolls made while using Smite (maximum bonus of +5).
 - Add +¼ to the Champion’s deflection bonus granted by their Smite ability.

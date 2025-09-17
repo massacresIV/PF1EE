@@ -2,24 +2,24 @@
 
 ---
 
-## Black Oath (Ex)
-A Blackguard must be evil and must worship an evil deity. He may only select oaths available to evil champions (such as the Antipaladin’s Oath). If he ever ceases to be evil or willingly abandons his deity, he loses all benefits of this archetype and reverts to a standard champion. He may not regain this archetype’s features until he atones (as per the atonement spell) and resumes service to an evil deity.
+## Black Code (Ex)
+A Blackguard must be evil and must worship an evil deity. He may only select codes available to evil champions (such as the Antipaladin’s Code). If he ever ceases to be evil or willingly abandons his deity, he loses all benefits of this archetype and reverts to a standard champion. He may not regain this archetype’s features until he atones (as per the atonement spell) and resumes service to an evil deity.
 
-<u>This alters the champions’s required alignment and Champion's Oath.</u>
+<u>This alters the champions’s required alignment and Champion's Code.</u>
 
 ---
 
 ## Dark Blessing (Su)
 At 2nd level, a Blackguard gains a bonus equal to his Charisma bonus (if any) on all Saving Throws.
 
-<u>This ability replaces the 2nd-level Oath Ability.</u>
+<u>This ability replaces the 2nd-level Code Ability.</u>
 
 ---
 
 ## Mantle of Debility (Su)
 At 3rd level, the Blackguard radiates a sinister aura that weakens the defenses of nearby foes. Enemies within 10 feet of the blackguard take a –1 penalty to Armor Class. This is a mind-affecting effect. This mantle functions only while the Blackguard is conscious,  not if he is unconscious or dead.
 
-<u>This ability replaces the 3rd-level Oath Mantle.</u>
+<u>This ability replaces the 3rd-level Code Mantle.</u>
 
 ---
 
