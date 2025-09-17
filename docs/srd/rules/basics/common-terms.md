@@ -58,7 +58,7 @@ Bonuses add numerical values to checks or stats. Most have a type. Bonuses of th
     <tr>
       <td align="left">Competence</td>
       <td align="left">A bonus to performing specific tasks.</td>
-      <td>Yes</td>
+      <td>No</td>
       <td class="dash-cell">Attacks, Checks, Saves</td>
       <td class="dash-cell">—</td>
       <td class="dash-cell">—</td>
