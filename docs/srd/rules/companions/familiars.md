@@ -27,7 +27,7 @@ Each familiar grants its master one Familiar Boon, a special ability chosen when
 
 The master selects one boon from the list below. The familiar’s form (bat, cat, lizard, etc.) does not restrict which boon may be chosen. This boon is permanent and cannot be changed unless the familiar is dismissed, slain, or otherwise lost. Upon completing the ritual to replace a familiar, the master may select a new Familiar Boon for the new companion.
 
-### Familiar Boons
+### Boons
 - **Acrobat's Companion:** The master gains a +2 bonus on Acrobatics checks.
 - **Appraiser's Insight:** The master gains a +2 bonus on Appraise checks.
 - **Aquatic Grace:** The master gains a +2 bonus on Swim checks.
@@ -51,6 +51,10 @@ The master selects one boon from the list below. The familiar’s form (bat, cat
 - **Tracker’s Companion:** The master gains a +2 bonus on Survival checks.
 - **Willed Bond:** The master gains a +2 bonus on Will saves.
 - **Winged Guidance:** The master gains a +2 bonus on Fly checks.
+
+:::info[Changes]
+Now available options for any familiar. Familiar's no longer grant the bonus themselves. Skill bonuses adjusted to fall in line with new Skill Focus. Hearty Bond adjusted to working like Pathfinder toughness instead of 3.5 Toughness. 
+:::
 
 ## Familiar Abilities
 In addition to their normal animal statistics, familiars gain special abilities (or impart abilities to their masters) depending on the master's combined level in classes that grant familiars, as shown on the table below. The abilities are cumulative.

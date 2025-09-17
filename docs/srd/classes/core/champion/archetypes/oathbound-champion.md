@@ -21,3 +21,7 @@ An Oathbound Champion’s devotion influences what magic she can perform. At eac
 If the Champion has multiple oaths, the spells from each oath are all added to her Oath Spell list. When preparing an Oath Slot, she may choose any one of her available Oath Spells of that level, similar to how a cleric chooses among multiple domain spells.
 
 This feature functions alongside the Domain Bond option of Champion’s Bond. A Champion who possesses both Oath Slots and Domain Slots prepares and casts them separately, effectively gaining both sets of bonus spell slots in addition to her normal spells.
+
+:::info[Changes]
+Adjusted language to clarify intended function as oath spell slots.
+:::
