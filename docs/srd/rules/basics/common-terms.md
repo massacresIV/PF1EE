@@ -33,7 +33,7 @@ Bonuses add numerical values to checks or stats. Most have a type. Bonuses of th
     </tr>
     <tr>
       <td align="left">Armor</td>
-      <td align="left">From armor or effects that mimic armor; doesn’t apply to touch AC (except force armor).</td>
+      <td align="left">From armor or effects that mimic armor; doesn’t apply against touch attacks, except for armor bonuses granted by force effects (such as the mage armor spell) which apply against incorporeal touch attacks.</td>
       <td>No</td>
       <td>AC</td>
       <td class="dash-cell">—</td>
