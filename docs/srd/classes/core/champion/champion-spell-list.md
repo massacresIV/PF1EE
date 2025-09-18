@@ -1,1 +1,121 @@
 # Champion Spell List
+
+## 0-Level Champion Spells (Orisons)
+- Bleed
+- Brand
+- Create Water
+- Daze
+- Detect Poison
+- Disrupt Undead
+- Enhanced Diplomacy
+- Guidance
+- Light
+- Read Magic
+- Resistance
+- Stabilize
+- Virtue
+
+## 1st-Level Champion Spells (Orisons)
+- Animal Purpose Training
+- Aspect of the Nightingale
+- Bane
+- Barbed Chains
+- Bed of Iron
+- Bless
+- Blessed Fist
+- Blessing of the Watch
+- Bless Water
+- Bless Weapon
+- Bloodbath
+- Blood Blaze
+- Boneshaker
+- Bowstaff
+- Build Trust
+- Cause Fear
+- Challenge Evil
+- Command
+- Compel Hostility
+- Conditional Favor
+- Crime of Opportunity
+- Cure Light Wounds
+- Curse Water
+- Dancing Darkness
+- Dark Whispers
+- Darting Duplicate
+- Deadeye's Arrow
+- Death Candle
+- Death Knell
+- Demand Offering
+- Desperate Weapon
+- Detect Charm
+- Detect Demon
+- Detect the Faithful
+- Detect Undead
+- Diagnose Disease
+- Disguise Self
+- Divine Favor
+- Doom
+- Emblazon Crest
+- Empower Holy Water
+- Endure Elements
+- Enhance Water
+- Fabricate Disguise
+- Firebelly
+- Fear the Sun
+- Fool’s Gold
+- Ghostbane Dirge
+- Grace
+- Grasping Corpse
+- Guardian Armor
+- Haze of Dreams
+- Hedging Weapons
+- Hero’s Defiance
+- Honeyed Tongue
+- Horn of Pursuit
+- Inflict Light Wounds
+- Ironbeard
+- Itching Curse
+- Keep Watch
+- Knight’s Calling
+- Know the Enemy
+- Liberating Command
+- Linebreaker
+- Litany of Sloth
+- Litany of Weakness
+- Locksight
+- Longshot
+- Magic Weapon
+- Murderous Command
+- Obscure Poison
+- Positive Pulse
+- Protection from Chaos/Evil/Good/Law
+- Rally Point
+- Restoration, Lesser
+- Rite of Bodily Purity
+- Sanctify Corpse
+- Sense Fear
+- Sentry Skull
+- Shadow Trap
+- Shield of Fortification
+- Shield of Shards
+- Songbird
+- Stunning Barrier
+- Swift Girding
+- Summon Minor Monster
+- Summon Monster I
+- Sun Metal
+- Tactical Acumen
+- Touch of Blindness
+- Touch of Truthtelling
+- Tracking Mark
+- Unbreakable Heart
+- Veil of Positive Energy
+- Wartrain Mount
+- Weapons Against Evil
+- Word of Resolve
+
+## 2nd-Level Champion Spells (Orisons)
+
+## 3rd-Level Champion Spells (Orisons)
+
+## 4th-Level Champion Spells (Orisons)
