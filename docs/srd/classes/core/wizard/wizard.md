@@ -93,7 +93,7 @@ A wizard can only cast a limited number of spells of each spell level per day, a
 **Cantrips:** Wizards can prepare a number of cantrips, or 0-level spells, each day, as shown on the class progression table. These spells are cast like any other spell, but they are not expended when cast and may be used again. A wizard can prepare a cantrip from an opposition school, but it uses up two of his available slots (see below).
 
 <details>
-<summary><strong>Rest and Spell Preparation</strong></summary>
+<summary><strong>Daily Rest and Spell Preparation</strong></summary>
 
 To prepare spells, a wizard must meet all the following conditions:
 

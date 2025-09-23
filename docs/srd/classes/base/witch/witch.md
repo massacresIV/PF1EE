@@ -105,7 +105,7 @@ A witch can cast only a limited number of spells per spell level per day, as sho
 **Cantrips:** Witches can prepare a number of cantrips, or 0-level spells, each day, as shown on the class progression table. These spells are cast like any other spell, but are not expended when cast and may be used again.
 
 <details>
-<summary><strong>Rest and Spell Preparation</strong></summary>
+<summary><strong>Daily Rest and Spell Preparation</strong></summary>
 
 To prepare spells, a witch must meet the following conditions:
 

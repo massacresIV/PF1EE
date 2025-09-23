@@ -151,7 +151,7 @@ An occultist is proficient with all simple and martial weapons, light armor, med
         **Knacks:** Occultist learn knacks, or 0-level psychic spell, each time he selects an implement school. These spells are cast like any other spell, but they do not consume any slots and may be used again.
         
         <details>
-        <summary><strong>Rest and Spell Slot Recovery</strong></summary>
+        <summary><strong>Daily Rest and Spell Slot Recovery</strong></summary>
 
         To recover his spells, an Occultist must meet all the following conditions:
 

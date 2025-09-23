@@ -85,7 +85,7 @@ To learn, prepare, or cast a spell, an Archivist must have an Intelligence score
 An Archivist can only cast a limited number of spells of each spell level per day, as shown on the class progression table. In addition, he receives bonus spells per day if his Intelligence is high enough (see “Ability Modifiers and Bonus Spells”).
 
 <details>
-<summary><strong>Rest and Spell Preparation</strong></summary>
+<summary><strong>Daily Rest and Spell Preparation</strong></summary>
 
 To prepare spells, an Archivist must meet all the following conditions:
 

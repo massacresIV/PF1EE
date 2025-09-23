@@ -86,7 +86,7 @@ An alchemist can create only a limited number of extracts per extract level each
 An extract is “cast” by drinking it, producing effects identical to the spell it is based on. The alchemist can consume any of his own extracts as a standard action, regardless of whether they are infused. Allies can only benefit from infused extracts and must likewise drink them as a standard action to gain their effects. Drinking an extract functions like drinking a potion and provokes attacks of opportunity. The alchemist’s caster level for extracts equals his alchemist level.
 
 <details>
-<summary><strong>Rest and Extract Preparation</strong></summary>
+<summary><strong>Daily Rest and Extract Preparation</strong></summary>
 
 To prepare extracts, an alchemist must meet all the following requirements:
 
