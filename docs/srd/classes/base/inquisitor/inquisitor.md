@@ -22,13 +22,13 @@ hide_table_of_contents: true
   <figcaption className="artworkCaption">Art by Wayne Reynolds</figcaption>
 </figure>
 
-Scourge of the unfaithful and hunter of horrors, the inquisitor roots out the enemies of sher faith with grim conviction and an array of divine blessings.
+Scourge of the unfaithful and hunter of horrors, the Inquisitor roots out the enemies of sher faith with grim conviction and an array of divine blessings.
 
-Grim and determined, the inquisitor roots out enemies of the faith, using trickery and guile when righteousness and purity is not enough. Although inquisitors are dedicated to a deity, they are above many of the normal rules and conventions of the church. They answer to their deity and their own sense of justice alone, and are willing to take extreme measures to meet their goals.
+Grim and determined, the Inquisitor roots out enemies of the faith, using trickery and guile when righteousness and purity is not enough. Although Inquisitors are dedicated to a deity, they are above many of the normal rules and conventions of the church. They answer to their deity and their own sense of justice alone, and are willing to take extreme measures to meet their goals.
 
 **Role:** Inquisitors tend to move from place to place, chasing down enemies and researching emerging threats. As a result, they often travel with others, if for no other reason than to mask their presence. Inquisitors work with members of their faith whenever possible, but even such allies are not above suspicion.
 
-**Alignment:** An inquisitor’s alignment must be within one step of sher deity’s, along either the law/chaos axis or the good/evil axis.
+**Alignment:** An Inquisitor’s alignment must be within one step of sher deity’s, along either the law/chaos axis or the good/evil axis.
 
 **Hit Die:** d8.
 
@@ -86,6 +86,9 @@ The Inquisitor's class skills are Bluff (Cha), Climb (Str), Craft (Int), Diploma
 </table>
 
 ---
+
+## Weapon and Armor Proficiency
+An Inquisitor is proficient with all simple weapons, plus the hand crossbow, longbow, repeating crossbow, shortbow, and the favored weapon of her deity. She is also proficient with light armor, medium armor, and shields (except tower shields).
 
 ## Inquisitor Spellcasting
 
@@ -164,3 +167,99 @@ The Inquisitor's class skills are Bluff (Cha), Climb (Str), Craft (Int), Diploma
 :::info[Changes]
 Improved Spells Known progression. Added Alignment limiter to spellcasting.
 :::
+
+## Domain
+Like a cleric’s deity, an Inquisitor’s deity influences her alignment, what magic she can perform, and her values. Although not as tied to the tenets of the deity as a cleric, an Inquisitor must still hold such guidelines in high regard, despite that fact she can go against them if it serves the greater good of the faith. An Inquisitor can select one domain from among those belonging to her deity. She can select an alignment domain only if her alignment matches that domain. With the GM’s approval, an Inquisitor can be devoted to an ideal instead of a deity, selecting one domain to represent her personal inclination and abilities. The restriction on alignment domains still applies.
+
+Each domain grants a number of domain powers, depending on the level of the Inquisitor. An Inquisitor does not gain the bonus spells listed for each domain, nor does she gain bonus spell slots. The Inquisitor uses her level as her effective cleric level when determining the power and effect of her domain powers. If the Inquisitor has cleric levels, one of her two domain selections must be the same domain selected as an Inquisitor. Levels of cleric and Inquisitor stack for the purpose of determining domain powers and abilities, but not for bonus spells.
+
+## Judgment (Su)
+Starting at 1st level, an Inquisitor can pronounce judgment upon her foes as a swift action. Starting when the judgment is made, the Inquisitor receives a bonus or special ability based on the type of judgment made.
+
+At 1st level, an Inquisitor can use this ability once per day. At 4th level and every three levels thereafter, the Inquisitor can use this ability one additional time per day. Once activated, this ability lasts until the combat ends, at which point all of the bonuses immediately end. The Inquisitor must participate in the combat to gain these bonuses. If she is frightened, panicked, paralyzed, stunned, unconscious, or otherwise prevented from participating in the combat, the ability does not end, but the bonuses do not resume until she can participate in the combat again.
+
+When the Inquisitor uses this ability, she must select one type of judgment to make. As a swift action, she can change this judgment to another type. If the Inquisitor is evil, she receives profane bonuses instead of sacred, as appropriate. Neutral Inquisitors must select profane or sacred bonuses. Once made, this choice cannot be changed.
+
+- **Destruction:** The Inquisitor is filled with divine wrath, gaining a +1 sacred bonus on all weapon damage rolls. This bonus increases by +1 for every three Inquisitor levels she possesses.
+
+- **Healing:** The Inquisitor is surrounded by a healing light, gaining fast healing 1. This causes the Inquisitor to heal 1 point of damage each round as long as the Inquisitor is alive and the judgment lasts. The amount of healing increases by 1 point for every three Inquisitor levels she possesses.
+
+- **Justice:** This judgment spurs the Inquisitor to seek justice, granting a +1 sacred bonus on all attack rolls. This bonus increases by +1 for every five Inquisitor levels she possesses. At 10th level, this bonus is doubled on all attack rolls made to confirm critical hits.
+
+- **Piercing:** This judgment gives the Inquisitor great focus and makes her spells more potent. This benefit grants a +1 sacred bonus on concentration checks and caster level checks made to overcome a target’s spell resistance. This bonus increases by +1 for every three Inquisitor levels she possesses.
+
+- **Protection:** The Inquisitor is surrounded by a protective aura, granting a +1 sacred bonus to Armor Class. This bonus increases by +1 for every five Inquisitor levels she possesses. At 10th level, this bonus is doubled against attack rolls made to confirm critical hits against the Inquisitor.
+
+- **Purity:** The Inquisitor is protected from the vile taint of her foes, gaining a +1 sacred bonus on all saving throws. This bonus increases by +1 for every five Inquisitor levels she possesses. At 10th level, the bonus is doubled against curses, diseases, and poisons.
+
+- **Resiliency:** This judgment makes the Inquisitor resistant to harm, granting DR 1/magic. This DR increases by 1 for every five levels she possesses. At 10th level, this DR changes from magic to an alignment (chaotic, evil, good, or lawful) that is opposite the Inquisitor’s. If she is neutral, the Inquisitor does not receive this increase.
+
+- **Resistance:** The Inquisitor is shielded by a flickering aura, gaining 2 points of energy resistance against one energy type (acid, cold, electricity, fire, or sonic) chosen when the judgment is declared. The protection increases by 2 for every three Inquisitor levels she possesses.
+
+- **Smiting:** This judgment bathes the Inquisitor’s weapons in a divine light. The Inquisitor’s weapons count as magic for the purposes of bypassing damage reduction. At 6th level, the Inquisitor’s weapons also count as one alignment type (chaotic, evil, good, or lawful) for the purpose of bypassing damage reduction. The type selected must match one of the Inquisitor’s alignments. If the Inquisitor is neutral, she does not receive this bonus. At 10th level, the Inquisitor’s weapons also count as adamantine for the purpose of overcoming damage reduction (but not for reducing hardness).
+
+## Monster Lore (Ex)
+The Inquisitor adds her Wisdom modifier on Knowledge skill checks in addition to her Intelligence modifier, when making skill checks to identify the abilities and weaknesses of creatures.
+
+## Stern Gaze (Ex)
+Inquisitors are skilled at sensing deception and intimidating their foes. An Inquisitor receives a morale bonus on all Intimidate and Sense Motive checks equal to 1/2 her Inquisitor level (minimum +1).
+
+## Cunning Initiative (Ex)
+At 2nd level, an Inquisitor adds her Wisdom modifier on initiative checks, in addition to her Dexterity modifier.
+
+## Detect Alignment (Sp)
+At will, an Inquisitor can use detect chaos, detect evil, detect good, or detect law. She can only use one of these at any given time.
+
+## Track (Ex)
+At 2nd level, an Inquisitor gains *Track* as a bonus feat, even if she does not meet the prerequisites. If the Inquisitor already has Track, she instead gains a skill feat for which she meets the prerequisites.
+
+In addition, when using the Track feat, a Inquisitor gains a bonus on Survival checks made to follow tracks equal to 1/2 her Inquisitor level (minimum +1).
+
+:::info[Changes]
+Track changed into a skill feat. Skill bonus tethered to class. Feat redundancy added.
+:::
+
+## Solo Tactics (Ex)
+At 3rd level, all of the Inquisitor’s allies are treated as if they possessed the same teamwork feats as the Inquisitor for the purpose of determining whether the Inquisitor receives a bonus from her teamwork feats. Her allies do not receive any bonuses from these feats unless they actually possess the feats themselves. The allies’ positioning and actions must still meet the prerequisites listed in the teamwork feat for the Inquisitor to receive the listed bonus.
+
+## Teamwork Feat
+At 3rd level, and every three levels thereafter, the Inquisitor gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as teamwork feats. The Inquisitor must meet the prerequisites of the selected bonus feat.
+
+As a standard action, the Inquisitor can choose to learn a new bonus teamwork feat in place of the most recent bonus teamwork feat she has already learned. In effect, the Inquisitor loses the bonus feat in exchange for the new one. She can only change the most recent teamwork feat gained. Whenever she gains a new teamwork feat, the previous teamwork feat becomes set and cannot be changed again. An Inquisitor can change her most recent teamwork feat a number of times per day equal to her Wisdom modifier.
+
+## Bane (Su)
+At 5th level, an Inquisitor can imbue one of her weapons with the bane weapon special ability as a swift action. She must select one creature type when she uses this ability (and a subtype if the creature type selected is humanoid or outsider). Once selected, the type can be changed as a swift action. This ability only functions while the Inquisitor wields the weapon. If dropped or taken, the weapon resumes granting this ability if it is returned to the Inquisitor before the duration expires. This ability lasts for a number of rounds per day equal to the Inquisitor’s level. These rounds do not need to be consecutive.
+
+## Discern Lies (Sp)
+At 5th level, an Inquisitor can discern lies, as per the spell, for a number of rounds per day equal to her Inquisitor level. These rounds do not need to be consecutive. Activating this ability is an immediate action.
+
+## Second Judgment (Ex)
+At 8th level, whenever an Inquisitor uses her judgment ability, she selects two different judgments, instead of one. This only consumes one use of her judgment ability. As a swift action, she can change one of these judgments to another type.
+
+## Stalwart (Ex)
+At 11th level, an Inquisitor can use mental and physical resiliency to avoid certain attacks. If she makes a Fortitude or Will saving throw against an attack that has a reduced effect on a successful save, she instead avoids the effect entirely. This ability can only be used if the Inquisitor is wearing light armor, medium armor, or no armor. A helpless Inquisitor does not gain the benefit of the stalwart ability.
+
+## Greater Bane (Su)
+At 12th level, whenever an Inquisitor uses her bane ability, the amount of bonus damage dealt by the weapon against creatures of the selected type increases to 4d6.
+
+## Exploit Weakness (Ex)
+At 14th level, the Inquisitor learns to take advantage of any opportunity that presents itself. Whenever the Inquisitor scores a critical hit, she ignores any damage reduction the target might have. In addition, if the target has regeneration, the creature loses regeneration on the round following the critical hit and can die normally during that round. Creatures whose regeneration always functions are immune to this ability. Finally, if the Inquisitor deals energy damage to a creature with vulnerability to that energy type, she deals +1 point of damage per die rolled.
+
+## Third Judgment (Ex)
+At 16th level, whenever an Inquisitor uses her judgment ability, she selects three different judgments, instead of just two. This only consumes one use of her judgment ability. As a swift action, the Inquisitor can change one of these judgments to another type.
+
+## Slayer (Ex)
+At 17th level, an Inquisitor learns to focus her judgment. Whenever an Inquisitor uses her judgment ability, she must select one type of judgment. She is treated as if she were 5 levels higher for the purposes of determining the bonus granted by the judgment. Unlike other types of judgment, the one enhanced by this ability cannot be changed for the remainder of the judgment.
+
+## True Judgment (Su)
+At 20th level, an Inquisitor can call true judgment down upon a foe during combat. Whenever an Inquisitor uses her judgment ability, the Inquisitor can invoke true judgment on a foe as a swift action. Once declared, the Inquisitor can make a single melee (or ranged attack, if the foe is within 30 feet) against the target. If the attack hits, it deals damage normally and the target must make a Fortitude save or die. The DC of this save is equal to 10 + 1/2 the Inquisitor’s level + the Inquisitor’s Wisdom modifier. Regardless of whether or not the save is made, the target creature is immune to the Inquisitor’s true judgment ability for 24 hours. Once this ability has been used, it cannot be used again for 1d4 rounds.
+
+---
+
+# Favored Class Bonuses
+Instead of receiving an additional skill rank or hit point whenever they gain a level in their favored class, a character may instead select from a number of alternate bonuses specific to that class. These bonuses are available to any character whose favored class matches the listed class, regardless of their race. Unless otherwise noted, the bonus applies each time the character selects the favored class reward.
+
+The following options are available to characters who have **Inquisitor** as their favored class:
+- Add +¼ to the number of times per day the Inquisitor can change her most recent teamwork feat.
+- Add +⅕ to the number of times per day the Inquisitor can use the Judgment class feature.
+- Add 1 spell known from the Inquisitor spell list. This spell must be at least one level below the highest spell level the Inquisitor can cast.
