@@ -133,7 +133,7 @@ An Inquisitor is proficient with all simple weapons, plus the hand crossbow, lon
         </table>
     </div>
     <div>
-        **Divine Spells:** An Inquisitor casts divines spells drawn from the Inquisitor spell list. 
+        **Divine Spells:** An Inquisitor casts divine spells drawn from the Inquisitor spell list. 
 
         **Spontaneous Casting:** Unlike prepared divine casters, an Inquisitor need not prepare spells in advance and can cast any spell she knows, provided she has spell slots available for that level.
 

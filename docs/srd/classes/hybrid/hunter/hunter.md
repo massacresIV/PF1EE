@@ -127,7 +127,7 @@ The Hunter's class skills are Climb (Str), Craft (Int), Handle Animal (Cha), Hea
         </table>
     </div>
     <div>
-        **Divine Spells:** A Hunter casts divines spells drawn from the Druid and Ranger spell lists. spell list. 
+        **Divine Spells:** A Hunter casts divine spells drawn from the Druid and Ranger spell lists. spell list. 
 
         **Spontaneous Casting:** Unlike prepared divine casters, a Hunter need not prepare spells in advance and can cast any spell she knows, provided she has spell slots available for that level.
 
