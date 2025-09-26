@@ -63,10 +63,10 @@ The Agent of the Grave's class skills are Bluff (Cha), Heal (Wis), Intimidate (C
     </thead>
     <tbody>
         <tr><td>1st</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td>Inspired Necromancy, Lich's Touch, Unholy Fortitude</td><td class="dash-cell">—</td></tr>
-        <tr><td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td></td><td>+1 level of existing class</td></tr>
-        <tr><td>3rd</td><td>+1</td><td>+3</td><td>+1</td><td>+3</td><td></td><td>+1 level of existing class</td></tr>
-        <tr><td>4th</td><td>+2</td><td>+4</td><td>+1</td><td>+4</td><td></td><td>+1 level of existing class</td></tr>
-        <tr><td>5th</td><td>+2</td><td>+4</td><td>+1</td><td>+4</td><td></td><td>+1 level of existing class</td></tr>
+        <tr><td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td>Undead Manipulator</td><td>+1 level of existing class</td></tr>
+        <tr><td>3rd</td><td>+1</td><td>+3</td><td>+1</td><td>+3</td><td>Negative Energy Conduit</td><td>+1 level of existing class</td></tr>
+        <tr><td>4th</td><td>+2</td><td>+4</td><td>+1</td><td>+4</td><td>Death's Shroud, Negative Energy Affinity</td><td>+1 level of existing class</td></tr>
+        <tr><td>5th</td><td>+2</td><td>+4</td><td>+1</td><td>+4</td><td>Secrets of Death, Undeath Initiate</td><td>+1 level of existing class</td></tr>
     </tbody>
 </table>
 
