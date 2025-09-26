@@ -32,7 +32,7 @@ Unlike common necromancers who seek to command the undead as mere tools, the Lic
 
 **Hit Die:** d6
 
-# Requirements
+## Requirements
 To qualify to become a Lich Ascendant, a character must fulfill all the following criteria.
 
 **Alignment:** Any evil.

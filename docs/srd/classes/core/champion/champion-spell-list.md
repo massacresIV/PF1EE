@@ -15,7 +15,7 @@
 - Stabilize
 - Virtue
 
-## 1st-Level Champion Spells (Orisons)
+## 1st-Level Champion Spells
 - Animal Purpose Training
 - Aspect of the Nightingale
 - Bane
@@ -114,8 +114,8 @@
 - Weapons Against Evil
 - Word of Resolve
 
-## 2nd-Level Champion Spells (Orisons)
+## 2nd-Level Champion Spells
 
-## 3rd-Level Champion Spells (Orisons)
+## 3rd-Level Champion Spells
 
-## 4th-Level Champion Spells (Orisons)
+## 4th-Level Champion Spells
