@@ -121,6 +121,36 @@ If you ever fail to perform a daily obedience, you lose all access to the benefi
 **Benefit:** When you use your Fervor ability to heal damage on a target that can benefit from your Mercies, and the target has no conditions your Mercies can remove, it instead heals an additional +1d6 points of damage.`
 },
 {
+    id: "hellknight-obedience",
+    name: "Hellknight Obedience",
+    categories: ["General Feats"],
+    prerequisites: "Knowledge (planes) 3 ranks, must swear allegiance to a single Hellknight order.",
+    changes: `Added fast-tracking boon acquisition through prestige class levels, matching the rates of the deific obedience prestige class counter parts.`,
+    markdownContent: `# Hellknight Obedience
+*Performing daily Hellknight reckonings grants you special boons.*
+
+**Prerequisites:** Knowledge (planes) 3 ranks, must swear allegiance to a single Hellknight order.
+
+**Benefit:** Upon taking this feat, you gain proficiency in all of your Hellknight order’s favored weapons. Additionally, by meditating and inflicting strenuous reckonings upon yourself, you unlock the power behind your order’s doctrine. Each Hellknight order has its own unique reckoning—a trial of obedience and pain. When coupled with the necessary reflection and meditation, this reckoning takes 1 hour per day to perform. Once you have performed your order’s reckoning, you gain the benefit of a special ability as indicated in the Reckoning entry for the Hellknight order to which you’ve sworn allegiance.
+
+If you have at least 12 Hit Dice, you also gain the first boon granted by the Hellknight order.
+
+If you have at least 16 Hit Dice, you also gain the Hellknight order’s second boon. If you have 20 Hit Dice or more, you also gain the Hellknight order’s third boon. Unless a specific duration or number of uses per day is listed in a boon’s description, the boon’s effects are constant.
+
+If you have levels in the Hellknight or Hellknight Signifer prestige classes, each level you possess in either prestige class counts as 1 1/3 Hit Dice plus a base of 3 for the purpose of determining when you gain your boons. These effective Hit Dice are added to any other Hit Dice from other classes to determine your total Hit Dice for boon progression.
+
+If you ever fail to perform a daily reckoning, you lose all access to the benefits and boons granted by this feat until you next perform the reckoning.
+
+You can take this feat only if you are associated with a Hellknight order, whether you’re in training to become a Hellknight, already a member, or otherwise aligned with the order—the specifics are left to you and the GM to determine. Once per year, you can change your Hellknight allegiance, but doing so requires the approval of the Hellknight order you wish to join. If you are ever cast out of the Hellknight order to which you’ve sworn allegiance, you lose the benefits of this feat until you restore yourself in the Hellknights’ esteem. The details of this are left to the GM’s discretion.
+
+## Reckonings
+Similar to an ascetic’s flagellations or a champion’s atonement, Hellknight reckonings are rites of mortification a Hellknight uses to focus her mind, excise unwanted thoughts, and bring herself closer to the champion of law her order idealizes. A reckoning is typically a personal matter, performed in private by a willing, unarmored Hellknight while she meditates on some aspect of the Measure and the Chain.
+
+Hellknights are assumed to police their own thoughts and perform reckonings as necessary. If a Hellknight doesn’t regularly perform reckonings as part of her scheduled meditations, she doesn’t lose any abilities or suffer negative effects—however, she might be censured by her fellow Hellknights if they learn of this dereliction.
+
+**Performing a Reckoning:** Performing the physical component of a reckoning typically takes 10 minutes and deals 1d4 points of nonlethal damage. A particularly righteous or conflicted Hellknight might choose to perform a longer, more extreme version of a reckoning. In this case, the reckoning deals 1d4 additional points of lethal damage. A devoted Hellknight with the Hellknight Obedience feat can undergo an hour-long nonlethal reckoning to gain the benefit of a special ability, in addition to boons available for those with 12, 16, or 20 Hit Dice. See the major Hellknight orders for descriptions of their specific reckonings and the boons these provide. Additionally, Hellknights with the Hellknight Obsession feat who choose to deal the lethal damage to themselves can access a suite of beneficial effects. The damage a reckoning deals cannot be reduced by any damage reduction or other ability or effect.`,
+},
+{
     id: "natural-spell",
     name: "Natural Spell",
     categories: ["General Feats"],

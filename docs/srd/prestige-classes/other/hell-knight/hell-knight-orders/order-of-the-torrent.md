@@ -1,0 +1,42 @@
+# Order of the Torrent
+
+**Analagous Order:** Order of the Scourge
+
+**Symbol:** Twisted, armored eel
+
+**Headquarters:** Citadel Vaull, Kintargo
+
+**Leader:** Lictor Octavio Sabinus
+
+**Members:** Constables, Detectives, Negotiators
+
+**Armor Features:** Aquatic themes with fin-shaped flourishes
+
+**Favored Weapon:** Halberd or Longbow
+
+## Tenants
+- I will hunt down those who pervert the law to serve selfish ends.
+- Laws are not lawful merely by virtue of being laws; they must be examined lest they be corrupted.
+- Those who don’t fear justice will fear me.
+- A broken law is a broken vow, and penance must be paid in blood.
+- My fist will strike only the enemies of order, not their neighbors if they are innocents.
+- I will be mindful of danger, for every street and hall is a battlefield.
+- In my armor or without it, I am first and always a Hellknight.
+
+## Reckoning 
+Suffer simulated drowning or extreme holding of the breath. Take 1 fewer point of bleed damage per round when you are affected by an ability or effect that causes bleed damage and gain a +4 bonus on Heal checks to stop bleeding.
+
+## Boons - Hellknight Obedience
+
+### 1: Spill Guilty Blood (Sp)
+The end of a lawbreaker invigorates you like nothing else. Twice per day, you can cast *death knell* as a spell-like ability, using your character level as your caster level (DC = 12 + your Charisma modifier). If you do not have a caster level, instead of a +1 increase in effective caster level, this ability provides you a +1 bonus on attack and damage rolls for 10 minutes per Hit Die of the target. If you have a caster level, you can choose to gain this bonus on attack and damage rolls instead of to your effective caster level.
+
+### 2: Terrible Justice (Sp)
+You end a foe’s life with a brutal display of force. Three times per day, when you perform a coup de grace, all foes within 30 feet must succeed at a Will saving throw or be affected as per the spell fear (DC = 14 + your Charisma modifier).
+
+### 3: Reason to Fear (Su)
+You fear nothing, as you know you are a source of nightmares. You are immune to fear (magical or otherwise). Three times per day, when you are the target of a fear effect or within a fear effect’s area, you can target the creature from which the fear effect originated with a *phantasmal killer* spell effect (DC = 14 + your Charisma modifier) as a free action when you strike it with a weapon. You must deal at least 1 point of damage to use this ability. This functions in all other ways as if your weapon were a spell storing weapon with a *phantasmal killer spell* stored within.
+
+---
+
+The Hellknights of the Order of the Torrent were mandated in the wake of the Chelish Civil War after the order’s founder, Reya Naulvaneti, rescued the abducted son of Kintargo’s then lord-mayor. In honor of this accomplishment, the Order of the Torrent has focused itself on rescuing the abducted. The Order of the Torrent appeals to lawful good Hellknights—they have never knowingly had an evil member among their ranks. The order has diminished in recent years to a historic low of 23 members. Most of them are spread throughout Avistan, where they search for the lost and taken throughout the Inner Sea region, but they also often serve as mercenaries aboard ships in waters sailed by slavers.
