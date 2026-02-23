@@ -12,7 +12,7 @@ import { caligniRacialTraits } from "@site/src/data/racial-traits/caligni-racial
 - **Size:** Caligni are Medium creatures and thus receive no bonuses or penalties due to their size.
 - **Hit Points:** Calignis are resilient, gaining an additional 8 hit points at 1st level.
 - **Speed:** Calignis have a base speed of 30 feet.
-- **Languages:** Calignis begin play speaking Common and Caligni. Calignis with high Intelligence scores can choose from the following: Dwarven, Giant, Gnoll, Goblin, Undercommon.
+- **Languages:** Calignis begin play speaking Common and Dark Folk. Calignis with high Intelligence scores can choose from the following: Dwarven, Giant, Gnome, Goblin, Undercommon.
 
 ### Radiant Reprisal (Su)
 As a standard action, a Caligni can absorb radiance from a single natural or magical light source within 30 feet that it can see. The light source must be sunlight, moonlight, starlight, or light created by a spell, spell-like ability, or supernatural effect. Absorbing radiance reduces the light level created by that source by one step (bright light becomes normal light, normal light becomes dim light) for 1 round. A Caligni can store only one instance of absorbed radiance at a time.
