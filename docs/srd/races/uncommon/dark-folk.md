@@ -25,7 +25,7 @@ You select a lineage at 1st level to reflect abilities passed down to you from y
 ### Caligni
 Caligni gain the following racial traits;
 - **Dark Magic (3 RP):** Caligni gain the following spell-like abilities: At Will—*detect magic*; 1/day—*darkness*. The caster level for these effects is equal to the Caligni’s level. The DC for these spell-like abilities is equal to 10 + the spell’s level + the Caligni’s Charisma modifier.
-- **Death Throes (1 RP):** When a Caligni is slain, its body combusts in a flash of searing light. All creatures within a 5-foot burst must succeed at a Fortitude save (DC = 10 + 1/2 the Caligni’s Hit Dice + the Caligni’s Constitution bonus) or be dazzled for 1d4 rounds. The corpse left behind is a third of the Caligni’s size, withered and unrecognizable as the individual. Raise dead and similar spells cast upon these remains restore a Caligni as normal.
+- **Death Throes (1 RP):** When a Caligni is slain, its body combusts in a flash of searing light. All creatures within a 10-foot burst must succeed at a Fortitude save (DC = 10 + 1/2 the Caligni’s Hit Dice + the Caligni’s Constitution bonus) or be blinded for 1d6 rounds. The corpse left behind is a third of the Caligni’s size, withered and unrecognizable as the individual. Raise dead and similar spells cast upon these remains restore a Caligni as normal.
 
 ---
 
